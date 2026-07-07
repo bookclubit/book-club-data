@@ -1,0 +1,12 @@
+{
+  "id": "docker-intro",
+  "title": "Docker. Вводный курс",
+  "title_original": "Docker: Up & Running",
+  "edition": 3,
+  "authors": ["Sean P. Kane", "Karl Matthias"],
+  "status": "reading",
+  "cover": "/media/covers/docker-intro.webp",
+  "tags": ["docker", "devops", "containers"],
+  "description": "Вводный курс по Docker: от основ контейнеризации до оркестрации и продакшен-развертывания.",
+  "total_chapters": 8
+}
