@@ -1,0 +1,42 @@
+[
+  {
+    "id": "docker-001",
+    "type": "qa",
+    "question": "Чем контейнер отличается от виртуальной машины?",
+    "answer": "Контейнеры разделяют ядро ОС с хостом и изолируют только процессы, сеть и файловую систему. VM требует гипервизор и отдельную ОС для каждого экземпляра, что потребляет больше ресурсов.",
+    "chapter": "1",
+    "difficulty": "easy"
+  },
+  {
+    "id": "docker-002",
+    "type": "qa",
+    "question": "Что такое Docker Daemon и как с ним взаимодействовать?",
+    "answer": "Docker Daemon (dockerd) — фоновый процесс, управляющий контейнерами, образами, сетями и томами. Взаимодействие через Docker Client (CLI) посредством REST API через UNIX-сокет или TCP.",
+    "chapter": "1",
+    "difficulty": "easy"
+  },
+  {
+    "id": "docker-003",
+    "type": "command",
+    "command": "docker run -d -p 8080:80 --name web nginx",
+    "result": "Запускает контейнер с nginx в фоновом режиме, пробрасывает порт 8080 хоста на порт 80 контейнера, даёт контейнеру имя 'web'",
+    "chapter": "1",
+    "difficulty": "medium"
+  },
+  {
+    "id": "docker-004",
+    "type": "qa",
+    "question": "В чём разница между docker stop и docker kill?",
+    "answer": "docker stop отправляет SIGTERM, давая процессу внутри контейнера время на graceful shutdown (по умолчанию 10 секунд), затем SIGKILL. docker kill сразу отправляет SIGKILL без ожидания.",
+    "chapter": "1",
+    "difficulty": "medium"
+  },
+  {
+    "id": "docker-005",
+    "type": "command",
+    "command": "docker exec -it web bash",
+    "result": "Запускает интерактивный bash внутри уже работающего контейнера с именем 'web'",
+    "chapter": "1",
+    "difficulty": "easy"
+  }
+]
