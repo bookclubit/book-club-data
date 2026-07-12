@@ -3,7 +3,10 @@
   "title": "Docker. Вводный курс",
   "title_original": "Docker: Up & Running",
   "edition": 3,
-  "authors": ["Sean P. Kane", "Karl Matthias"],
+  "authors": [
+    { "name": "Sean P. Kane", "avatar": "/media/authors/sean-kane.webp" },
+    { "name": "Karl Matthias", "avatar": "/media/authors/karl-matthias.webp" }
+  ],
   "status": "reading",
   "cover": "/media/covers/docker-intro.webp",
   "tags": ["docker", "devops", "containers"],
