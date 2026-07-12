@@ -1,0 +1,12 @@
+{
+  "id": "closed-2026-07-20-docker-01",
+  "type": "closed-chapter",
+  "title": "Разбор главы 1 «Введение в Docker»",
+  "date": "2026-07-20",
+  "time": "19:00",
+  "timezone": "Europe/Moscow",
+  "book_id": "docker-intro",
+  "chapter": "01-vvedenie",
+  "pages": { "from": 1, "to": 24 },
+  "notes_board_url": "https://miro.com/app/board/EXAMPLE/"
+}

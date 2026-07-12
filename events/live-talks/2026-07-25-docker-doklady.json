@@ -1,0 +1,27 @@
+{
+  "id": "live-2026-07-25-docker",
+  "type": "live-talk",
+  "title": "Открытый эфир: Docker на практике",
+  "date": "2026-07-25",
+  "time": "19:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/EXAMPLE",
+    "vk": "https://vk.com/video/EXAMPLE"
+  },
+  "talks": [
+    {
+      "title": "Жизненный цикл контейнера от А до Я",
+      "speaker": "Антон Помазков",
+      "speaker_id": "pomazkov-anton",
+      "avatar": "/media/speakers/pomazkov-anton.webp"
+    },
+    {
+      "title": "Docker в CI/CD: сборка и деплой образов",
+      "speaker": "Артём Никифоров",
+      "speaker_id": "nikiforov-artem",
+      "avatar": "/media/speakers/nikiforov-artem.webp"
+    }
+  ],
+  "registration_url": "https://example.com/register"
+}
