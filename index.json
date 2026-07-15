@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "active_book": "docker-up-and-running",
+  "books": [
+    {
+      "folder": "docker-up-and-running",
+      "id": "docker-intro",
+      "title": "Docker. Вводный курс",
+      "status": "reading",
+      "chapters": [
+        "01-vvedenie"
+      ]
+    },
+    {
+      "folder": "fluent-react",
+      "id": "fluent-react",
+      "title": "Fluent React",
+      "status": "planned",
+      "chapters": []
+    }
+  ],
+  "events": [
+    "closed-chapters/2026-07-20-docker-glava-01.json",
+    "live-talks/2026-07-25-docker-doklady.json"
+  ],
+  "speakers": [
+    {
+      "id": "nikiforov-artem",
+      "name": "Артём Никифоров",
+      "aliases": [
+        "Артём",
+        "Артём Никифоров"
+      ],
+      "avatar": "/media/speakers/nikiforov-artem.webp"
+    },
+    {
+      "id": "pomazkov-anton",
+      "name": "Антон Помазков",
+      "aliases": [
+        "Антон",
+        "Антон Помазков"
+      ],
+      "avatar": "/media/speakers/pomazkov-anton.webp"
+    }
+  ]
+}
