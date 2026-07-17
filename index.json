@@ -9,7 +9,8 @@
       "status": "reading",
       "chapters": [
         "01-vvedenie"
-      ]
+      ],
+      "category": "tools"
     },
     {
       "folder": "fluent-react",
