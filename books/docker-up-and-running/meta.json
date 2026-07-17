@@ -4,12 +4,19 @@
   "title_original": "Docker: Up & Running",
   "edition": 3,
   "authors": [
-    { "name": "Sean P. Kane", "avatar": "/media/authors/sean-kane.webp" },
-    { "name": "Karl Matthias", "avatar": "/media/authors/karl-matthias.webp" }
+    {
+      "name": "Шон П. Кейн",
+      "avatar": "/media/authors/sean-kane.webp"
+    },
+    {
+      "name": "Карл Маттиас",
+      "avatar": "/media/authors/karl-matthias.webp"
+    }
   ],
   "status": "reading",
+  "category": "tools",
   "cover": "/media/covers/docker-intro.webp",
-  "tags": ["docker", "devops", "containers"],
-  "description": "Вводный курс по Docker: от основ контейнеризации до оркестрации и продакшен-развертывания.",
-  "total_chapters": 8
+  "tags": [],
+  "description": "Это практическое руководство по Docker и Linux-контейнерам, которое дает разработчикам, администраторам, архитекторам и техническим менеджерам полное понимание инструментов Docker и того, как контейнеры могут улучшить практически все аспекты современной разработки, поставки и управления программным обеспечением",
+  "total_chapters": 14
 }
