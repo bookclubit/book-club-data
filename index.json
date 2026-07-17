@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "active_book": "ai-engineering",
+  "active_book": "fluent-react",
   "books": [
     {
       "folder": "docker-up-and-running",
@@ -15,9 +15,10 @@
     {
       "folder": "fluent-react",
       "id": "fluent-react",
-      "title": "Fluent React",
-      "status": "planned",
-      "chapters": []
+      "title": "React. К вершинам мастерства",
+      "status": "reading",
+      "chapters": [],
+      "category": "frameworks"
     },
     {
       "folder": "ai-engineering",
