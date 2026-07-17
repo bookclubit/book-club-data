@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "active_book": "docker-up-and-running",
+  "active_book": "ai-engineering",
   "books": [
     {
       "folder": "docker-up-and-running",
@@ -8,15 +8,23 @@
       "title": "Docker. Вводный курс",
       "status": "reading",
       "chapters": [
-        "01-vvedenie"
-      ],
-      "category": "tools"
+        "01-vvedenie",
+        "09-perehod-na-konteynery-v-rabochey-srede"
+      ]
     },
     {
       "folder": "fluent-react",
       "id": "fluent-react",
       "title": "Fluent React",
       "status": "planned",
+      "chapters": []
+    },
+    {
+      "folder": "ai-engineering",
+      "id": "ai-engineering",
+      "title": "AI-инженерия",
+      "status": "reading",
+      "category": "ai",
       "chapters": []
     }
   ],
