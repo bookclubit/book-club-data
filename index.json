@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "active_book": "docker-up-and-running",
+  "active_book": "ai-engineering",
   "books": [
     {
       "folder": "docker-up-and-running",
@@ -17,6 +17,14 @@
       "id": "fluent-react",
       "title": "Fluent React",
       "status": "planned",
+      "chapters": []
+    },
+    {
+      "folder": "ai-engineering",
+      "id": "ai-engineering",
+      "title": "AI-инженерия",
+      "status": "reading",
+      "category": "ai",
       "chapters": []
     }
   ],
