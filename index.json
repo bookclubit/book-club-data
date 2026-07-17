@@ -8,7 +8,8 @@
       "title": "Docker. Вводный курс",
       "status": "reading",
       "chapters": [
-        "01-vvedenie"
+        "01-vvedenie",
+        "09-perehod-na-konteynery-v-rabochey-srede"
       ]
     },
     {
