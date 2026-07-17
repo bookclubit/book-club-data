@@ -1,14 +1,18 @@
 {
   "id": "fluent-react",
-  "title": "Fluent React",
+  "title": "React. К вершинам мастерства",
   "title_original": "Fluent React: Build Fast, Performant, and Intuitive Web Applications",
   "edition": 1,
   "authors": [
-    { "name": "Tejas Kumar", "avatar": "/media/authors/tejas-kumar.webp" }
+    {
+      "name": "Теджас Кумар",
+      "avatar": "/media/authors/tejas-kumar.webp"
+    }
   ],
-  "status": "planned",
+  "status": "reading",
+  "category": "frameworks",
   "cover": "/media/covers/fluent-react.webp",
-  "tags": ["react", "frontend", "javascript", "performance"],
+  "tags": [],
   "description": "Глубокое погружение во внутреннее устройство React: JSX и продвинутые паттерны, виртуальный DOM и реконциляция, серверный рендеринг, конкурентный режим и серверные компоненты.",
-  "total_chapters": 13
+  "total_chapters": 11
 }
