@@ -1,0 +1,32 @@
+{
+  "id": "closed-2026-07-18-razbor-glavy-1-osnovy-sozdaniya-ai-prilozheniy-s-ispolzovaniem-bazovyh-modeley",
+  "type": "closed-chapter",
+  "title": "Разбор главы 1 «Основы создания AI-приложений с использованием базовых моделей»",
+  "date": "2026-07-18",
+  "time": "22:00",
+  "timezone": "Europe/Moscow",
+  "book_id": "ai-engineering",
+  "chapter": "01-osnovy-sozdaniya-ai-prilozheniy-s-ispolzovaniem-bazovyh-modeley",
+  "pages": {
+    "from": 1,
+    "to": 78
+  },
+  "notes_board_url": "https://meet.google.com/etm-rdbx-rku",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/14rnCeZGO4Q?si=M_rWaQtiWLP7-xtM",
+    "vk": "https://vkvideo.ru/video-226486590_456239243?list=ln-LUHZwUsagbRDJJaiZ7"
+  },
+  "moderators": [
+    {
+      "speaker_id": "pomazkov-anton",
+      "name": "Антон Помазков",
+      "avatar": "/media/speakers/pomazkov-anton.webp"
+    },
+    {
+      "speaker_id": "nikiforov-artem",
+      "name": "Артём Никифоров",
+      "avatar": "/media/speakers/nikiforov-artem.webp"
+    }
+  ],
+  "call_url": "https://meet.google.com/etm-rdbx-rku"
+}
