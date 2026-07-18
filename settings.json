@@ -1,7 +1,10 @@
 {
   "version": 1,
   "socials": {
-    "telegram": "https://t.me/bookclubfrontbot",
+    "telegram": "https://t.me/booksclubfrontend",
+    "youtube": "https://www.youtube.com/@pomazkovclub",
+    "vk": "https://vkvideo.ru/@pomazkovclub",
+    "boosty": "https://boosty.to/booksclub",
     "github": "https://github.com/bookclubit"
   }
 }
