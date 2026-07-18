@@ -11,13 +11,15 @@
       "title": "Восход AI-инженерии",
       "speaker": "Антон Помазков",
       "speaker_id": "pomazkov-anton",
-      "avatar": "/media/speakers/pomazkov-anton.webp"
+      "avatar": "/media/speakers/pomazkov-anton.webp",
+      "topic_id": "ai-engineering-1-1"
     },
     {
       "title": "Сценарии использования базовой модели",
-      "speaker": "Артём Никифоров",
-      "speaker_id": "nikiforov-artem",
-      "avatar": "/media/speakers/nikiforov-artem.webp"
+      "speaker": "Антон Помазков",
+      "speaker_id": "pomazkov-anton",
+      "avatar": "/media/speakers/pomazkov-anton.webp",
+      "topic_id": "ai-engineering-1-2"
     }
   ],
   "book_id": "ai-engineering",
