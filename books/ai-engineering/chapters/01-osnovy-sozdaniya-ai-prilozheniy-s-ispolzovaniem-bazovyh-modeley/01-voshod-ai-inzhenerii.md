@@ -8,5 +8,3 @@ presentation: ""
 resources: []
 speakers: []
 ---
-
-

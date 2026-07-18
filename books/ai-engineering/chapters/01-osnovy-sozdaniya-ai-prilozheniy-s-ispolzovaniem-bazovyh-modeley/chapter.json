@@ -6,10 +6,13 @@
   "topics": [
     {
       "id": "ai-engineering-1-1",
-      "title": "Сценарии использования базовой модели",
-      "file": "01-scenarii-ispolzovaniya-bazovoy-modeli.md"
       "title": "Восход AI-инженерии",
       "file": "01-voshod-ai-inzhenerii.md"
+    },
+    {
+      "id": "ai-engineering-1-2",
+      "title": "Сценарии использования базовой модели",
+      "file": "02-scenarii-ispolzovaniya-bazovoy-modeli.md"
     }
   ]
 }
