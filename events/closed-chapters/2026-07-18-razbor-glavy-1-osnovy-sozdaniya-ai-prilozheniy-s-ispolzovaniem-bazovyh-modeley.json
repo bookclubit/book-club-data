@@ -11,7 +11,7 @@
     "from": 1,
     "to": 78
   },
-  "notes_board_url": "https://meet.google.com/etm-rdbx-rku",
+  "notes_board_url": "https://excalidraw.com/#json=ihiycRGRzoH7ix5MOlETg,8_sdbOs6f1nEDq-ZLc8nng",
   "streams": {
     "youtube": "https://www.youtube.com/live/14rnCeZGO4Q?si=M_rWaQtiWLP7-xtM",
     "vk": "https://vkvideo.ru/video-226486590_456239243?list=ln-LUHZwUsagbRDJJaiZ7"
@@ -28,5 +28,6 @@
       "avatar": "/media/speakers/nikiforov-artem.webp"
     }
   ],
-  "call_url": "https://meet.google.com/etm-rdbx-rku"
+  "call_url": "https://meet.google.com/etm-rdbx-rku",
+  "finished": true
 }
