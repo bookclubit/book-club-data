@@ -1,0 +1,26 @@
+{
+  "id": "live-2026-07-24-osnovy-sozdaniya-ai-prilozheniy-s-ispolzovaniem-bazovyh-modeley",
+  "type": "live-talk",
+  "title": "Основы создания AI-приложений с использованием базовых моделей",
+  "date": "2026-07-24",
+  "time": "23:00",
+  "timezone": "Europe/Moscow",
+  "streams": {},
+  "talks": [
+    {
+      "title": "Восход AI-инженерии",
+      "speaker": "Антон Помазков",
+      "speaker_id": "pomazkov-anton",
+      "avatar": "/media/speakers/pomazkov-anton.webp"
+    },
+    {
+      "title": "Сценарии использования базовой модели",
+      "speaker": "Артём Никифоров",
+      "speaker_id": "nikiforov-artem",
+      "avatar": "/media/speakers/nikiforov-artem.webp"
+    }
+  ],
+  "book_id": "ai-engineering",
+  "chapter": "01-osnovy-sozdaniya-ai-prilozheniy-s-ispolzovaniem-bazovyh-modeley",
+  "stream": 114
+}
