@@ -13,6 +13,16 @@
       "id": "ai-engineering-1-2",
       "title": "Сценарии использования базовой модели",
       "file": "02-scenarii-ispolzovaniya-bazovoy-modeli.md"
+    },
+    {
+      "id": "ai-engineering-1-3",
+      "title": "Планирование AI-приложений",
+      "file": "03-planirovanie-ai-prilozheniy.md"
+    },
+    {
+      "id": "ai-engineering-1-4",
+      "title": "Стек AI-инженерии",
+      "file": "04-stek-ai-inzhenerii.md"
     }
   ]
 }
