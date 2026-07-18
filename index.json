@@ -43,7 +43,10 @@
         "Артём",
         "Артём Никифоров"
       ],
-      "avatar": "/media/speakers/nikiforov-artem.webp"
+      "avatar": "/media/speakers/nikiforov-artem.webp",
+      "socials": {
+        "telegram": "https://t.me/Frich22"
+      }
     },
     {
       "id": "pomazkov-anton",
