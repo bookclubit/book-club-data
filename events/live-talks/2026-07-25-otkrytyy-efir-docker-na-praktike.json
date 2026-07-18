@@ -1,5 +1,5 @@
 {
-  "id": "live-2026-07-25-docker",
+  "id": "live-2026-07-25-otkrytyy-efir-docker-na-praktike",
   "type": "live-talk",
   "title": "Открытый эфир: Docker на практике",
   "date": "2026-07-25",
@@ -23,5 +23,7 @@
       "avatar": "/media/speakers/nikiforov-artem.webp"
     }
   ],
-  "registration_url": "https://example.com/register"
+  "registration_url": "https://example.com/register",
+  "book_id": "docker-intro",
+  "chapter": "09-perehod-na-konteynery-v-rabochey-srede"
 }
