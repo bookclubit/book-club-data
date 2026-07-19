@@ -14,7 +14,7 @@ books/<slug>/
     chapter.json                  # индекс главы: order, title, description, learning_outcome, topics[]
     <MM-slug>.md                  # тема: frontmatter (video_youtube, video_vk, presentation, resources, speakers) + описание/инсайты
 events/
-  closed-chapters/*.json          # «открытое обсуждение» главы: книга, глава, pages{from,to}, notes_board_url (доска — ссылка или файл media/boards), streams{youtube,vk}, call_url (Google Meet), moderators[{speaker_id,name,avatar}], materials[{title,url}], finished
+  closed-chapters/*.json          # «открытое обсуждение» главы: книга, глава, pages{from,to}, notes_board_url (доска — ссылка или файл media/boards), streams{youtube,vk}, call_url (Google Meet), stream (номер эфира → «Книжный клуб N»), moderators[{speaker_id,name,avatar}], materials[{title,url}], finished
   live-talks/*.json               # «доклады» (чистовая запись докладов): streams{youtube,vk}, talks[{title, speaker, avatar, topic_id (тема главы), slides_url (презентация talks)}], materials, book_id+chapter (программа — темы главы становятся слотами докладов), stream (номер стрима для talks BC-<stream>-…), finished; call_url и registration_url НЕ используются (регистрация — через бота)
 media/
   covers/*.webp                   # обложки книг
