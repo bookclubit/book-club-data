@@ -6,15 +6,7 @@
   "time": "23:00",
   "timezone": "Europe/Moscow",
   "streams": {},
-  "talks": [
-    {
-      "title": "Сценарии использования базовой модели",
-      "speaker": "Антон Помазков",
-      "speaker_id": "pomazkov-anton",
-      "avatar": "/media/speakers/pomazkov-anton.webp",
-      "topic_id": "ai-engineering-1-2"
-    }
-  ],
+  "talks": [],
   "book_id": "ai-engineering",
   "chapter": "01-osnovy-sozdaniya-ai-prilozheniy-s-ispolzovaniem-bazovyh-modeley",
   "stream": 114
