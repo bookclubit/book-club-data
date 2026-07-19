@@ -55,7 +55,10 @@
         "Антон",
         "Антон Помазков"
       ],
-      "avatar": "/media/speakers/pomazkov-anton.webp"
+      "avatar": "/media/speakers/pomazkov-anton.webp",
+      "socials": {
+        "telegram": "https://t.me/kunjutone"
+      }
     }
   ]
 }
