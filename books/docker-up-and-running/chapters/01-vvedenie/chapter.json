@@ -11,7 +11,7 @@
     },
     {
       "id": "docker-intro-1-2",
-      "title": "Архитектура Docker",
+      "title": "В чем Docker не поможет",
       "file": "02-arhitektura-docker.md"
     },
     {
