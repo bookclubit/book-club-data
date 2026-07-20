@@ -1,0 +1,16 @@
+{
+  "id": "live-2025-08-29-vvedenie",
+  "type": "live-talk",
+  "title": "Введение",
+  "date": "2025-08-29",
+  "time": "23:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/watch?v=VeIXoff-d1s",
+    "vk": "https://vkvideo.ru/video-226486590_456239174"
+  },
+  "talks": [],
+  "book_id": "docker-intro",
+  "chapter": "01-vvedenie",
+  "stream": 86
+}
