@@ -3,5 +3,56 @@
   "title": "Сбор информации в Docker",
   "description": "Глава о инструментах Docker для наблюдения и диагностики: как получать сведения о сервере, контейнерах, образах, журналах и метриках в процессе разработки и эксплуатации.",
   "learning_outcome": "Как проверять версии клиента и сервера, изучать конфигурацию через docker system info и docker container inspect, обновлять образы (включая pull по SHA-256 digest), запускать команды в работающих контейнерах через docker container exec и возвращать результаты. Освоишь работу с томами, настройку журналирования (json-file, syslog, fluentd и другие драйверы), а также мониторинг: docker container stats, docker system events, healthchecks, cAdvisor и интеграцию с Prometheus.",
-  "topics": []
+  "topics": [
+    {
+      "id": "docker-intro-6-1",
+      "title": "Просмотр версии Docker",
+      "file": "01-prosmotr-versii-docker.md"
+    },
+    {
+      "id": "docker-intro-6-2",
+      "title": "Информация о сервере",
+      "file": "02-informaciya-o-servere.md"
+    },
+    {
+      "id": "docker-intro-6-3",
+      "title": "Загрузка обновлений образов",
+      "file": "03-zagruzka-obnovleniy-obrazov.md"
+    },
+    {
+      "id": "docker-intro-6-4",
+      "title": "Изучение контейнера",
+      "file": "04-izuchenie-konteynera.md"
+    },
+    {
+      "id": "docker-intro-6-5",
+      "title": "Изучение командной оболочки",
+      "file": "05-izuchenie-komandnoy-obolochki.md"
+    },
+    {
+      "id": "docker-intro-6-6",
+      "title": "Возврат результата",
+      "file": "06-vozvrat-rezultata.md"
+    },
+    {
+      "id": "docker-intro-6-7",
+      "title": "Что происходит в контейнере",
+      "file": "07-chto-proishodit-v-konteynere.md"
+    },
+    {
+      "id": "docker-intro-6-8",
+      "title": "Журналирование",
+      "file": "08-zhurnalirovanie.md"
+    },
+    {
+      "id": "docker-intro-6-9",
+      "title": "Мониторинг в Docker",
+      "file": "09-monitoring-v-docker.md"
+    },
+    {
+      "id": "docker-intro-6-10",
+      "title": "Мониторинг с помощью Prometheus",
+      "file": "10-monitoring-s-pomoschyu-prometheus.md"
+    }
+  ]
 }
