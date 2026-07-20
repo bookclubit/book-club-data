@@ -1,0 +1,7 @@
+{
+  "order": 6,
+  "title": "Сбор информации в Docker",
+  "description": "Глава о инструментах Docker для наблюдения и диагностики: как получать сведения о сервере, контейнерах, образах, журналах и метриках в процессе разработки и эксплуатации.",
+  "learning_outcome": "Как проверять версии клиента и сервера, изучать конфигурацию через docker system info и docker container inspect, обновлять образы (включая pull по SHA-256 digest), запускать команды в работающих контейнерах через docker container exec и возвращать результаты. Освоишь работу с томами, настройку журналирования (json-file, syslog, fluentd и другие драйверы), а также мониторинг: docker container stats, docker system events, healthchecks, cAdvisor и интеграцию с Prometheus.",
+  "topics": []
+}
