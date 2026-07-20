@@ -6,12 +6,12 @@
   "topics": [
     {
       "id": "docker-intro-1-1",
-      "title": "Почему Docker?",
+      "title": "Ожидания от Docker",
       "file": "01-pochemu-docker.md"
     },
     {
       "id": "docker-intro-1-2",
-      "title": "Архитектура Docker",
+      "title": "В чем Docker не поможет",
       "file": "02-arhitektura-docker.md"
     },
     {
