@@ -6,7 +6,7 @@
   "topics": [
     {
       "id": "docker-intro-1-1",
-      "title": "Почему Docker?",
+      "title": "Ожидания от Docker",
       "file": "01-pochemu-docker.md"
     },
     {
