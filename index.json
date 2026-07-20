@@ -9,6 +9,7 @@
       "status": "reading",
       "chapters": [
         "01-vvedenie",
+        "02-obschie-svedeniya-o-docker",
         "03-ustanovka-docker",
         "04-rabota-s-obrazami-docker",
         "05-rabota-s-konteynerami",
