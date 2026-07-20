@@ -9,6 +9,7 @@
       "status": "reading",
       "chapters": [
         "01-vvedenie",
+        "06-sbor-informacii-v-docker",
         "07-otladka-konteynerov",
         "08-principy-raboty-docker-compose",
         "09-perehod-na-konteynery-v-rabochey-srede"
