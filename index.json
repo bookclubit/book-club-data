@@ -17,7 +17,9 @@
       "id": "fluent-react",
       "title": "React. К вершинам мастерства",
       "status": "reading",
-      "chapters": [],
+      "chapters": [
+        "01-obzor-dlya-nachinayuschih"
+      ],
       "category": "frameworks"
     },
     {
