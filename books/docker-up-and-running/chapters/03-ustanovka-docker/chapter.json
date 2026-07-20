@@ -1,0 +1,7 @@
+{
+  "order": 3,
+  "title": "Установка Docker",
+  "description": "Глава об установке и настройке Docker на разных платформах: от выбора варианта (Docker Desktop, Community Edition, Vagrant) до запуска сервера и тестирования установки.",
+  "learning_outcome": "Как установить клиент Docker на Linux (Ubuntu, Fedora), macOS и Windows, настроить сервер Docker через systemd или Vagrant для виртуальных машин, переключаться между контекстами с помощью docker context, тестировать установку запуском контейнеров Ubuntu, Fedora и Alpine, а также работать с конфигурацией демона через daemon.json и nsenter для доступа к базовой виртуальной машине.",
+  "topics": []
+}
