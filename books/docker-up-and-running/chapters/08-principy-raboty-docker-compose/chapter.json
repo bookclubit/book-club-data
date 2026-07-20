@@ -3,5 +3,31 @@
   "title": "Принципы работы Docker Compose",
   "description": "Глава о Docker Compose — инструменте, который заменяет хрупкие shell-скрипты одним декларативным YAML-файлом для запуска и управления многоконтейнерными приложениями.",
   "learning_outcome": "Почему вручную оркестровать контейнеры через bash — больно и невоспроизводимо, и как docker-compose.yaml решает это через секции services, networks, volumes и depends_on с healthchecks. Освоишь запуск, отладку и остановку целого стека (на примере Rocket.Chat + MongoDB + Hubot), а также гибкую конфигурацию: переменные окружения, значения по умолчанию, обязательные параметры и файл `.env` для секретов.",
-  "topics": []
+  "topics": [
+    {
+      "id": "docker-intro-8-1",
+      "title": "Настройка Docker Compose",
+      "file": "01-nastroyka-docker-compose.md"
+    },
+    {
+      "id": "docker-intro-8-2",
+      "title": "Запуск сервисов",
+      "file": "02-zapusk-servisov.md"
+    },
+    {
+      "id": "docker-intro-8-3",
+      "title": "Принципы работы Rocket.Chat",
+      "file": "03-principy-raboty-rocket-chat.md"
+    },
+    {
+      "id": "docker-intro-8-4",
+      "title": "Применение Docker Compose",
+      "file": "04-primenenie-docker-compose.md"
+    },
+    {
+      "id": "docker-intro-8-5",
+      "title": "Управление конфигурацией",
+      "file": "05-upravlenie-konfiguraciey.md"
+    }
+  ]
 }
