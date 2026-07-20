@@ -3,5 +3,41 @@
   "title": "Отладка контейнеров",
   "description": "Глава о том, как диагностировать проблемы в контейнеризированных приложениях: процессы внутри контейнеров — это обычные процессы хоста, поэтому для отладки подходят и инструменты Docker, и стандартные средства Linux.",
   "learning_outcome": "Как смотреть процессы через docker container top, ps и pstree, отлаживать их с помощью strace, lsof, gdb и отдельного debug-контейнера с --pid=container и --cap-add=SYS_PTRACE. Разберёшься с сигналами, PID 1, зомби-процессами и флагом --init, а также научишься исследовать сеть через docker network inspect, netstat и docker-proxy, историю образа через docker image history, конфигурацию контейнеров на диске и изменения файловой системы через docker container diff.",
-  "topics": []
+  "topics": [
+    {
+      "id": "docker-intro-7-1",
+      "title": "Вывод процесса",
+      "file": "01-vyvod-processa.md"
+    },
+    {
+      "id": "docker-intro-7-2",
+      "title": "Изучение процесса",
+      "file": "02-izuchenie-processa.md"
+    },
+    {
+      "id": "docker-intro-7-3",
+      "title": "Контроль процессов",
+      "file": "03-kontrol-processov.md"
+    },
+    {
+      "id": "docker-intro-7-4",
+      "title": "Изучение сети",
+      "file": "04-izuchenie-seti.md"
+    },
+    {
+      "id": "docker-intro-7-5",
+      "title": "История образа",
+      "file": "05-istoriya-obraza.md"
+    },
+    {
+      "id": "docker-intro-7-6",
+      "title": "Изучение контейнера",
+      "file": "06-izuchenie-konteynera.md"
+    },
+    {
+      "id": "docker-intro-7-7",
+      "title": "Изучение файловой системы",
+      "file": "07-izuchenie-faylovoy-sistemy.md"
+    }
+  ]
 }
