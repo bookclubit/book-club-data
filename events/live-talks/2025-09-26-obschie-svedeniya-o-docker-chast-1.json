@@ -1,0 +1,16 @@
+{
+  "id": "live-2025-09-26-obschie-svedeniya-o-docker-chast-1",
+  "type": "live-talk",
+  "title": "Общие сведения о Docker - Часть 1",
+  "date": "2025-09-26",
+  "time": "23:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/watch?v=i5_7xgrUMQE",
+    "vk": "https://vkvideo.ru/video-226486590_456239181"
+  },
+  "talks": [],
+  "book_id": "docker-intro",
+  "chapter": "02-obschie-svedeniya-o-docker",
+  "stream": 90
+}
