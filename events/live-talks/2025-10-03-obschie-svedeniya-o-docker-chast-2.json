@@ -12,5 +12,6 @@
   "talks": [],
   "book_id": "docker-intro",
   "chapter": "02-obschie-svedeniya-o-docker",
-  "stream": 91
+  "stream": 91,
+  "finished": true
 }
