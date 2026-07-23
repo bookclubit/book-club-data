@@ -7,6 +7,10 @@
 ## Структура
 
 ```
+index.json                        # реестр книг/глав/событий/спикеров — ГЕНЕРИРУЕТСЯ автоматически, руками не менять
+speakers.json                     # источник правды по спикерам: id, name, aliases, avatar, socials
+settings.json                     # настройки клуба: active_book (активная книга), socials
+scripts/build-index.mjs           # генератор index.json (Node 20+, без зависимостей); режим --check
 books/<slug>/
   meta.json                       # id, title, авторы [{name, avatar}], cover, tags, status, total_chapters, code (для генератора презентаций talks: DOCKER, REACT)
   flashcards.json                 # колода карточек книги (ANKI), пополняется по главам
@@ -34,9 +38,28 @@ media/
 - `add-event` — добавить встречу (закрытую или открытую)
 - `add-speaker` — добавить спикера (аватарка в WebP + speaker_id)
 
+## index.json — генерируемый артефакт
+
+`index.json` собирается скриптом `scripts/build-index.mjs` из `books/`, `events/`,
+`speakers.json` и `settings.json`. **Руками и в PR-ах его не менять** — после
+мержа в main GitHub Action (`.github/workflows/build-index.yml`) пересобирает
+его автоматически. Это устраняет гонку, когда два параллельных PR перезаписывают
+реестр и теряют записи друг друга.
+
+- Спикеры живут в `speakers.json`, активная книга — в поле `active_book`
+  файла `settings.json`; `index.json` только агрегирует их.
+- В `chapters` книги попадают только главы с `chapter.json` и хотя бы одной
+  темой (`topics.length > 0`) — пустые заготовки в реестр не включаются.
+- Локальная пересборка: `node scripts/build-index.mjs`;
+  проверка актуальности: `node scripts/build-index.mjs --check`.
+- На pull request-ах CI (`.github/workflows/validate.yml`) гоняет prettier,
+  валидность всех JSON и успешный прогон генератора (без `--check`:
+  index.json в PR законно «отстаёт» и пересоберётся после мержа).
+
 ## Правила
 
 - Все JSON файлы должны быть валидными (проверять через JSON.parse)
+- `index.json` не редактировать — см. раздел выше
 - Названия папок — kebab-case
 - Изображения — WebP, оптимизировать до 200KB (конвертация через `sharp`, оригиналы не коммитить)
 - Не изменять структуру существующих файлов без явного запроса

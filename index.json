@@ -3,10 +3,21 @@
   "active_book": "ai-engineering",
   "books": [
     {
+      "folder": "ai-engineering",
+      "id": "ai-engineering",
+      "title": "AI-инженерия",
+      "status": "reading",
+      "category": "ai",
+      "chapters": [
+        "01-osnovy-sozdaniya-ai-prilozheniy-s-ispolzovaniem-bazovyh-modeley"
+      ]
+    },
+    {
       "folder": "docker-up-and-running",
       "id": "docker-intro",
       "title": "Docker. Вводный курс",
       "status": "reading",
+      "category": "tools",
       "chapters": [
         "01-vvedenie",
         "02-obschie-svedeniya-o-docker",
@@ -24,20 +35,8 @@
       "id": "fluent-react",
       "title": "React. К вершинам мастерства",
       "status": "reading",
-      "chapters": [
-        "01-obzor-dlya-nachinayuschih"
-      ],
-      "category": "frameworks"
-    },
-    {
-      "folder": "ai-engineering",
-      "id": "ai-engineering",
-      "title": "AI-инженерия",
-      "status": "reading",
-      "category": "ai",
-      "chapters": [
-        "01-osnovy-sozdaniya-ai-prilozheniy-s-ispolzovaniem-bazovyh-modeley"
-      ]
+      "category": "frameworks",
+      "chapters": []
     }
   ],
   "events": [

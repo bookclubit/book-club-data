@@ -1,0 +1,43 @@
+# Пересборка index.json после каждого пуша в main.
+# index.json — генерируемый артефакт: руками и в PR-ах его не менять.
+# Защита от цикла: workflow триггерится только на перечисленные paths,
+# а коммитит только index.json — плюс [skip ci] в сообщении для надёжности.
+name: build-index
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "books/**"
+      - "events/**"
+      - "speakers.json"
+      - "settings.json"
+      - "scripts/build-index.mjs"
+
+permissions:
+  contents: write
+
+jobs:
+  build-index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Пересобрать index.json
+        run: node scripts/build-index.mjs
+
+      - name: Закоммитить index.json, если изменился
+        run: |
+          if git diff --quiet index.json; then
+            echo "index.json не изменился — коммит не нужен."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.json
+          git commit -m "chore(index): пересобрать index.json [skip ci]"
+          git push

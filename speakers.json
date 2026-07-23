@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "speakers": [
+    {
+      "id": "nikiforov-artem",
+      "name": "Артём Никифоров",
+      "aliases": ["Артём", "Артём Никифоров"],
+      "avatar": "/media/speakers/nikiforov-artem.webp",
+      "socials": {
+        "telegram": "https://t.me/Frich22"
+      }
+    },
+    {
+      "id": "pomazkov-anton",
+      "name": "Антон Помазков",
+      "aliases": ["Антон", "Антон Помазков"],
+      "avatar": "/media/speakers/pomazkov-anton.webp",
+      "socials": {
+        "telegram": "https://t.me/kunjutone"
+      }
+    }
+  ]
+}

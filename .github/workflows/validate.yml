@@ -1,0 +1,46 @@
+# Валидация контента в pull request-ах.
+# index.json в PR-ах не проверяется на актуальность (--check не запускаем):
+# PR-ы его не трогают, реестр пересоберётся Action-ом после мержа в main.
+name: validate
+
+on:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Prettier
+        run: npx prettier --check .
+
+      - name: Валидность всех JSON
+        run: |
+          node --input-type=module -e '
+            import { readdir, readFile } from "node:fs/promises";
+            const files = (await readdir(".", { recursive: true })).filter(
+              (f) => f.endsWith(".json") && !f.split(/[\\/]/).includes("node_modules"),
+            );
+            let failed = false;
+            for (const file of files) {
+              try {
+                JSON.parse(await readFile(file, "utf8"));
+              } catch (err) {
+                console.error(`Невалидный JSON: ${file} — ${err.message}`);
+                failed = true;
+              }
+            }
+            if (failed) process.exit(1);
+            console.log(`OK: ${files.length} JSON-файлов валидны.`);
+          '
+
+      - name: Генератор index.json отрабатывает без ошибок
+        run: node scripts/build-index.mjs
