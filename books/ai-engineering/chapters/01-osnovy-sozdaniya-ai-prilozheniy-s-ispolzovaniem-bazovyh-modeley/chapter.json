@@ -7,22 +7,38 @@
     {
       "id": "ai-engineering-1-1",
       "title": "Восход AI-инженерии",
-      "file": "01-voshod-ai-inzhenerii.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "ai-engineering-1-2",
       "title": "Сценарии использования базовой модели",
-      "file": "02-scenarii-ispolzovaniya-bazovoy-modeli.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "ai-engineering-1-3",
       "title": "Планирование AI-приложений",
-      "file": "03-planirovanie-ai-prilozheniy.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "ai-engineering-1-4",
       "title": "Стек AI-инженерии",
-      "file": "04-stek-ai-inzhenerii.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     }
   ]
 }

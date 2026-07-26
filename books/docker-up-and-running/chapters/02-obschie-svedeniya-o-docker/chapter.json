@@ -7,27 +7,47 @@
     {
       "id": "docker-intro-2-1",
       "title": "Упрощение рабочих процессов",
-      "file": "01-uproschenie-rabochih-processov.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "docker-intro-2-2",
       "title": "Широкая поддержка и внедрение",
-      "file": "02-shirokaya-podderzhka-i-vnedrenie.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "docker-intro-2-3",
       "title": "Архитектура",
-      "file": "03-arhitektura.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "docker-intro-2-4",
       "title": "Как использовать весь потенциал Docker",
-      "file": "04-kak-ispolzovat-ves-potencial-docker.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "docker-intro-2-5",
       "title": "Рабочий процесс Docker",
-      "file": "05-rabochiy-process-docker.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     }
   ]
 }

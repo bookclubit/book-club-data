@@ -7,22 +7,38 @@
     {
       "id": "docker-intro-3-1",
       "title": "Клиент Docker",
-      "file": "01-klient-docker.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "docker-intro-3-2",
       "title": "Сервер Docker",
-      "file": "02-server-docker.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "docker-intro-3-3",
       "title": "Тестирование системы",
-      "file": "03-testirovanie-sistemy.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "docker-intro-3-4",
       "title": "Сервер Docker",
-      "file": "04-server-docker.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     }
   ]
 }

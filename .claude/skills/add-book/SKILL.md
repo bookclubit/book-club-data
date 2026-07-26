@@ -58,4 +58,4 @@ node -e "require('sharp')('IN').resize({width:400,withoutEnlargement:true}).webp
 
 ## Связанные скиллы
 
-После книги: `add-chapter`, `add-topic`, `add-flashcards`.
+После книги: `add-chapter` (глава вместе с темами), `add-flashcards`.

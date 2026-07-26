@@ -7,47 +7,83 @@
     {
       "id": "docker-intro-5-1",
       "title": "Что такое контейнер?",
-      "file": "01-chto-takoe-konteyner.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "docker-intro-5-2",
       "title": "Создание контейнера",
-      "file": "02-sozdanie-konteynera.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "docker-intro-5-3",
       "title": "Запуск контейнера",
-      "file": "03-zapusk-konteynera.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "docker-intro-5-4",
       "title": "Автоматический перезапуск контейнера",
-      "file": "04-avtomaticheskiy-perezapusk-konteynera.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "docker-intro-5-5",
       "title": "Остановка контейнера",
-      "file": "05-ostanovka-konteynera.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "docker-intro-5-6",
       "title": "Принудительное завершение контейнера",
-      "file": "06-prinuditelnoe-zavershenie-konteynera.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "docker-intro-5-7",
       "title": "Приостановка и возобновление контейнера",
-      "file": "07-priostanovka-i-vozobnovlenie-konteynera.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "docker-intro-5-8",
       "title": "Очистка контейнеров и образов",
-      "file": "08-ochistka-konteynerov-i-obrazov.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "docker-intro-5-9",
       "title": "Контейнеры Windows",
-      "file": "09-konteynery-windows.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     }
   ]
 }

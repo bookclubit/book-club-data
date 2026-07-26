@@ -7,42 +7,74 @@
     {
       "id": "docker-intro-4-1",
       "title": "Структура Dockerfile",
-      "file": "01-struktura-dockerfile.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "docker-intro-4-2",
       "title": "Сборка образа",
-      "file": "02-sborka-obraza.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "docker-intro-4-3",
       "title": "Запуск образа",
-      "file": "03-zapusk-obraza.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "docker-intro-4-4",
       "title": "Пользовательские базовые образы",
-      "file": "04-polzovatelskie-bazovye-obrazy.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "docker-intro-4-5",
       "title": "Хранение образов",
-      "file": "05-hranenie-obrazov.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "docker-intro-4-6",
       "title": "Оптимизация образов",
-      "file": "06-optimizaciya-obrazov.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "docker-intro-4-7",
       "title": "Решение проблем со сборками",
-      "file": "07-reshenie-problem-so-sborkami.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "docker-intro-4-8",
       "title": "Мулыиархитектурные сборки",
-      "file": "08-mulyiarhitekturnye-sborki.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     }
   ]
 }

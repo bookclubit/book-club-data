@@ -15,8 +15,7 @@ books/<slug>/
   meta.json                       # id, title, авторы [{name, avatar}], cover, tags, status, total_chapters, code (для генератора презентаций talks: DOCKER, REACT)
   flashcards.json                 # колода карточек книги (ANKI), пополняется по главам
   chapters/<NN-slug>/
-    chapter.json                  # индекс главы: order, title, description, learning_outcome, topics[]
-    <MM-slug>.md                  # тема: frontmatter (video_youtube, video_vk, presentation, resources, speakers) + описание/инсайты
+    chapter.json                  # глава целиком: order, title, description, learning_outcome, topics[{id, title, speakers[], video_youtube, video_vk, presentation, resources[]}]
 events/
   closed-chapters/*.json          # «открытое обсуждение» главы: книга, глава, pages{from,to}, notes_board_url (доска — ссылка или файл media/boards), streams{youtube,vk}, call_url (Google Meet), stream (номер эфира → «Книжный клуб N»), moderators[{speaker_id,name,avatar}], materials[{title,url}], finished
   live-talks/*.json               # «доклады» (чистовая запись докладов): streams{youtube,vk}, talks[{title, speaker, avatar, topic_id (тема главы), slides_url (презентация talks)}], materials, book_id+chapter (программа — темы главы становятся слотами докладов), topic_ids[] (темы именно этой встречи — если главу делят на несколько эфиров; пусто = вся глава), recordings{<topic_id>:{youtube,vk}} (монтажные ролики докладов — на странице спикера вместо записи всей встречи), stream (номер стрима для talks BC-<stream>-…), finished; call_url и registration_url НЕ используются (регистрация — через бота)
@@ -32,8 +31,7 @@ media/
 Все действия автоматизированы — вызывай скилл, а не редактируй файлы вручную:
 
 - `add-book` — добавить книгу (папка, meta.json, обложка, авторы)
-- `add-chapter` — добавить главу (папка + chapter.json)
-- `add-topic` — добавить тему в главу (.md + регистрация в chapter.json)
+- `add-chapter` — добавить главу вместе с темами (папка + chapter.json)
 - `add-flashcards` — добавить карточки в flashcards.json
 - `add-event` — добавить встречу (закрытую или открытую)
 - `add-speaker` — добавить спикера (аватарка в WebP + speaker_id)
@@ -48,8 +46,10 @@ media/
 
 - Спикеры живут в `speakers.json`, активная книга — в поле `active_book`
   файла `settings.json`; `index.json` только агрегирует их.
-- В `chapters` книги попадают только главы с `chapter.json` и хотя бы одной
-  темой (`topics.length > 0`) — пустые заготовки в реестр не включаются.
+- В `chapters` книги попадают **все** главы с `chapter.json` —
+  `{slug, order, title, topics}`, где `topics` — число тем. Глава видна
+  клиентам сразу после создания, даже пустая; «разобранность» считается по
+  `topics > 0`. Формат реестра — `version: 2`.
 - Локальная пересборка: `node scripts/build-index.mjs`;
   проверка актуальности: `node scripts/build-index.mjs --check`.
 - На pull request-ах CI (`.github/workflows/validate.yml`) гоняет prettier,

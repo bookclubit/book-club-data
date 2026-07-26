@@ -7,27 +7,47 @@
     {
       "id": "docker-intro-8-1",
       "title": "Настройка Docker Compose",
-      "file": "01-nastroyka-docker-compose.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "docker-intro-8-2",
       "title": "Запуск сервисов",
-      "file": "02-zapusk-servisov.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "docker-intro-8-3",
       "title": "Принципы работы Rocket.Chat",
-      "file": "03-principy-raboty-rocket-chat.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "docker-intro-8-4",
       "title": "Применение Docker Compose",
-      "file": "04-primenenie-docker-compose.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "docker-intro-8-5",
       "title": "Управление конфигурацией",
-      "file": "05-upravlenie-konfiguraciey.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     }
   ]
 }

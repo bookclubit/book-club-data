@@ -54,8 +54,9 @@ async function buildBooks() {
   for (const folder of await listDirs(join(ROOT, "books"))) {
     const meta = await readJson(join(ROOT, "books", folder, "meta.json"));
 
-    // В реестр попадают только «разобранные» главы: с chapter.json
-    // и хотя бы одной темой. Пустые заготовки глав не считаются.
+    // В реестр попадают ВСЕ главы с chapter.json — глава видна сразу после
+    // создания, даже пустая. Число тем едет рядом (`topics`), чтобы клиенты
+    // могли отличить разобранную главу от заготовки без лишних запросов.
     const chapters = [];
     const chaptersDir = join(ROOT, "books", folder, "chapters");
     if (existsSync(chaptersDir)) {
@@ -63,10 +64,14 @@ async function buildBooks() {
         const chapterPath = join(chaptersDir, chapterFolder, "chapter.json");
         if (!existsSync(chapterPath)) continue;
         const chapter = await readJson(chapterPath);
-        if (Array.isArray(chapter.topics) && chapter.topics.length > 0) {
-          chapters.push(chapterFolder);
-        }
+        chapters.push({
+          slug: chapterFolder,
+          order: typeof chapter.order === "number" ? chapter.order : 0,
+          title: chapter.title ?? chapterFolder,
+          topics: Array.isArray(chapter.topics) ? chapter.topics.length : 0,
+        });
       }
+      chapters.sort((a, b) => a.order - b.order);
     }
 
     const book = {
@@ -105,7 +110,7 @@ async function buildIndex() {
   }
 
   return {
-    version: 1,
+    version: 2,
     active_book: settings.active_book,
     books: await buildBooks(),
     events: await buildEvents(),

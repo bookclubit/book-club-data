@@ -7,52 +7,92 @@
     {
       "id": "docker-intro-6-1",
       "title": "Просмотр версии Docker",
-      "file": "01-prosmotr-versii-docker.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "docker-intro-6-2",
       "title": "Информация о сервере",
-      "file": "02-informaciya-o-servere.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "docker-intro-6-3",
       "title": "Загрузка обновлений образов",
-      "file": "03-zagruzka-obnovleniy-obrazov.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "docker-intro-6-4",
       "title": "Изучение контейнера",
-      "file": "04-izuchenie-konteynera.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "docker-intro-6-5",
       "title": "Изучение командной оболочки",
-      "file": "05-izuchenie-komandnoy-obolochki.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "docker-intro-6-6",
       "title": "Возврат результата",
-      "file": "06-vozvrat-rezultata.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "docker-intro-6-7",
       "title": "Что происходит в контейнере",
-      "file": "07-chto-proishodit-v-konteynere.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "docker-intro-6-8",
       "title": "Журналирование",
-      "file": "08-zhurnalirovanie.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "docker-intro-6-9",
       "title": "Мониторинг в Docker",
-      "file": "09-monitoring-v-docker.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "docker-intro-6-10",
       "title": "Мониторинг с помощью Prometheus",
-      "file": "10-monitoring-s-pomoschyu-prometheus.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     }
   ]
 }

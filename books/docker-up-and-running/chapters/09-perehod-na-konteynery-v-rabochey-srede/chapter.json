@@ -7,17 +7,29 @@
     {
       "id": "docker-intro-9-1",
       "title": "Подготовка к развертыванию",
-      "file": "01-podgotovka-k-razvertyvaniyu.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "docker-intro-9-2",
       "title": "Docker в рабочих средах",
-      "file": "02-docker-v-rabochih-sredah.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "docker-intro-9-3",
       "title": "Docker в конвейере DevOps",
-      "file": "03-docker-v-konveyere-devops.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     }
   ]
 }

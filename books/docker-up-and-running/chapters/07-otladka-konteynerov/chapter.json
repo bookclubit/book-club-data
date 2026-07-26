@@ -7,37 +7,65 @@
     {
       "id": "docker-intro-7-1",
       "title": "Вывод процесса",
-      "file": "01-vyvod-processa.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "docker-intro-7-2",
       "title": "Изучение процесса",
-      "file": "02-izuchenie-processa.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "docker-intro-7-3",
       "title": "Контроль процессов",
-      "file": "03-kontrol-processov.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "docker-intro-7-4",
       "title": "Изучение сети",
-      "file": "04-izuchenie-seti.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "docker-intro-7-5",
       "title": "История образа",
-      "file": "05-istoriya-obraza.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "docker-intro-7-6",
       "title": "Изучение контейнера",
-      "file": "06-izuchenie-konteynera.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "docker-intro-7-7",
       "title": "Изучение файловой системы",
-      "file": "07-izuchenie-faylovoy-sistemy.md"
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     }
   ]
 }

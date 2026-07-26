@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "active_book": "ai-engineering",
   "books": [
     {
@@ -9,7 +9,12 @@
       "status": "reading",
       "category": "ai",
       "chapters": [
-        "01-osnovy-sozdaniya-ai-prilozheniy-s-ispolzovaniem-bazovyh-modeley"
+        {
+          "slug": "01-osnovy-sozdaniya-ai-prilozheniy-s-ispolzovaniem-bazovyh-modeley",
+          "order": 1,
+          "title": "Основы создания AI-приложений с использованием базовых моделей",
+          "topics": 4
+        }
       ]
     },
     {
@@ -19,15 +24,60 @@
       "status": "reading",
       "category": "tools",
       "chapters": [
-        "01-vvedenie",
-        "02-obschie-svedeniya-o-docker",
-        "03-ustanovka-docker",
-        "04-rabota-s-obrazami-docker",
-        "05-rabota-s-konteynerami",
-        "06-sbor-informacii-v-docker",
-        "07-otladka-konteynerov",
-        "08-principy-raboty-docker-compose",
-        "09-perehod-na-konteynery-v-rabochey-srede"
+        {
+          "slug": "01-vvedenie",
+          "order": 1,
+          "title": "Введение в Docker",
+          "topics": 3
+        },
+        {
+          "slug": "02-obschie-svedeniya-o-docker",
+          "order": 2,
+          "title": "Общие сведения о Docker",
+          "topics": 5
+        },
+        {
+          "slug": "03-ustanovka-docker",
+          "order": 3,
+          "title": "Установка Docker",
+          "topics": 4
+        },
+        {
+          "slug": "04-rabota-s-obrazami-docker",
+          "order": 4,
+          "title": "Работа с образами Docker",
+          "topics": 8
+        },
+        {
+          "slug": "05-rabota-s-konteynerami",
+          "order": 5,
+          "title": "Работа с контейнерами",
+          "topics": 9
+        },
+        {
+          "slug": "06-sbor-informacii-v-docker",
+          "order": 6,
+          "title": "Сбор информации в Docker",
+          "topics": 10
+        },
+        {
+          "slug": "07-otladka-konteynerov",
+          "order": 7,
+          "title": "Отладка контейнеров",
+          "topics": 7
+        },
+        {
+          "slug": "08-principy-raboty-docker-compose",
+          "order": 8,
+          "title": "Принципы работы Docker Compose",
+          "topics": 5
+        },
+        {
+          "slug": "09-perehod-na-konteynery-v-rabochey-srede",
+          "order": 9,
+          "title": "Переход на контейнеры в рабочей среде",
+          "topics": 3
+        }
       ]
     },
     {
@@ -36,7 +86,20 @@
       "title": "React. К вершинам мастерства",
       "status": "reading",
       "category": "frameworks",
-      "chapters": []
+      "chapters": [
+        {
+          "slug": "01-obzor-dlya-nachinayuschih",
+          "order": 1,
+          "title": "Обзор для начинающих",
+          "topics": 0
+        },
+        {
+          "slug": "09-servernye-komponenty-react",
+          "order": 9,
+          "title": "Серверные компоненты React",
+          "topics": 0
+        }
+      ]
     }
   ],
   "events": [

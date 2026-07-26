@@ -7,17 +7,29 @@
     {
       "id": "docker-intro-1-1",
       "title": "Ожидания от Docker",
-      "file": "01-pochemu-docker.md"
+      "speakers": ["Артём"],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "docker-intro-1-2",
       "title": "Архитектура Docker",
-      "file": "02-arhitektura-docker.md"
+      "speakers": ["Антон"],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     },
     {
       "id": "docker-intro-1-3",
       "title": "Важная терминология",
-      "file": "03-zhiznennyy-cikl-konteynera.md"
+      "speakers": ["Артём"],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
     }
   ]
 }
