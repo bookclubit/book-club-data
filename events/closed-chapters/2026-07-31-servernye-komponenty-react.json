@@ -1,0 +1,32 @@
+{
+  "id": "closed-2026-07-31-servernye-komponenty-react",
+  "type": "closed-chapter",
+  "title": "Серверные компоненты React",
+  "date": "2026-07-31",
+  "time": "23:00",
+  "timezone": "Europe/Moscow",
+  "book_id": "fluent-react",
+  "chapter": "09-servernye-komponenty-react",
+  "pages": {
+    "from": 297,
+    "to": 327
+  },
+  "streams": {
+    "youtube": "https://www.youtube.com/live/n5Uy899iuLw?si=OL0-mWFOGoIA4Vnz",
+    "vk": "https://vkvideo.ru/video-226486590_456239247"
+  },
+  "stream": 115,
+  "moderators": [
+    {
+      "speaker_id": "nikiforov-artem",
+      "name": "Артём Никифоров",
+      "avatar": "/media/speakers/nikiforov-artem.webp"
+    },
+    {
+      "speaker_id": "pomazkov-anton",
+      "name": "Антон Помазков",
+      "avatar": "/media/speakers/pomazkov-anton.webp"
+    }
+  ],
+  "call_url": "https://meet.google.com/his-irnf-zgu"
+}
