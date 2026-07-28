@@ -12,7 +12,7 @@ speakers.json                     # источник правды по спик�
 settings.json                     # настройки клуба: active_book (активная книга), socials
 scripts/build-index.mjs           # генератор index.json (Node 20+, без зависимостей); режим --check
 books/<slug>/
-  meta.json                       # id, title, авторы [{name, avatar}], cover, tags, status, total_chapters, code (для генератора презентаций talks: DOCKER, REACT)
+  meta.json                       # id, title, авторы [{id, name, avatar, url}], cover, tags, status, total_chapters, code (для генератора презентаций talks: DOCKER, REACT)
   flashcards.json                 # колода карточек книги (ANKI), пополняется по главам: [{id, type: qa|command, question+answer | command+result, example (НЕОБЯЗАТЕЛЕН — пример под ответом), chapter, difficulty}]
   chapters/<NN-slug>/
     chapter.json                  # глава целиком: order, title, description, learning_outcome, topics[{id, title, speakers[], video_youtube, video_vk, presentation, resources[]}]
@@ -46,6 +46,14 @@ media/
 
 - Спикеры живут в `speakers.json`, активная книга — в поле `active_book`
   файла `settings.json`; `index.json` только агрегирует их.
+- **Авторы живут в `meta.json` книг** (отдельного файла-каталога нет: автор
+  существует ровно потому, что у него есть книга). У автора обязателен `id`
+  в kebab-case — он связывает книги одного человека: `index.json` собирает
+  из книг список `authors[{id, name, avatar, url, books[]}]`. По нему CMS
+  предлагает выбрать существующего автора, а miniapp показывает страницу
+  автора со всеми его книгами. **У автора двух книг `id` и имя должны
+  совпадать буквально** — иначе он раздвоится. Если `id` не указан (старые
+  записи), генератор берёт имя файла аватарки, затем имя.
 - В `chapters` книги попадают **все** главы с `chapter.json` —
   `{slug, order, title, topics}`, где `topics` — число тем. Глава видна
   клиентам сразу после создания, даже пустая; «разобранность» считается по

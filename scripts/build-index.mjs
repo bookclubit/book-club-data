@@ -48,9 +48,26 @@ async function listJsonFiles(path) {
     .sort();
 }
 
-/** Собирает записи книг из books/*. */
-async function buildBooks() {
+/**
+ * Ключ автора: стабильный `id` из meta.json. У старых записей его может не быть —
+ * тогда берём имя файла аватарки (оно уже kebab-case), в последнюю очередь имя.
+ * Правило то же в CMS и miniapp: одна книга не должна «отвязать» автора.
+ */
+function authorKey(author) {
+  if (author.id) return author.id;
+  const file = (author.avatar ?? "").split("/").pop() ?? "";
+  const base = file.replace(/\.[a-z0-9]+$/i, "");
+  return base || author.name;
+}
+
+/**
+ * Собирает книги и авторов из books/*: meta.json читается один раз, отдаём обе
+ * проекции. Авторы в реестре нужны, чтобы CMS предлагала выбрать уже
+ * существующего автора, а miniapp показывал все его книги одной страницей.
+ */
+async function buildBooksAndAuthors() {
   const books = [];
+  const authors = new Map(); // ключ автора → запись реестра
   for (const folder of await listDirs(join(ROOT, "books"))) {
     const meta = await readJson(join(ROOT, "books", folder, "meta.json"));
 
@@ -83,8 +100,31 @@ async function buildBooks() {
     if (meta.category) book.category = meta.category;
     book.chapters = chapters;
     books.push(book);
+
+    for (const author of meta.authors ?? []) {
+      const id = authorKey(author);
+      const entry = authors.get(id) ?? { id, name: author.name, books: [] };
+      // Аватар и ссылку берём из первой книги, где они заданы.
+      if (author.avatar && !entry.avatar) entry.avatar = author.avatar;
+      if (author.url && !entry.url) entry.url = author.url;
+      if (!entry.books.includes(folder)) entry.books.push(folder);
+      authors.set(id, entry);
+    }
   }
-  return books;
+
+  // Сортировка по id (а не по имени): порядок не зависит от локали Node,
+  // иначе `--check` в CI мог бы расходиться с локальной пересборкой.
+  const authorList = [...authors.values()]
+    .sort((a, b) => a.id.localeCompare(b.id))
+    .map((a) => ({
+      id: a.id,
+      name: a.name,
+      ...(a.avatar ? { avatar: a.avatar } : {}),
+      ...(a.url ? { url: a.url } : {}),
+      books: a.books,
+    }));
+
+  return { books, authors: authorList };
 }
 
 /** Собирает список путей событий из events/. */
@@ -109,10 +149,13 @@ async function buildIndex() {
     throw new Error("В speakers.json нет массива speakers");
   }
 
+  const { books, authors } = await buildBooksAndAuthors();
+
   return {
     version: 2,
     active_book: settings.active_book,
-    books: await buildBooks(),
+    books,
+    authors,
     events: await buildEvents(),
     speakers,
   };

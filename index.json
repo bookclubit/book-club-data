@@ -110,6 +110,50 @@
       "chapters": []
     }
   ],
+  "authors": [
+    {
+      "id": "chip-hyuen",
+      "name": "Чип Хьюен",
+      "avatar": "/media/authors/chip-hyuen.webp",
+      "url": "https://huyenchip.com/",
+      "books": [
+        "ai-engineering"
+      ]
+    },
+    {
+      "id": "karl-matthias",
+      "name": "Карл Маттиас",
+      "avatar": "/media/authors/karl-matthias.webp",
+      "books": [
+        "docker-up-and-running"
+      ]
+    },
+    {
+      "id": "kayl-simpson",
+      "name": "Кайл Симпсон",
+      "avatar": "/media/authors/kayl-simpson.webp",
+      "url": "https://me.getify.com/",
+      "books": [
+        "you-don-t-know-js-up-and-going"
+      ]
+    },
+    {
+      "id": "sean-kane",
+      "name": "Шон П. Кейн",
+      "avatar": "/media/authors/sean-kane.webp",
+      "books": [
+        "docker-up-and-running"
+      ]
+    },
+    {
+      "id": "tejas-kumar",
+      "name": "Теджас Кумар",
+      "avatar": "/media/authors/tejas-kumar.webp",
+      "books": [
+        "fluent-react"
+      ]
+    }
+  ],
   "events": [
     "closed-chapters/2026-07-18-razbor-glavy-1-osnovy-sozdaniya-ai-prilozheniy-s-ispolzovaniem-bazovyh-modeley.json",
     "closed-chapters/2026-07-31-servernye-komponenty-react.json",

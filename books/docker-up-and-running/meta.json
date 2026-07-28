@@ -5,10 +5,12 @@
   "edition": 3,
   "authors": [
     {
+      "id": "sean-kane",
       "name": "Шон П. Кейн",
       "avatar": "/media/authors/sean-kane.webp"
     },
     {
+      "id": "karl-matthias",
       "name": "Карл Маттиас",
       "avatar": "/media/authors/karl-matthias.webp"
     }
