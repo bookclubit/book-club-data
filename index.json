@@ -100,6 +100,14 @@
           "topics": 0
         }
       ]
+    },
+    {
+      "folder": "you-don-t-know-js-up-and-going",
+      "id": "you-don-t-know-js-up-and-going",
+      "title": "{Вы пока еще не знаете JS} Познакомьтесь, JavaScript",
+      "status": "finished",
+      "category": "base",
+      "chapters": []
     }
   ],
   "events": [
