@@ -1,0 +1,23 @@
+{
+  "id": "you-don-t-know-js-up-and-going",
+  "title": "{Вы пока еще не знаете JS} Познакомьтесь, JavaScript",
+  "title_original": "You Don't Know JS: Up & Going",
+  "edition": 2,
+  "authors": [
+    {
+      "name": "Кайл Симпсон",
+      "url": "https://me.getify.com/",
+      "avatar": "/media/authors/kayl-simpson.webp"
+    }
+  ],
+  "status": "finished",
+  "category": "base",
+  "cover": "/media/covers/you-don-t-know-js-up-and-going.webp",
+  "tags": [
+    "javascript"
+  ],
+  "description": "Учтите, что, хотя книга и называется «Познакомьтесь, JavaScript», она не для новичков. У нее другая задача: дать обзор тем, в которых необходимо разобраться на начальном этапе изучения JS. Даже если вы уже написали достаточно кода JS, эту книгу не стоит пропускать, возможно, в ваших знаниях есть пробелы, которые необходимо заполнить перед углубленным изучением сложных тем.",
+  "total_chapters": 7,
+  "code": "YDTKJSUPANDGIING",
+  "url": "https://www.piter.com/collection/A29501/product/vy-poka-esche-ne-znaete-js-poznakomtes-javascript-2-e-izd"
+}
