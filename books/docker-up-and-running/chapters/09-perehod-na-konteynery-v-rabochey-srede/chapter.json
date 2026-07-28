@@ -2,32 +2,38 @@
   "order": 9,
   "title": "Переход на контейнеры в рабочей среде",
   "description": "Как перенести контейнеры из разработки на боевые серверы: что нужно настроить (запуск, ограничения ресурсов, логи, мониторинг, сеть), какие есть инструменты для управления (Kubernetes, Swarm) и как тестировать перед выкаткой.",
-  "learning_outcome": "Понимать, какие шаги и компоненты нужны для надёжной работы контейнеров в продакшне, и как организовать автоматическую сборку, тестирование и развертывани",
+  "learning_outcome": "- Понимать, какие шаги и компоненты нужны для надёжной работы контейнеров в продакшне, и как организовать автоматическую сборку, тестирование и развертывани",
   "topics": [
     {
       "id": "docker-intro-9-1",
       "title": "Подготовка к развертыванию",
-      "speakers": [],
-      "video_youtube": "",
-      "video_vk": "",
-      "presentation": "",
+      "speakers": [
+        "Антон"
+      ],
+      "video_youtube": "https://youtu.be/iggU8MfHntg?si=ug6jq3Pqx8R4MdKS",
+      "video_vk": "https://vkvideo.ru/video-226486590_456239249",
+      "presentation": "https://bc-113-docker-9-pomazkov-1.pages.dev/",
       "resources": []
     },
     {
       "id": "docker-intro-9-2",
       "title": "Docker в рабочих средах",
-      "speakers": [],
-      "video_youtube": "",
-      "video_vk": "",
-      "presentation": "",
+      "speakers": [
+        "Антон"
+      ],
+      "video_youtube": "https://youtu.be/iggU8MfHntg?si=ORpatD77ANzjCwEQ&t=346",
+      "video_vk": "https://vkvideo.ru/video-226486590_456239249?t=5m45s",
+      "presentation": "https://bc-113-docker-9-pomazkov-2.pages.dev/",
       "resources": []
     },
     {
       "id": "docker-intro-9-3",
       "title": "Docker в конвейере DevOps",
-      "speakers": [],
-      "video_youtube": "",
-      "video_vk": "",
+      "speakers": [
+        "Артём"
+      ],
+      "video_youtube": "https://youtu.be/iggU8MfHntg?si=_kQUcb8MosaPeeUx&t=864",
+      "video_vk": "https://vkvideo.ru/video-226486590_456239249?t=14m24s",
       "presentation": "",
       "resources": []
     }
