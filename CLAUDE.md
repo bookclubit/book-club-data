@@ -13,7 +13,7 @@ settings.json                     # настройки клуба: active_book (
 scripts/build-index.mjs           # генератор index.json (Node 20+, без зависимостей); режим --check
 books/<slug>/
   meta.json                       # id, title, авторы [{name, avatar}], cover, tags, status, total_chapters, code (для генератора презентаций talks: DOCKER, REACT)
-  flashcards.json                 # колода карточек книги (ANKI), пополняется по главам
+  flashcards.json                 # колода карточек книги (ANKI), пополняется по главам: [{id, type: qa|command, question+answer | command+result, example (НЕОБЯЗАТЕЛЕН — пример под ответом), chapter, difficulty}]
   chapters/<NN-slug>/
     chapter.json                  # глава целиком: order, title, description, learning_outcome, topics[{id, title, speakers[], video_youtube, video_vk, presentation, resources[]}]
 events/

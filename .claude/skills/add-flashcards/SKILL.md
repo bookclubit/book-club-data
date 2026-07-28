@@ -14,6 +14,8 @@ description: Добавить карточки (ANKI) в flashcards.json кни�
   - `qa`: вопрос + ответ
   - `command`: команда + результат
 - Сложность каждой карточки: `easy` / `medium` / `hard`
+- Пример к ответу (`example`) — **необязателен**, спрашивать не нужно: добавлять,
+  только если человек его дал
 
 ## Шаги
 
@@ -22,9 +24,10 @@ description: Добавить карточки (ANKI) в flashcards.json кни�
 3. Добавь карточки:
    ```json
    { "id": "docker-006", "type": "qa", "question": "…", "answer": "…", "chapter": "2", "difficulty": "easy" }
-   { "id": "docker-007", "type": "command", "command": "docker …", "result": "…", "chapter": "2", "difficulty": "medium" }
+   { "id": "docker-007", "type": "command", "command": "docker …", "result": "…", "example": "docker ps -a", "chapter": "2", "difficulty": "medium" }
    ```
    `id` — формат `<префикс>-NNN` (трёхзначный, с ведущими нулями).
+   `example` добавлять только когда пример есть; пустую строку не писать.
 4. Проверь `JSON.parse` и **уникальность всех `id`** в файле (частая ошибка).
 5. `npx prettier --check` по файлу.
 6. Коммит: `feat(books): добавить карточки к главе <N> "<Книга>"`. Не пушить.
