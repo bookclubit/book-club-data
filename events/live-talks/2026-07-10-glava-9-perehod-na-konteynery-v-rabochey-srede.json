@@ -1,0 +1,21 @@
+{
+  "id": "live-2026-07-10-glava-9-perehod-na-konteynery-v-rabochey-srede",
+  "type": "live-talk",
+  "title": "Глава 9. Переход на контейнеры в рабочей среде",
+  "date": "2026-07-10",
+  "time": "23:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/cTR_nWjTBuU?si=rlagQ0cZ2tnYqBjy",
+    "vk": "https://vkvideo.ru/video-226486590_456239242"
+  },
+  "talks": [],
+  "book_id": "docker-intro",
+  "chapter": "09-perehod-na-konteynery-v-rabochey-srede",
+  "topic_ids": [
+    "docker-intro-9-1",
+    "docker-intro-9-2",
+    "docker-intro-9-3"
+  ],
+  "stream": 113
+}
