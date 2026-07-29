@@ -1,0 +1,25 @@
+{
+  "id": "live-2026-05-15-glava-7-otladka-konteynerov",
+  "type": "live-talk",
+  "title": "Глава 7. Отладка контейнеров",
+  "date": "2026-05-15",
+  "time": "23:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/watch",
+    "vk": "https://vkvideo.ru/video-226486590_456239240"
+  },
+  "talks": [],
+  "book_id": "docker-intro",
+  "chapter": "07-otladka-konteynerov",
+  "topic_ids": [
+    "docker-intro-7-1",
+    "docker-intro-7-2",
+    "docker-intro-7-3",
+    "docker-intro-7-4",
+    "docker-intro-7-5",
+    "docker-intro-7-6",
+    "docker-intro-7-7"
+  ],
+  "stream": 112
+}
