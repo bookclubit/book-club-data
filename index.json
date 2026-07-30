@@ -102,6 +102,14 @@
       ]
     },
     {
+      "folder": "typescript-cookbook",
+      "id": "typescript-cookbook",
+      "title": "Рецепты TypeScript",
+      "status": "finished",
+      "category": "base",
+      "chapters": []
+    },
+    {
       "folder": "you-don-t-know-js-up-and-going",
       "id": "you-don-t-know-js-up-and-going",
       "title": "{Вы пока еще не знаете JS} Познакомьтесь, JavaScript",
@@ -143,6 +151,15 @@
       "avatar": "/media/authors/sean-kane.webp",
       "books": [
         "docker-up-and-running"
+      ]
+    },
+    {
+      "id": "stefan-baumgartner",
+      "name": "Стефан Баумгартнер",
+      "avatar": "/media/authors/stefan-baumgartner.webp",
+      "url": "https://oida.dev/",
+      "books": [
+        "typescript-cookbook"
       ]
     },
     {
