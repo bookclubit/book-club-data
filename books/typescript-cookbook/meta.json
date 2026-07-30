@@ -1,0 +1,22 @@
+{
+  "id": "typescript-cookbook",
+  "title": "Рецепты TypeScript",
+  "title_original": "TypeScript Cookbook",
+  "edition": 1,
+  "authors": [
+    {
+      "id": "stefan-baumgartner",
+      "name": "Стефан Баумгартнер",
+      "url": "https://oida.dev/",
+      "avatar": "/media/authors/stefan-baumgartner.webp"
+    }
+  ],
+  "status": "finished",
+  "category": "base",
+  "cover": "/media/covers/typescript-cookbook.webp",
+  "tags": [],
+  "description": "Практический справочник, созданный для того, чтобы помочь разработчикам перестать бороться с компилятором и начать использовать всю мощь строгой типизации",
+  "total_chapters": 12,
+  "code": "TS-COOKBOOK",
+  "url": "https://typescript-cookbook.com/"
+}
