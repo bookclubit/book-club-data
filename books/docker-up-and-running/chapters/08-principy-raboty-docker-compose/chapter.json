@@ -1,15 +1,11 @@
 {
   "order": 8,
   "title": "Принципы работы Docker Compose",
-  "description": "Глава о Docker Compose — инструменте, который заменяет хрупкие shell-скрипты одним декларативным YAML-файлом для запуска и управления многоконтейнерными приложениями.",
-  "learning_outcome": "- Почему вручную оркестровать контейнеры через bash — больно и невоспроизводимо, и как docker-compose.yaml решает это через секции services, networks, volumes и depends_on с healthchecks. Освоишь запуск, отладку и остановку целого стека (на примере Rocket.Chat + MongoDB + Hubot), а также гибкую конфигурацию: переменные окружения, значения по умолчанию, обязательные параметры и файл `.env` для секретов.",
   "topics": [
     {
       "id": "docker-intro-8-1",
       "title": "Настройка Docker Compose",
-      "speakers": [
-        "Антон"
-      ],
+      "speakers": ["Антон"],
       "video_youtube": "https://youtu.be/1Lgxnktzvek?si=IWBHwmE8Oibqd6Le",
       "video_vk": "https://vkvideo.ru/video-226486590_456239245",
       "presentation": "https://bc-112-docker-8-pomazkov.pages.dev/",
@@ -18,9 +14,7 @@
     {
       "id": "docker-intro-8-2",
       "title": "Запуск сервисов",
-      "speakers": [
-        "Артём"
-      ],
+      "speakers": ["Артём"],
       "video_youtube": "https://youtu.be/1Lgxnktzvek?si=KzAR-kVsx6d_JIQo&t=425",
       "video_vk": "https://vkvideo.ru/video-226486590_456239245?t=7m5s",
       "presentation": "",
@@ -29,9 +23,7 @@
     {
       "id": "docker-intro-8-3",
       "title": "Принципы работы Rocket.Chat",
-      "speakers": [
-        "Артём"
-      ],
+      "speakers": ["Артём"],
       "video_youtube": "https://youtu.be/1Lgxnktzvek?si=TJuOv6FGOwOoq3x_&t=1343",
       "video_vk": "https://vkvideo.ru/video-226486590_456239245?t=22m23s",
       "presentation": "",
@@ -49,9 +41,7 @@
     {
       "id": "docker-intro-8-5",
       "title": "Управление конфигурацией",
-      "speakers": [
-        "Артём"
-      ],
+      "speakers": ["Артём"],
       "video_youtube": "https://youtu.be/1Lgxnktzvek?si=bLbhH7xVDfPlSBv4&t=2276",
       "video_vk": "https://vkvideo.ru/video-226486590_456239245?t=37m56s",
       "presentation": "",

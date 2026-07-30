@@ -1,15 +1,11 @@
 {
   "order": 7,
   "title": "Отладка контейнеров",
-  "description": "Глава о том, как диагностировать проблемы в контейнеризированных приложениях: процессы внутри контейнеров — это обычные процессы хоста, поэтому для отладки подходят и инструменты Docker, и стандартные средства Linux.",
-  "learning_outcome": "- Как смотреть процессы через docker container top, ps и pstree, отлаживать их с помощью strace, lsof, gdb и отдельного debug-контейнера с --pid=container и --cap-add=SYS_PTRACE. Разберёшься с сигналами, PID 1, зомби-процессами и флагом --init, а также научишься исследовать сеть через docker network inspect, netstat и docker-proxy, историю образа через docker image history, конфигурацию контейнеров на диске и изменения файловой системы через docker container diff.",
   "topics": [
     {
       "id": "docker-intro-7-1",
       "title": "Вывод процесса",
-      "speakers": [
-        "Антон"
-      ],
+      "speakers": ["Антон"],
       "video_youtube": "https://youtu.be/xctbgj03UvA?si=a3Jysqto1mp-qNEM",
       "video_vk": "https://vkvideo.ru/video-226486590_456239241",
       "presentation": "",
@@ -18,9 +14,7 @@
     {
       "id": "docker-intro-7-2",
       "title": "Изучение процесса",
-      "speakers": [
-        "Антон"
-      ],
+      "speakers": ["Антон"],
       "video_youtube": "https://youtu.be/xctbgj03UvA?si=bQu-bZ82Zrzhrucc&t=706",
       "video_vk": "https://vkvideo.ru/video-226486590_456239241",
       "presentation": "",
@@ -29,9 +23,7 @@
     {
       "id": "docker-intro-7-3",
       "title": "Контроль процессов",
-      "speakers": [
-        "Антон"
-      ],
+      "speakers": ["Антон"],
       "video_youtube": "https://youtu.be/xctbgj03UvA?si=8UQQ8JqYcuJGs0vF&t=975",
       "video_vk": "https://vkvideo.ru/video-226486590_456239241",
       "presentation": "",
@@ -40,9 +32,7 @@
     {
       "id": "docker-intro-7-4",
       "title": "Изучение сети",
-      "speakers": [
-        "Артём"
-      ],
+      "speakers": ["Артём"],
       "video_youtube": "https://youtu.be/xctbgj03UvA?si=Yb7Ox2hs0CebFGwy&t=1315",
       "video_vk": "https://vkvideo.ru/video-226486590_456239241?t=21m54s",
       "presentation": "",
@@ -51,9 +41,7 @@
     {
       "id": "docker-intro-7-5",
       "title": "История образа",
-      "speakers": [
-        "Артём"
-      ],
+      "speakers": ["Артём"],
       "video_youtube": "https://youtu.be/xctbgj03UvA?si=w8GahcOB3oyosqCC&t=1526",
       "video_vk": "https://vkvideo.ru/video-226486590_456239241?t=25m26s",
       "presentation": "",
@@ -62,9 +50,7 @@
     {
       "id": "docker-intro-7-6",
       "title": "Изучение контейнера",
-      "speakers": [
-        "Артём"
-      ],
+      "speakers": ["Артём"],
       "video_youtube": "https://youtu.be/xctbgj03UvA?si=YHzEyCIGKpYTx8zC&t=1665",
       "video_vk": "https://vkvideo.ru/video-226486590_456239241?t=27m44s",
       "presentation": "",
@@ -73,9 +59,7 @@
     {
       "id": "docker-intro-7-7",
       "title": "Изучение файловой системы",
-      "speakers": [
-        "Артём"
-      ],
+      "speakers": ["Артём"],
       "video_youtube": "https://youtu.be/xctbgj03UvA?si=0YDd6QiQ6P1rkFbJ&t=2009",
       "video_vk": "https://vkvideo.ru/video-226486590_456239241?t=33m29s",
       "presentation": "",

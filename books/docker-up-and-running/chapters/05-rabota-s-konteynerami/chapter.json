@@ -1,8 +1,6 @@
 {
   "order": 5,
   "title": "Работа с контейнерами",
-  "description": "Глава о том, как устроены контейнеры и как управлять ими в Docker: от истории контейнеризации и отличий от виртуальных машин до создания, запуска, остановки и очистки контейнеров.",
-  "learning_outcome": "Чем контейнеры отличаются от ВМ и как развивались технологии от chroot до LXC и Docker. Научишься задавать имя, метки, hostname, DNS, MAC-адрес, подключать тома, использовать read-only и tmpfs, а также ограничивать CPU, память, swap и блочный ввод-вывод через cgroup и ulimit. Освоишь docker container create, start, stop, kill, pause, unpause, rm, политики restart, отправку сигналов, docker system prune и базовый запуск Windows-контейнеров.",
   "topics": [
     {
       "id": "docker-intro-5-1",
