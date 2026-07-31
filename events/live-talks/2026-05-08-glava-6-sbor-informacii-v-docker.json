@@ -1,0 +1,28 @@
+{
+  "id": "live-2026-05-08-glava-6-sbor-informacii-v-docker",
+  "type": "live-talk",
+  "title": "Глава 6. Сбор информации в Docker",
+  "date": "2026-05-08",
+  "time": "23:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/wkzuuB_s1hE?si=5iOGjr8Gaa-LvVDU",
+    "vk": "https://vkvideo.ru/video-226486590_456239238"
+  },
+  "talks": [],
+  "book_id": "docker-intro",
+  "chapter": "06-sbor-informacii-v-docker",
+  "topic_ids": [
+    "docker-intro-6-1",
+    "docker-intro-6-2",
+    "docker-intro-6-3",
+    "docker-intro-6-4",
+    "docker-intro-6-5",
+    "docker-intro-6-6",
+    "docker-intro-6-7",
+    "docker-intro-6-8",
+    "docker-intro-6-9",
+    "docker-intro-6-10"
+  ],
+  "stream": 111
+}
