@@ -94,6 +94,18 @@
           "topics": 0
         },
         {
+          "slug": "02-jsx",
+          "order": 2,
+          "title": "JSX",
+          "topics": 0
+        },
+        {
+          "slug": "03-virtualnyy-dom",
+          "order": 3,
+          "title": "Виртуальный DOM",
+          "topics": 0
+        },
+        {
           "slug": "04-vnutri-soglasovaniya",
           "order": 4,
           "title": "Внутри согласования",
