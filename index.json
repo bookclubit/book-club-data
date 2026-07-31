@@ -94,6 +94,18 @@
           "topics": 0
         },
         {
+          "slug": "05-obschie-voprosy-i-moschnye-shablony",
+          "order": 5,
+          "title": "Общие вопросы и мощные шаблоны",
+          "topics": 0
+        },
+        {
+          "slug": "06-servernyy-react",
+          "order": 6,
+          "title": "Серверный React",
+          "topics": 0
+        },
+        {
           "slug": "07-konkurentnyy-react",
           "order": 7,
           "title": "Конкурентный React",
