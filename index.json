@@ -94,6 +94,12 @@
           "topics": 0
         },
         {
+          "slug": "08-freymvorki",
+          "order": 8,
+          "title": "Фреймворки",
+          "topics": 0
+        },
+        {
           "slug": "09-servernye-komponenty-react",
           "order": 9,
           "title": "Серверные компоненты React",
