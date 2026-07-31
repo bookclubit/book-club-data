@@ -24,5 +24,48 @@
     "docker-intro-6-9",
     "docker-intro-6-10"
   ],
-  "stream": 111
+  "recordings": {
+    "docker-intro-6-1": {
+      "youtube": "https://youtu.be/Cv75xOBYn6s?si=zZ8rxwy_LMIYEjb2",
+      "vk": "https://vkvideo.ru/video-226486590_456239239"
+    },
+    "docker-intro-6-2": {
+      "youtube": "https://youtu.be/Cv75xOBYn6s?si=j_wBh4SMzviG_kBm&t=231",
+      "vk": "https://vkvideo.ru/video-226486590_456239239?t=3m50s"
+    },
+    "docker-intro-6-3": {
+      "youtube": "https://youtu.be/Cv75xOBYn6s?si=HWcVYcQEmsCNDE5W&t=407",
+      "vk": "https://vkvideo.ru/video-226486590_456239239?t=6m46s"
+    },
+    "docker-intro-6-4": {
+      "youtube": "https://youtu.be/Cv75xOBYn6s?si=OA0Zmy5Xd7DSTH8G&t=651",
+      "vk": "https://vkvideo.ru/video-226486590_456239239?t=10m49s"
+    },
+    "docker-intro-6-5": {
+      "youtube": "https://youtu.be/Cv75xOBYn6s?si=uo0agBofCrsQGHN0&t=826",
+      "vk": "https://vkvideo.ru/video-226486590_456239239?t=13m44s"
+    },
+    "docker-intro-6-6": {
+      "youtube": "https://youtu.be/Cv75xOBYn6s?si=TOGQv461eYAXKQmN&t=1027",
+      "vk": "https://vkvideo.ru/video-226486590_456239239?t=17m5s"
+    },
+    "docker-intro-6-7": {
+      "youtube": "https://youtu.be/Cv75xOBYn6s?si=ysyfm2QlcFqceYcj&t=1208",
+      "vk": "https://vkvideo.ru/video-226486590_456239239?t=20m7s"
+    },
+    "docker-intro-6-8": {
+      "youtube": "https://youtu.be/Cv75xOBYn6s?si=-TU6xE1GJDnlqphZ&t=1497",
+      "vk": "https://vkvideo.ru/video-226486590_456239239?t=24m57s"
+    },
+    "docker-intro-6-9": {
+      "youtube": "https://youtu.be/Cv75xOBYn6s?si=UpIhy3C6-_Vcbg8y&t=1843",
+      "vk": "https://vkvideo.ru/video-226486590_456239239?t=30m43s"
+    },
+    "docker-intro-6-10": {
+      "youtube": "https://youtu.be/Cv75xOBYn6s?si=bRemXCP0sjpnk5Sv&t=2324",
+      "vk": "https://vkvideo.ru/video-226486590_456239239?t=38m44s"
+    }
+  },
+  "stream": 111,
+  "finished": true
 }
