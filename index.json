@@ -94,6 +94,12 @@
           "topics": 0
         },
         {
+          "slug": "07-konkurentnyy-react",
+          "order": 7,
+          "title": "Конкурентный React",
+          "topics": 0
+        },
+        {
           "slug": "08-freymvorki",
           "order": 8,
           "title": "Фреймворки",
