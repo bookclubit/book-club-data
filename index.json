@@ -94,6 +94,12 @@
           "topics": 0
         },
         {
+          "slug": "04-vnutri-soglasovaniya",
+          "order": 4,
+          "title": "Внутри согласования",
+          "topics": 0
+        },
+        {
           "slug": "05-obschie-voprosy-i-moschnye-shablony",
           "order": 5,
           "title": "Общие вопросы и мощные шаблоны",
