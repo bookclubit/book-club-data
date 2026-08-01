@@ -12,11 +12,7 @@
   "talks": [],
   "book_id": "docker-intro",
   "chapter": "09-perehod-na-konteynery-v-rabochey-srede",
-  "topic_ids": [
-    "docker-intro-9-1",
-    "docker-intro-9-2",
-    "docker-intro-9-3"
-  ],
+  "topic_ids": ["docker-intro-9-1", "docker-intro-9-2", "docker-intro-9-3"],
   "stream": 113,
   "finished": true
 }
