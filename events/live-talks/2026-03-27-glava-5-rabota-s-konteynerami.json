@@ -1,0 +1,44 @@
+{
+  "id": "live-2026-03-27-glava-5-rabota-s-konteynerami",
+  "type": "live-talk",
+  "title": "Глава 5. Работа с контейнерами",
+  "date": "2026-03-27",
+  "time": "23:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/u8H-56ONV2I?si=eK578tX9krIhZluG",
+    "vk": "https://vkvideo.ru/live-226486590_456239224"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "docker-intro",
+      "chapter": "05-rabota-s-konteynerami",
+      "topic_ids": [
+        "docker-intro-5-9",
+        "docker-intro-5-8",
+        "docker-intro-5-7",
+        "docker-intro-5-6",
+        "docker-intro-5-5",
+        "docker-intro-5-4",
+        "docker-intro-5-3",
+        "docker-intro-5-2",
+        "docker-intro-5-1"
+      ]
+    }
+  ],
+  "book_id": "docker-intro",
+  "chapter": "05-rabota-s-konteynerami",
+  "topic_ids": [
+    "docker-intro-5-9",
+    "docker-intro-5-8",
+    "docker-intro-5-7",
+    "docker-intro-5-6",
+    "docker-intro-5-5",
+    "docker-intro-5-4",
+    "docker-intro-5-3",
+    "docker-intro-5-2",
+    "docker-intro-5-1"
+  ],
+  "stream": 106
+}
