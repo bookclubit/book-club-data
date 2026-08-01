@@ -20,5 +20,20 @@
   "book_id": "fluent-react",
   "chapter": "07-konkurentnyy-react",
   "topic_ids": ["fluent-react-7-7", "fluent-react-7-6", "fluent-react-7-5"],
-  "stream": 108
+  "recordings": {
+    "fluent-react-7-5": {
+      "youtube": "https://youtu.be/HRzwJUcZYvw?si=3X2k5tKovOQDvC2h&t=1122",
+      "vk": "https://vkvideo.ru/video-226486590_456239233?t=18m41s"
+    },
+    "fluent-react-7-6": {
+      "youtube": "https://youtu.be/HRzwJUcZYvw?si=w-XXY2OTX1L4NDdl&t=1778",
+      "vk": "https://vkvideo.ru/video-226486590_456239233?t=29m38s"
+    },
+    "fluent-react-7-7": {
+      "youtube": "https://youtu.be/HRzwJUcZYvw?si=w-XXY2OTX1L4NDdl&t=1778",
+      "vk": "https://vkvideo.ru/video-226486590_456239233?t=29m38s"
+    }
+  },
+  "stream": 108,
+  "finished": true
 }
