@@ -1,5 +1,51 @@
 {
   "order": 9,
   "title": "Серверные компоненты React",
-  "topics": []
+  "topics": [
+    {
+      "id": "fluent-react-9-1",
+      "title": "Преимущества",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "fluent-react-9-2",
+      "title": "Серверный рендеринг",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "fluent-react-9-3",
+      "title": "Правила работы серверных компонентов",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "fluent-react-9-4",
+      "title": "Серверные действия",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "fluent-react-9-5",
+      "title": "Будущее серверных компонентов React",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    }
+  ]
 }

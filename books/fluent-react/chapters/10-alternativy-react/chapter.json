@@ -1,10 +1,10 @@
 {
-  "order": 7,
-  "title": "Конкурентный React",
+  "order": 10,
+  "title": "Альтернативы React",
   "topics": [
     {
-      "id": "fluent-react-7-1",
-      "title": "Проблема синхронного рендеринга",
+      "id": "fluent-react-10-1",
+      "title": "Vue.js",
       "speakers": [],
       "video_youtube": "",
       "video_vk": "",
@@ -12,8 +12,8 @@
       "resources": []
     },
     {
-      "id": "fluent-react-7-2",
-      "title": "Возвращаясь к Fiber",
+      "id": "fluent-react-10-2",
+      "title": "Angular",
       "speakers": [],
       "video_youtube": "",
       "video_vk": "",
@@ -21,8 +21,8 @@
       "resources": []
     },
     {
-      "id": "fluent-react-7-3",
-      "title": "Планирование и отсрочка обновлений",
+      "id": "fluent-react-10-3",
+      "title": "Svelte",
       "speakers": [],
       "video_youtube": "",
       "video_vk": "",
@@ -30,8 +30,8 @@
       "resources": []
     },
     {
-      "id": "fluent-react-7-4",
-      "title": "Погружаемся глубже",
+      "id": "fluent-react-10-4",
+      "title": "Solid",
       "speakers": [],
       "video_youtube": "",
       "video_vk": "",
@@ -39,8 +39,8 @@
       "resources": []
     },
     {
-      "id": "fluent-react-7-5",
-      "title": "Полосы рендеринга",
+      "id": "fluent-react-10-5",
+      "title": "Qwik",
       "speakers": [],
       "video_youtube": "",
       "video_vk": "",
@@ -48,8 +48,8 @@
       "resources": []
     },
     {
-      "id": "fluent-react-7-6",
-      "title": "useTransition",
+      "id": "fluent-react-10-6",
+      "title": "Общие шаблоны",
       "speakers": [],
       "video_youtube": "",
       "video_vk": "",
@@ -57,8 +57,8 @@
       "resources": []
     },
     {
-      "id": "fluent-react-7-7",
-      "title": "useDeferredValue",
+      "id": "fluent-react-10-7",
+      "title": "React не значит реактивный",
       "speakers": [],
       "video_youtube": "",
       "video_vk": "",
@@ -66,8 +66,8 @@
       "resources": []
     },
     {
-      "id": "fluent-react-7-8",
-      "title": "Проблемы с конкурентным рендерингом",
+      "id": "fluent-react-10-8",
+      "title": "Будущее React",
       "speakers": [],
       "video_youtube": "",
       "video_vk": "",

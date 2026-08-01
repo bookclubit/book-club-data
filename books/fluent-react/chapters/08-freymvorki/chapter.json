@@ -1,5 +1,51 @@
 {
   "order": 8,
   "title": "Фреймворки",
-  "topics": []
+  "topics": [
+    {
+      "id": "fluent-react-8-1",
+      "title": "Зачем нам нужен фреймворк",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "fluent-react-8-2",
+      "title": "Преимущества использования фреймворка",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "fluent-react-8-3",
+      "title": "Компромиссы использования фреймворка",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "fluent-react-8-4",
+      "title": "Популярные фреймворки React",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "fluent-react-8-5",
+      "title": "Выбор фреймворка",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    }
+  ]
 }

@@ -1,5 +1,42 @@
 {
   "order": 1,
   "title": "Обзор для начинающих",
-  "topics": []
+  "topics": [
+    {
+      "id": "fluent-react-1-1",
+      "title": "Почему React — это стоящая вещь?",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "fluent-react-1-2",
+      "title": "Мир до React",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "fluent-react-1-3",
+      "title": "Введение в React",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "fluent-react-1-4",
+      "title": "Подведение итогов: почему React — это стоящая вещь?",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    }
+  ]
 }

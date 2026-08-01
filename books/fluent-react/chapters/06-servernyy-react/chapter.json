@@ -1,5 +1,60 @@
 {
   "order": 6,
   "title": "Серверный React",
-  "topics": []
+  "topics": [
+    {
+      "id": "fluent-react-6-1",
+      "title": "Ограничения клиентского рендеринга",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "fluent-react-6-2",
+      "title": "Развитие серверного рендеринга",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "fluent-react-6-3",
+      "title": "Гидратация",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "fluent-react-6-4",
+      "title": "Организация серверного рендеринга",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "fluent-react-6-5",
+      "title": "API для серверного рендеринга в React",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "fluent-react-6-6",
+      "title": "Стоит ли изобретать велосипед?",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    }
+  ]
 }

@@ -1,5 +1,60 @@
 {
   "order": 2,
   "title": "JSX",
-  "topics": []
+  "topics": [
+    {
+      "id": "fluent-react-2-1",
+      "title": "Является ли JSX симбиозом JavaScript и XML?",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "fluent-react-2-2",
+      "title": "Преимущества JSX",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "fluent-react-2-3",
+      "title": "Недостатки JSX",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "fluent-react-2-4",
+      "title": "Что «под капотом»?",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "fluent-react-2-5",
+      "title": "JSX-прагма",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "fluent-react-2-6",
+      "title": "Выражения",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    }
+  ]
 }

@@ -1,5 +1,33 @@
 {
   "order": 3,
   "title": "Виртуальный DOM",
-  "topics": []
+  "topics": [
+    {
+      "id": "fluent-react-3-1",
+      "title": "Введение в виртуальный DOM",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "fluent-react-3-2",
+      "title": "Реальный DOM",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "fluent-react-3-3",
+      "title": "Как работает виртуальный DOM",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    }
+  ]
 }

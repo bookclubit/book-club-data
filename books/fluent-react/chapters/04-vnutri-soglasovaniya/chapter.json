@@ -1,5 +1,42 @@
 {
   "order": 4,
   "title": "Внутри согласования",
-  "topics": []
+  "topics": [
+    {
+      "id": "fluent-react-4-1",
+      "title": "Разбираемся в процессе согласования",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "fluent-react-4-2",
+      "title": "Пакетная обработка",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "fluent-react-4-3",
+      "title": "Небольшой экскурс в историю",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "fluent-react-4-4",
+      "title": "Fiber-согласователь",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    }
+  ]
 }

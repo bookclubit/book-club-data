@@ -1,5 +1,51 @@
 {
   "order": 5,
   "title": "Общие вопросы и мощные шаблоны",
-  "topics": []
+  "topics": [
+    {
+      "id": "fluent-react-5-1",
+      "title": "Запоминание с помощью React.memo",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "fluent-react-5-2",
+      "title": "Запоминание с помощью useMemo",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "fluent-react-5-3",
+      "title": "Ленивая загрузка",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "fluent-react-5-4",
+      "title": "Сравнение useState и useReducer",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "fluent-react-5-5",
+      "title": "Мощные паттерны",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    }
+  ]
 }
