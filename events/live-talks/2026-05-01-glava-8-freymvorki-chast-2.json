@@ -20,5 +20,15 @@
   "book_id": "fluent-react",
   "chapter": "08-freymvorki",
   "topic_ids": ["fluent-react-8-4", "fluent-react-8-5"],
+  "recordings": {
+    "fluent-react-8-5": {
+      "youtube": "https://youtu.be/Yoemn5lC0nE?si=4IS5braGulqJO6J3&t=2071",
+      "vk": "https://vkvideo.ru/video-226486590_456239236?t=34m30s"
+    },
+    "fluent-react-8-4": {
+      "youtube": "https://youtu.be/Yoemn5lC0nE?si=01Gfg4A2AerUpzpX&t=1379",
+      "vk": "https://vkvideo.ru/video-226486590_456239236?t=22m58s"
+    }
+  },
   "stream": 110
 }
