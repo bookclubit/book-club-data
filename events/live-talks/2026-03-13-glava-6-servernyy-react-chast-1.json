@@ -20,5 +20,16 @@
   "book_id": "fluent-react",
   "chapter": "06-servernyy-react",
   "topic_ids": ["fluent-react-6-1", "fluent-react-6-2"],
-  "stream": 104
+  "recordings": {
+    "fluent-react-6-1": {
+      "youtube": "https://youtu.be/RlL9RtS5H1E?si=OBqgp-dA-_JikYoH",
+      "vk": "https://vkvideo.ru/video-226486590_456239222"
+    },
+    "fluent-react-6-2": {
+      "youtube": "https://youtu.be/RlL9RtS5H1E?si=0ejHXRmCnAowXBIB&t=525",
+      "vk": "https://vkvideo.ru/video-226486590_456239222?t=8m44s"
+    }
+  },
+  "stream": 104,
+  "finished": true
 }
