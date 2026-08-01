@@ -11,6 +11,7 @@
     "from": 297,
     "to": 327
   },
+  "notes_board_url": "https://excalidraw.com/#json=wbmrWdG0tuXYj2GOkS_0W,911PsUBEZQB1ygqemaqQhw",
   "streams": {
     "youtube": "https://www.youtube.com/live/n5Uy899iuLw?si=OL0-mWFOGoIA4Vnz",
     "vk": "https://vkvideo.ru/video-226486590_456239247"
@@ -28,5 +29,6 @@
       "avatar": "/media/speakers/pomazkov-anton.webp"
     }
   ],
-  "call_url": "https://meet.google.com/his-irnf-zgu"
+  "call_url": "https://meet.google.com/his-irnf-zgu",
+  "finished": true
 }
