@@ -154,7 +154,7 @@
       "id": "typescript-cookbook",
       "title": "Рецепты TypeScript",
       "status": "finished",
-      "category": "base",
+      "category": "typescript",
       "chapters": []
     },
     {
@@ -162,7 +162,7 @@
       "id": "you-don-t-know-js-up-and-going",
       "title": "{Вы пока еще не знаете JS} Познакомьтесь, JavaScript",
       "status": "finished",
-      "category": "base",
+      "category": "javascript",
       "chapters": []
     }
   ],
