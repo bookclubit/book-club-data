@@ -1,0 +1,24 @@
+{
+  "id": "live-2026-04-10-glava-7-konkurentnyy-react-chast-2",
+  "type": "live-talk",
+  "title": "Глава 7. Конкурентный React - часть 2",
+  "date": "2026-04-10",
+  "time": "23:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/mzAtlWU1t54?si=ldWTmgpRQwGUqiG7",
+    "vk": "https://vkvideo.ru/video-226486590_456239229"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "fluent-react",
+      "chapter": "07-konkurentnyy-react",
+      "topic_ids": ["fluent-react-7-7", "fluent-react-7-6", "fluent-react-7-5"]
+    }
+  ],
+  "book_id": "fluent-react",
+  "chapter": "07-konkurentnyy-react",
+  "topic_ids": ["fluent-react-7-7", "fluent-react-7-6", "fluent-react-7-5"],
+  "stream": 108
+}
