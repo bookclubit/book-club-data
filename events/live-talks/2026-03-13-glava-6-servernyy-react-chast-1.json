@@ -1,0 +1,24 @@
+{
+  "id": "live-2026-03-13-glava-6-servernyy-react-chast-1",
+  "type": "live-talk",
+  "title": "Глава 6. Серверный React - часть 1",
+  "date": "2026-03-13",
+  "time": "23:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/bldTqEDd5cw?si=T2y3Y0tejFt9pyZL",
+    "vk": "https://vkvideo.ru/video-226486590_456239218"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "fluent-react",
+      "chapter": "06-servernyy-react",
+      "topic_ids": ["fluent-react-6-1", "fluent-react-6-2"]
+    }
+  ],
+  "book_id": "fluent-react",
+  "chapter": "06-servernyy-react",
+  "topic_ids": ["fluent-react-6-1", "fluent-react-6-2"],
+  "stream": 104
+}
