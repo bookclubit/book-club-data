@@ -30,5 +30,24 @@
     "fluent-react-7-2",
     "fluent-react-7-4"
   ],
-  "stream": 107
+  "recordings": {
+    "fluent-react-7-1": {
+      "youtube": "https://youtu.be/HRzwJUcZYvw?si=NehlSZtg7e7S9ldY",
+      "vk": "https://vkvideo.ru/video-226486590_456239233"
+    },
+    "fluent-react-7-2": {
+      "youtube": "https://youtu.be/HRzwJUcZYvw?si=NehlSZtg7e7S9ldY",
+      "vk": "https://vkvideo.ru/video-226486590_456239233"
+    },
+    "fluent-react-7-3": {
+      "youtube": "https://youtu.be/HRzwJUcZYvw?si=2CfXAnPNBtVE9_Wy&t=244",
+      "vk": "https://vkvideo.ru/video-226486590_456239233?t=4m3s"
+    },
+    "fluent-react-7-4": {
+      "youtube": "https://youtu.be/HRzwJUcZYvw?si=2CfXAnPNBtVE9_Wy&t=244",
+      "vk": "https://vkvideo.ru/video-226486590_456239233?t=4m3s"
+    }
+  },
+  "stream": 107,
+  "finished": true
 }
