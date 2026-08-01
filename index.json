@@ -91,55 +91,61 @@
           "slug": "01-obzor-dlya-nachinayuschih",
           "order": 1,
           "title": "Обзор для начинающих",
-          "topics": 0
+          "topics": 4
         },
         {
           "slug": "02-jsx",
           "order": 2,
           "title": "JSX",
-          "topics": 0
+          "topics": 6
         },
         {
           "slug": "03-virtualnyy-dom",
           "order": 3,
           "title": "Виртуальный DOM",
-          "topics": 0
+          "topics": 3
         },
         {
           "slug": "04-vnutri-soglasovaniya",
           "order": 4,
           "title": "Внутри согласования",
-          "topics": 0
+          "topics": 4
         },
         {
           "slug": "05-obschie-voprosy-i-moschnye-shablony",
           "order": 5,
           "title": "Общие вопросы и мощные шаблоны",
-          "topics": 0
+          "topics": 5
         },
         {
           "slug": "06-servernyy-react",
           "order": 6,
           "title": "Серверный React",
-          "topics": 0
+          "topics": 6
         },
         {
           "slug": "07-konkurentnyy-react",
           "order": 7,
           "title": "Конкурентный React",
-          "topics": 0
+          "topics": 8
         },
         {
           "slug": "08-freymvorki",
           "order": 8,
           "title": "Фреймворки",
-          "topics": 0
+          "topics": 5
         },
         {
           "slug": "09-servernye-komponenty-react",
           "order": 9,
           "title": "Серверные компоненты React",
-          "topics": 0
+          "topics": 5
+        },
+        {
+          "slug": "10-alternativy-react",
+          "order": 10,
+          "title": "Альтернативы React",
+          "topics": 8
         }
       ]
     },
