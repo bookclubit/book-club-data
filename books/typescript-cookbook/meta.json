@@ -12,7 +12,7 @@
     }
   ],
   "status": "finished",
-  "category": "base",
+  "category": "typescript",
   "cover": "/media/covers/typescript-cookbook.webp",
   "tags": [],
   "description": "Практический справочник, созданный для того, чтобы помочь разработчикам перестать бороться с компилятором и начать использовать всю мощь строгой типизации",
