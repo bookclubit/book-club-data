@@ -40,6 +40,44 @@
     "docker-intro-5-2",
     "docker-intro-5-1"
   ],
+  "recordings": {
+    "docker-intro-5-1": {
+      "youtube": "https://youtu.be/q6XWBKIDGfo?si=974b7c1hcFt4BJOD",
+      "vk": "https://vkvideo.ru/video-226486590_456239227"
+    },
+    "docker-intro-5-2": {
+      "youtube": "https://youtu.be/q6XWBKIDGfo?si=2oIjyFSvcHSIdB9u&t=1059",
+      "vk": "https://vkvideo.ru/video-226486590_456239227?t=17m39s"
+    },
+    "docker-intro-5-3": {
+      "youtube": "https://youtu.be/q6XWBKIDGfo?si=qB_9ijLjaEaakbVH&t=1898",
+      "vk": "https://vkvideo.ru/video-226486590_456239227?t=31m38s"
+    },
+    "docker-intro-5-4": {
+      "youtube": "https://youtu.be/q6XWBKIDGfo?si=qB_9ijLjaEaakbVH&t=1898",
+      "vk": "https://vkvideo.ru/video-226486590_456239227?t=31m38s"
+    },
+    "docker-intro-5-5": {
+      "youtube": "https://youtu.be/q6XWBKIDGfo?si=qB_9ijLjaEaakbVH&t=1898",
+      "vk": "https://vkvideo.ru/video-226486590_456239227?t=31m38s"
+    },
+    "docker-intro-5-6": {
+      "youtube": "https://youtu.be/q6XWBKIDGfo?si=qB_9ijLjaEaakbVH&t=1898",
+      "vk": "https://vkvideo.ru/video-226486590_456239227?t=31m38s"
+    },
+    "docker-intro-5-7": {
+      "youtube": "https://youtu.be/q6XWBKIDGfo?si=qB_9ijLjaEaakbVH&t=1898",
+      "vk": "https://vkvideo.ru/video-226486590_456239227?t=31m38s"
+    },
+    "docker-intro-5-8": {
+      "youtube": "https://youtu.be/q6XWBKIDGfo?si=qB_9ijLjaEaakbVH&t=1898",
+      "vk": "https://vkvideo.ru/video-226486590_456239227?t=31m38s"
+    },
+    "docker-intro-5-9": {
+      "youtube": "https://youtu.be/q6XWBKIDGfo?si=LNGV4BP6XjaKFV8a&t=2870",
+      "vk": "https://vkvideo.ru/video-226486590_456239227?t=47m49s"
+    }
+  },
   "stream": 106,
   "finished": true
 }
