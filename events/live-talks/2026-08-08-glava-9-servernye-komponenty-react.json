@@ -1,0 +1,36 @@
+{
+  "id": "live-2026-08-08-glava-9-servernye-komponenty-react",
+  "type": "live-talk",
+  "title": "ГЛАВА 9. Серверные компоненты React",
+  "date": "2026-08-08",
+  "time": "23:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/u8KuKZNp768?si=AxndKndDceLhdu6X",
+    "vk": "https://vkvideo.ru/live-226486590_456239248"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "fluent-react",
+      "chapter": "09-servernye-komponenty-react",
+      "topic_ids": [
+        "fluent-react-9-1",
+        "fluent-react-9-2",
+        "fluent-react-9-3",
+        "fluent-react-9-4",
+        "fluent-react-9-5"
+      ]
+    }
+  ],
+  "book_id": "fluent-react",
+  "chapter": "09-servernye-komponenty-react",
+  "topic_ids": [
+    "fluent-react-9-1",
+    "fluent-react-9-2",
+    "fluent-react-9-3",
+    "fluent-react-9-4",
+    "fluent-react-9-5"
+  ],
+  "stream": 115
+}
