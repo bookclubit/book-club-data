@@ -259,6 +259,18 @@
       "socials": {
         "telegram": "https://t.me/kunjutone"
       }
+    },
+    {
+      "id": "eremin-maksim",
+      "name": "Максим Еремин",
+      "aliases": [
+        "Максим",
+        "Максим Еремин"
+      ],
+      "avatar": "/media/speakers/eremin-maksim.webp",
+      "socials": {
+        "telegram": "@eremin_maksim_official"
+      }
     }
   ]
 }
