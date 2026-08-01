@@ -1,0 +1,53 @@
+{
+  "id": "live-2026-04-03-glava-7-konkurentnyy-react-chast-1",
+  "type": "live-talk",
+  "title": "Глава 7. Конкурентный React - часть 1",
+  "date": "2026-04-03",
+  "time": "23:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/6eLWO0umHbs?si=WrogSY3pn0033vWc",
+    "vk": "https://vkvideo.ru/video-226486590_456239226"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "fluent-react",
+      "chapter": "07-konkurentnyy-react",
+      "topic_ids": [
+        "fluent-react-7-1",
+        "fluent-react-7-3",
+        "fluent-react-7-2",
+        "fluent-react-7-4"
+      ]
+    }
+  ],
+  "book_id": "fluent-react",
+  "chapter": "07-konkurentnyy-react",
+  "topic_ids": [
+    "fluent-react-7-1",
+    "fluent-react-7-3",
+    "fluent-react-7-2",
+    "fluent-react-7-4"
+  ],
+  "recordings": {
+    "fluent-react-7-1": {
+      "youtube": "https://youtu.be/HRzwJUcZYvw?si=NehlSZtg7e7S9ldY",
+      "vk": "https://vkvideo.ru/video-226486590_456239233"
+    },
+    "fluent-react-7-2": {
+      "youtube": "https://youtu.be/HRzwJUcZYvw?si=NehlSZtg7e7S9ldY",
+      "vk": "https://vkvideo.ru/video-226486590_456239233"
+    },
+    "fluent-react-7-3": {
+      "youtube": "https://youtu.be/HRzwJUcZYvw?si=2CfXAnPNBtVE9_Wy&t=244",
+      "vk": "https://vkvideo.ru/video-226486590_456239233?t=4m3s"
+    },
+    "fluent-react-7-4": {
+      "youtube": "https://youtu.be/HRzwJUcZYvw?si=2CfXAnPNBtVE9_Wy&t=244",
+      "vk": "https://vkvideo.ru/video-226486590_456239233?t=4m3s"
+    }
+  },
+  "stream": 107,
+  "finished": true
+}
