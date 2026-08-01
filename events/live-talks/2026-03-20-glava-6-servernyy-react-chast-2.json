@@ -1,0 +1,53 @@
+{
+  "id": "live-2026-03-20-glava-6-servernyy-react-chast-2",
+  "type": "live-talk",
+  "title": "Глава 6. Серверный React - часть 2",
+  "date": "2026-03-20",
+  "time": "23:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/fE3GoDqfBik?si=49PHJ2akAumCx121",
+    "vk": "https://vkvideo.ru/live-226486590_456239221"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "fluent-react",
+      "chapter": "06-servernyy-react",
+      "topic_ids": [
+        "fluent-react-6-3",
+        "fluent-react-6-4",
+        "fluent-react-6-5",
+        "fluent-react-6-6"
+      ]
+    }
+  ],
+  "book_id": "fluent-react",
+  "chapter": "06-servernyy-react",
+  "topic_ids": [
+    "fluent-react-6-3",
+    "fluent-react-6-4",
+    "fluent-react-6-5",
+    "fluent-react-6-6"
+  ],
+  "recordings": {
+    "fluent-react-6-3": {
+      "youtube": "https://youtu.be/RlL9RtS5H1E?si=zQVcxJaymH8JsjEK&t=999",
+      "vk": "https://vkvideo.ru/video-226486590_456239222?t=16m38s"
+    },
+    "fluent-react-6-4": {
+      "youtube": "https://youtu.be/RlL9RtS5H1E?si=2PwhSAc8z_6lKL8N&t=1557",
+      "vk": "https://vkvideo.ru/video-226486590_456239222?t=25m56s"
+    },
+    "fluent-react-6-5": {
+      "youtube": "https://youtu.be/RlL9RtS5H1E?si=V2s8DXLkyMPiEa77&t=2018",
+      "vk": "https://vkvideo.ru/video-226486590_456239222?t=33m37s"
+    },
+    "fluent-react-6-6": {
+      "youtube": "https://youtu.be/RlL9RtS5H1E?si=AsK58MRco8cEy3Eh&t=2367",
+      "vk": "https://vkvideo.ru/video-226486590_456239222?t=39m26s"
+    }
+  },
+  "stream": 105,
+  "finished": true
+}
