@@ -1,0 +1,29 @@
+{
+  "id": "live-2026-04-24-glava-8-freymvorki-chast-1",
+  "type": "live-talk",
+  "title": "Глава 8. Фреймворки - часть 1",
+  "date": "2026-04-24",
+  "time": "23:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/C78Cbk1PMfI?si=LObDxuQdZN3be9PR",
+    "vk": "https://vkvideo.ru/video-226486590_456239232"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "fluent-react",
+      "chapter": "08-freymvorki",
+      "topic_ids": ["fluent-react-8-3", "fluent-react-8-2", "fluent-react-8-1"]
+    },
+    {
+      "book_id": "fluent-react",
+      "chapter": "07-konkurentnyy-react",
+      "topic_ids": ["fluent-react-7-8"]
+    }
+  ],
+  "book_id": "fluent-react",
+  "chapter": "08-freymvorki",
+  "topic_ids": ["fluent-react-8-3", "fluent-react-8-2", "fluent-react-8-1"],
+  "stream": 109
+}
