@@ -178,7 +178,14 @@
       "title": "{Вы пока еще не знаете JS} Область видимости и замыкания",
       "status": "finished",
       "category": "javascript",
-      "chapters": []
+      "chapters": [
+        {
+          "slug": "09-prilozhenie-a-dalneyshee-izuchenie",
+          "order": 9,
+          "title": "Приложение А. Дальнейшее изучение",
+          "topics": 9
+        }
+      ]
     }
   ],
   "authors": [
