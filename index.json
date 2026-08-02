@@ -163,7 +163,14 @@
       "title": "{Вы пока еще не знаете JS} Познакомьтесь, JavaScript",
       "status": "finished",
       "category": "javascript",
-      "chapters": []
+      "chapters": [
+        {
+          "slug": "05-prilozhenie-a-dalneyshee-izuchenie",
+          "order": 5,
+          "title": "Приложение А. Дальнейшее изучение",
+          "topics": 3
+        }
+      ]
     }
   ],
   "authors": [
