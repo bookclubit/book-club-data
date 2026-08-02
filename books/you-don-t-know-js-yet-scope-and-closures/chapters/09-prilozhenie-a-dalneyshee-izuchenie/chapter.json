@@ -1,0 +1,87 @@
+{
+  "order": 9,
+  "title": "Приложение А. Дальнейшее изучение",
+  "topics": [
+    {
+      "id": "you-don-t-know-js-yet-scope-and-closures-9-1",
+      "title": "Предполагаемые области видимости",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-yet-scope-and-closures-9-2",
+      "title": "Область видимости имени функции",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-yet-scope-and-closures-9-3",
+      "title": "Анонимные и именованные функции",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-yet-scope-and-closures-9-4",
+      "title": "Поднятие: функции и переменные",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-yet-scope-and-closures-9-5",
+      "title": "В защиту var",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-yet-scope-and-closures-9-6",
+      "title": "Для чего была создана TDZ?",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-yet-scope-and-closures-9-7",
+      "title": "Остаются ли синхронные обратные вызовы замыканиями?",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-yet-scope-and-closures-9-8",
+      "title": "Вариации на тему классических модулей",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-yet-scope-and-closures-9-9",
+      "title": "Универсальные модули (UMD)",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    }
+  ]
+}
