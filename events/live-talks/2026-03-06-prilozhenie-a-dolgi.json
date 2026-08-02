@@ -38,5 +38,40 @@
     "you-don-t-know-js-up-and-going-5-1",
     "you-don-t-know-js-up-and-going-5-3"
   ],
-  "stream": 103
+  "recordings": {
+    "you-don-t-know-js-up-and-going-5-1": {
+      "youtube": "https://youtu.be/IYXiH2EANuc?si=LXj9BaI8ASg_25Wf&t=19022",
+      "vk": "https://vkvideo.ru/video-226486590_456239220?t=5h17m2s"
+    },
+    "you-don-t-know-js-up-and-going-5-3": {
+      "youtube": "https://youtu.be/IYXiH2EANuc?si=2zaJbjAsj03mu1X3&t=21499",
+      "vk": "https://vkvideo.ru/video-226486590_456239220?t=5h58m20s"
+    },
+    "you-don-t-know-js-yet-scope-and-closures-9-2": {
+      "youtube": "https://youtu.be/JeCAGCBSwnM?si=Rw7RX_Jdwpg54TmP&t=19636",
+      "vk": "https://vkvideo.ru/video-226486590_456239231?t=5h27m16s"
+    },
+    "you-don-t-know-js-yet-scope-and-closures-9-3": {
+      "youtube": "https://youtu.be/JeCAGCBSwnM?si=MmoEB46avhrU-1K8&t=19768",
+      "vk": "https://vkvideo.ru/video-226486590_456239231?t=5h29m27s"
+    },
+    "you-don-t-know-js-yet-scope-and-closures-9-4": {
+      "youtube": "https://youtu.be/JeCAGCBSwnM?si=UjYW05fX7Q8txM2W&t=20253",
+      "vk": "https://vkvideo.ru/video-226486590_456239231?t=5h37m32s"
+    },
+    "you-don-t-know-js-yet-scope-and-closures-9-5": {
+      "youtube": "https://youtu.be/JeCAGCBSwnM?si=ZQj3exwupqEkBemd&t=20490",
+      "vk": "https://vkvideo.ru/video-226486590_456239231?t=5h41m29s"
+    },
+    "you-don-t-know-js-yet-scope-and-closures-9-7": {
+      "youtube": "https://youtu.be/JeCAGCBSwnM?si=zi17ZUHJovM0eLc5&t=21527",
+      "vk": "https://vkvideo.ru/video-226486590_456239231?t=5h58m46s"
+    },
+    "you-don-t-know-js-yet-scope-and-closures-9-8": {
+      "youtube": "https://youtu.be/JeCAGCBSwnM?si=P97rYDl1BKZId_eo&t=22148",
+      "vk": "https://vkvideo.ru/video-226486590_456239231?t=6h9m8s"
+    }
+  },
+  "stream": 103,
+  "finished": true
 }
