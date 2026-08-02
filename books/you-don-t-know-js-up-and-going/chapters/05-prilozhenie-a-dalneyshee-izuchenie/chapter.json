@@ -1,0 +1,33 @@
+{
+  "order": 5,
+  "title": "Приложение А. Дальнейшее изучение",
+  "topics": [
+    {
+      "id": "you-don-t-know-js-up-and-going-5-1",
+      "title": "Значения и ссылки",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-up-and-going-5-2",
+      "title": "Многоликие функции",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-up-and-going-5-3",
+      "title": "Прототипические классы",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    }
+  ]
+}
