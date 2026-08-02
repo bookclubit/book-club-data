@@ -171,6 +171,14 @@
           "topics": 3
         }
       ]
+    },
+    {
+      "folder": "you-don-t-know-js-yet-scope-and-closures",
+      "id": "you-don-t-know-js-yet-scope-and-closures",
+      "title": "{Вы пока еще не знаете JS} Область видимости и замыкания",
+      "status": "finished",
+      "category": "javascript",
+      "chapters": []
     }
   ],
   "authors": [
@@ -197,7 +205,8 @@
       "avatar": "/media/authors/kayl-simpson.webp",
       "url": "https://me.getify.com/",
       "books": [
-        "you-don-t-know-js-up-and-going"
+        "you-don-t-know-js-up-and-going",
+        "you-don-t-know-js-yet-scope-and-closures"
       ]
     },
     {
