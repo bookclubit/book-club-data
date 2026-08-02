@@ -1,0 +1,42 @@
+{
+  "id": "live-2026-03-06-prilozhenie-a-dolgi",
+  "type": "live-talk",
+  "title": "Приложение А (долги)",
+  "date": "2026-03-06",
+  "time": "23:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/QFN001uKoy4?si=cqkJDNzraHAO2BUq",
+    "vk": "https://vkvideo.ru/video-226486590_456239216"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "you-don-t-know-js-up-and-going",
+      "chapter": "05-prilozhenie-a-dalneyshee-izuchenie",
+      "topic_ids": [
+        "you-don-t-know-js-up-and-going-5-1",
+        "you-don-t-know-js-up-and-going-5-3"
+      ]
+    },
+    {
+      "book_id": "you-don-t-know-js-yet-scope-and-closures",
+      "chapter": "09-prilozhenie-a-dalneyshee-izuchenie",
+      "topic_ids": [
+        "you-don-t-know-js-yet-scope-and-closures-9-2",
+        "you-don-t-know-js-yet-scope-and-closures-9-4",
+        "you-don-t-know-js-yet-scope-and-closures-9-8",
+        "you-don-t-know-js-yet-scope-and-closures-9-5",
+        "you-don-t-know-js-yet-scope-and-closures-9-7",
+        "you-don-t-know-js-yet-scope-and-closures-9-3"
+      ]
+    }
+  ],
+  "book_id": "you-don-t-know-js-up-and-going",
+  "chapter": "05-prilozhenie-a-dalneyshee-izuchenie",
+  "topic_ids": [
+    "you-don-t-know-js-up-and-going-5-1",
+    "you-don-t-know-js-up-and-going-5-3"
+  ],
+  "stream": 103
+}
