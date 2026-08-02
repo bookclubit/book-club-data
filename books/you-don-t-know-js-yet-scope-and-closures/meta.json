@@ -1,0 +1,22 @@
+{
+  "id": "you-don-t-know-js-yet-scope-and-closures",
+  "title": "{Вы пока еще не знаете JS} Область видимости и замыкания",
+  "title_original": "You Don't Know JS Yet: Scope & Closures",
+  "edition": 2,
+  "authors": [
+    {
+      "id": "kayl-simpson",
+      "name": "Кайл Симпсон",
+      "url": "https://me.getify.com/",
+      "avatar": "/media/authors/kayl-simpson.webp"
+    }
+  ],
+  "status": "finished",
+  "category": "javascript",
+  "cover": "/media/covers/you-don-t-know-js-yet-scope-and-closures.webp",
+  "tags": [],
+  "description": "Глубокое техническое руководство, которое детально объясняет базовую механику компиляции и исполнения кода в JavaScript. Автор Кайл Симпсон развеивает миф о том, что JS является чисто интерпретируемым языком, и доказывает, что понимание этапа компиляции — ключ к предотвращению багов.",
+  "total_chapters": 9,
+  "code": "YDTKJS-YSAC",
+  "url": "https://www.piter.com/collection/diskont-2/product/vy-poka-esche-ne-znaete-js-oblast-vidimosti-i-zamykaniya-2-e-mezhd-izdanie"
+}
