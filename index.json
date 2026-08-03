@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "active_book": "ai-engineering",
+  "active_book": "fluent-react",
   "books": [
     {
       "folder": "ai-engineering",
@@ -237,6 +237,7 @@
       "id": "tejas-kumar",
       "name": "Теджас Кумар",
       "avatar": "/media/authors/tejas-kumar.webp",
+      "url": "https://tej.as/",
       "books": [
         "fluent-react"
       ]
