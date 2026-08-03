@@ -1,0 +1,71 @@
+[
+  {
+    "id": "fluent-001",
+    "type": "qa",
+    "question": "Что такое RSC?",
+    "answer": "RSC (React Server Components) — это новый тип React-компонентов, которые выполняются исключительно на сервере. Их код не отправляется в браузер, что позволяет сократить размер финального JavaScript-бандла",
+    "chapter": "9",
+    "difficulty": "hard"
+  },
+  {
+    "id": "fluent-002",
+    "type": "qa",
+    "question": "React-компонент — что это?",
+    "answer": "Функция (или класс), возвращающая JSX (разметку).",
+    "example": "function Greeting({ name }) {\n  return <h1>Hello, {name}!</h1>;\n}",
+    "chapter": "9",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fluent-003",
+    "type": "qa",
+    "question": "SSR в React — что это?",
+    "answer": "Server-Side Rendering (рендеринг на сервере). React-компоненты превращаются в HTML на сервере и отправляются клиенту уже готовой разметкой. Это ускоряет первую загрузку (FCP) и помогает SEO.",
+    "chapter": "9",
+    "difficulty": "hard"
+  },
+  {
+    "id": "fluent-004",
+    "type": "qa",
+    "question": "Сериализация — что это в контексте React?",
+    "answer": "Превращение сложных данных (объектов, деревьев компонентов) в плоский формат (строку/бинарные данные) для передачи по сети.",
+    "chapter": "9",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fluent-005",
+    "type": "qa",
+    "question": "$$typeof в React — что это?",
+    "answer": "Специальный символ (Symbol.for('react.element')), который React вставляет в каждый элемент. Используется для защиты от XSS — React рендерит только объекты с этим маркером, игнорируя потенциально опасные поддельные объекты.",
+    "example": "const element = <h1>Hi</h1>;\nconsole.log(element.$$typeof); // Symbol(react.element)",
+    "chapter": "9",
+    "difficulty": "hard"
+  },
+  {
+    "id": "fluent-006",
+    "type": "qa",
+    "question": "\"use client\" — что это в React?",
+    "answer": "Директива (строка в начале файла), которая помечает компонент как клиентский. Без неё — компонент серверный (RSC). Указывает фреймворку (Next.js), что этот компонент должен выполняться на клиенте и иметь доступ к браузерным API.",
+    "example": "'use client';\n\nimport { useState } from 'react';\n\nexport default function Counter() {\n  const [count, setCount] = useState(0);\n  return <button onClick={() => setCount(count + 1)}>{count}</button>;\n}",
+    "chapter": "9",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fluent-007",
+    "type": "qa",
+    "question": "\"use server\" — что это в React?",
+    "answer": "Директива, помечающая асинхронную функцию, которая выполняется только на сервере.",
+    "example": "'use server';\n\nexport async function createPost(formData) {\n  const title = formData.get('title');\n  await db.posts.create({ title });\n}",
+    "chapter": "9",
+    "difficulty": "hard"
+  },
+  {
+    "id": "fluent-008",
+    "type": "qa",
+    "question": "Server Actions — что это в React?",
+    "answer": "Механизм вызова серверного кода напрямую из клиентских компонентов. Функции с \"use server\" вызываются из браузера, но исполняются на сервере. Работают в связке с формами или пользовательскими событиями.",
+    "example": "<form action={createPost}>\n  <input name=\"title\" />\n  <button type=\"submit\">Создать</button>\n</form>",
+    "chapter": "9",
+    "difficulty": "hard"
+  }
+]
