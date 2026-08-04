@@ -1,0 +1,65 @@
+{
+  "id": "live-2025-11-07-glava-2-jsx",
+  "type": "live-talk",
+  "title": "Глава 2. JSX",
+  "date": "2025-11-07",
+  "time": "18:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/jIa02MO-yzs",
+    "vk": "https://vkvideo.ru/video-226486590_456239192"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "fluent-react",
+      "chapter": "02-jsx",
+      "topic_ids": [
+        "fluent-react-2-1",
+        "fluent-react-2-2",
+        "fluent-react-2-3",
+        "fluent-react-2-4",
+        "fluent-react-2-5",
+        "fluent-react-2-6"
+      ]
+    }
+  ],
+  "book_id": "fluent-react",
+  "chapter": "02-jsx",
+  "topic_ids": [
+    "fluent-react-2-1",
+    "fluent-react-2-2",
+    "fluent-react-2-3",
+    "fluent-react-2-4",
+    "fluent-react-2-5",
+    "fluent-react-2-6"
+  ],
+  "recordings": {
+    "fluent-react-2-1": {
+      "youtube": "https://youtu.be/lPzmXQakGyE?t=0",
+      "vk": "https://vkvideo.ru/video-226486590_456239193?t=0m0s"
+    },
+    "fluent-react-2-2": {
+      "youtube": "https://youtu.be/lPzmXQakGyE?t=519",
+      "vk": "https://vkvideo.ru/video-226486590_456239193?t=8m39s"
+    },
+    "fluent-react-2-3": {
+      "youtube": "https://youtu.be/lPzmXQakGyE?t=519",
+      "vk": "https://vkvideo.ru/video-226486590_456239193?t=8m39s"
+    },
+    "fluent-react-2-4": {
+      "youtube": "https://youtu.be/lPzmXQakGyE?t=753",
+      "vk": "https://vkvideo.ru/video-226486590_456239193?t=12m33s"
+    },
+    "fluent-react-2-5": {
+      "youtube": "https://youtu.be/lPzmXQakGyE?t=1543",
+      "vk": "https://vkvideo.ru/video-226486590_456239193?t=25m43s"
+    },
+    "fluent-react-2-6": {
+      "youtube": "https://youtu.be/lPzmXQakGyE?t=1822",
+      "vk": "https://vkvideo.ru/video-226486590_456239193?t=30m22s"
+    }
+  },
+  "stream": 96,
+  "finished": true
+}

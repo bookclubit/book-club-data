@@ -5,7 +5,7 @@
     {
       "id": "fluent-react-2-1",
       "title": "Является ли JSX симбиозом JavaScript и XML?",
-      "speakers": [],
+      "speakers": ["Антон Помазков"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -14,7 +14,7 @@
     {
       "id": "fluent-react-2-2",
       "title": "Преимущества JSX",
-      "speakers": [],
+      "speakers": ["Артём Никифоров"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -23,7 +23,7 @@
     {
       "id": "fluent-react-2-3",
       "title": "Недостатки JSX",
-      "speakers": [],
+      "speakers": ["Артём Никифоров"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -32,7 +32,7 @@
     {
       "id": "fluent-react-2-4",
       "title": "Что «под капотом»?",
-      "speakers": [],
+      "speakers": ["Григорий Мухин"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -41,7 +41,7 @@
     {
       "id": "fluent-react-2-5",
       "title": "JSX-прагма",
-      "speakers": [],
+      "speakers": ["Антон Помазков"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -50,7 +50,7 @@
     {
       "id": "fluent-react-2-6",
       "title": "Выражения",
-      "speakers": [],
+      "speakers": ["Артём Никифоров"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
