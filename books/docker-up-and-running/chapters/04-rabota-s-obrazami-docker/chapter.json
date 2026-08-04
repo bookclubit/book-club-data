@@ -41,7 +41,7 @@
     {
       "id": "docker-intro-4-5",
       "title": "Хранение образов",
-      "speakers": [],
+      "speakers": ["Антон Помазков"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -50,7 +50,7 @@
     {
       "id": "docker-intro-4-6",
       "title": "Оптимизация образов",
-      "speakers": [],
+      "speakers": ["Артём Никифоров"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -59,7 +59,7 @@
     {
       "id": "docker-intro-4-7",
       "title": "Решение проблем со сборками",
-      "speakers": [],
+      "speakers": ["Артём Никифоров"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -68,7 +68,7 @@
     {
       "id": "docker-intro-4-8",
       "title": "Мулыиархитектурные сборки",
-      "speakers": [],
+      "speakers": ["Максим Еремин"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",

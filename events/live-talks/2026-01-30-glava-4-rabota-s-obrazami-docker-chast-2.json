@@ -1,0 +1,53 @@
+{
+  "id": "live-2026-01-30-glava-4-rabota-s-obrazami-docker-chast-2",
+  "type": "live-talk",
+  "title": "Глава 4. Работа с образами Docker - часть 2",
+  "date": "2026-01-30",
+  "time": "18:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/83kObog7sh0",
+    "vk": "https://vkvideo.ru/video-226486590_456239204"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "docker-intro",
+      "chapter": "04-rabota-s-obrazami-docker",
+      "topic_ids": [
+        "docker-intro-4-5",
+        "docker-intro-4-6",
+        "docker-intro-4-7",
+        "docker-intro-4-8"
+      ]
+    }
+  ],
+  "book_id": "docker-intro",
+  "chapter": "04-rabota-s-obrazami-docker",
+  "topic_ids": [
+    "docker-intro-4-5",
+    "docker-intro-4-6",
+    "docker-intro-4-7",
+    "docker-intro-4-8"
+  ],
+  "recordings": {
+    "docker-intro-4-5": {
+      "youtube": "https://youtu.be/UULumnzdnyY?t=3779",
+      "vk": "https://vkvideo.ru/video-226486590_456239205?t=1h2m59s"
+    },
+    "docker-intro-4-6": {
+      "youtube": "https://youtu.be/UULumnzdnyY?t=5511",
+      "vk": "https://vkvideo.ru/video-226486590_456239205?t=1h31m51s"
+    },
+    "docker-intro-4-7": {
+      "youtube": "https://youtu.be/UULumnzdnyY?t=6995",
+      "vk": "https://vkvideo.ru/video-226486590_456239205?t=1h56m35s"
+    },
+    "docker-intro-4-8": {
+      "youtube": "https://youtu.be/UULumnzdnyY?t=7210",
+      "vk": "https://vkvideo.ru/video-226486590_456239205?t=2h0m10s"
+    }
+  },
+  "stream": 100,
+  "finished": true
+}
