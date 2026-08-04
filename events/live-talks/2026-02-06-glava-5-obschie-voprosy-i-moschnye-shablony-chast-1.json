@@ -1,0 +1,35 @@
+{
+  "id": "live-2026-02-06-glava-5-obschie-voprosy-i-moschnye-shablony-chast-1",
+  "type": "live-talk",
+  "title": "Глава 5. Общие вопросы и мощные шаблоны - часть 1",
+  "date": "2026-02-06",
+  "time": "23:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/cczjImRaqqg?si=kccHwZnW3Glj13Qo",
+    "vk": "https://vkvideo.ru/video-226486590_456239207"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "fluent-react",
+      "chapter": "05-obschie-voprosy-i-moschnye-shablony",
+      "topic_ids": ["fluent-react-5-1", "fluent-react-5-2"]
+    }
+  ],
+  "book_id": "fluent-react",
+  "chapter": "05-obschie-voprosy-i-moschnye-shablony",
+  "topic_ids": ["fluent-react-5-1", "fluent-react-5-2"],
+  "recordings": {
+    "fluent-react-5-1": {
+      "youtube": "https://youtu.be/YR_8KpGDoFI?si=XXT_E3OEl7wcQrJh",
+      "vk": "https://vkvideo.ru/video-226486590_456239210"
+    },
+    "fluent-react-5-2": {
+      "youtube": "https://youtu.be/YR_8KpGDoFI?si=ymvc3Wlmedd_JXDW&t=972",
+      "vk": "https://vkvideo.ru/video-226486590_456239210?t=16m12s"
+    }
+  },
+  "stream": 101,
+  "finished": true
+}
