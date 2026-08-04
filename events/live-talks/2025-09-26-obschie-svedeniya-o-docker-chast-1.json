@@ -10,8 +10,30 @@
     "vk": "https://vkvideo.ru/video-226486590_456239181"
   },
   "talks": [],
+  "program": [
+    {
+      "book_id": "docker-intro",
+      "chapter": "02-obschie-svedeniya-o-docker",
+      "topic_ids": ["docker-intro-2-1", "docker-intro-2-2", "docker-intro-2-3"]
+    }
+  ],
   "book_id": "docker-intro",
   "chapter": "02-obschie-svedeniya-o-docker",
+  "topic_ids": ["docker-intro-2-1", "docker-intro-2-2", "docker-intro-2-3"],
+  "recordings": {
+    "docker-intro-2-1": {
+      "youtube": "https://youtu.be/5FZTGY4Ni2M?t=0",
+      "vk": "https://vkvideo.ru/video-226486590_456239183?t=0m0s"
+    },
+    "docker-intro-2-2": {
+      "youtube": "https://youtu.be/5FZTGY4Ni2M?t=746",
+      "vk": "https://vkvideo.ru/video-226486590_456239183?t=12m26s"
+    },
+    "docker-intro-2-3": {
+      "youtube": "https://youtu.be/5FZTGY4Ni2M?t=1748",
+      "vk": "https://vkvideo.ru/video-226486590_456239183?t=29m8s"
+    }
+  },
   "stream": 90,
   "finished": true
 }
