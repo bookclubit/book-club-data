@@ -27,6 +27,15 @@
       "socials": {
         "telegram": "@eremin_maksim_official"
       }
+    },
+    {
+      "id": "muhin-grigoriy",
+      "name": "Григорий Мухин",
+      "aliases": ["Григорий", "Григорий Мухин"],
+      "avatar": "/media/speakers/muhin-grigoriy.webp",
+      "socials": {
+        "telegram": "@muhin_control"
+      }
     }
   ]
 }
