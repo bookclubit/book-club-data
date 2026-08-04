@@ -42,8 +42,8 @@
   ],
   "recordings": {
     "docker-intro-5-1": {
-      "youtube": "https://youtu.be/q6XWBKIDGfo?si=974b7c1hcFt4BJOD",
-      "vk": "https://vkvideo.ru/video-226486590_456239227"
+      "youtube": "https://youtu.be/q6XWBKIDGfo?si=974b7c1hcFt4BJOD&t=0",
+      "vk": "https://vkvideo.ru/video-226486590_456239227?t=0m0s"
     },
     "docker-intro-5-2": {
       "youtube": "https://youtu.be/q6XWBKIDGfo?si=2oIjyFSvcHSIdB9u&t=1059",
