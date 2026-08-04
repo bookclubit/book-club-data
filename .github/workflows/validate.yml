@@ -42,5 +42,8 @@ jobs:
             console.log(`OK: ${files.length} JSON-файлов валидны.`);
           '
 
+      - name: Встречи ссылаются на существующие книги, главы и темы
+        run: node scripts/validate-events.mjs
+
       - name: Генератор index.json отрабатывает без ошибок
         run: node scripts/build-index.mjs
