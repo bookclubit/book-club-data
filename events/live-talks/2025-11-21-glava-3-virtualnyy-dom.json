@@ -1,0 +1,39 @@
+{
+  "id": "live-2025-11-21-glava-3-virtualnyy-dom",
+  "type": "live-talk",
+  "title": "Глава 3. Виртуальный DOM",
+  "date": "2025-11-21",
+  "time": "18:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/oh3hCd4FS1E",
+    "vk": "https://vkvideo.ru/video-226486590_456239194"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "fluent-react",
+      "chapter": "03-virtualnyy-dom",
+      "topic_ids": ["fluent-react-3-1", "fluent-react-3-2", "fluent-react-3-3"]
+    }
+  ],
+  "book_id": "fluent-react",
+  "chapter": "03-virtualnyy-dom",
+  "topic_ids": ["fluent-react-3-1", "fluent-react-3-2", "fluent-react-3-3"],
+  "recordings": {
+    "fluent-react-3-1": {
+      "youtube": "https://youtu.be/w8fC5xXoiWs",
+      "vk": "https://vkvideo.ru/video-226486590_456239195"
+    },
+    "fluent-react-3-2": {
+      "youtube": "https://youtu.be/w8fC5xXoiWs?t=298",
+      "vk": "https://vkvideo.ru/video-226486590_456239195?t=4m58s"
+    },
+    "fluent-react-3-3": {
+      "youtube": "https://youtu.be/w8fC5xXoiWs?t=1503",
+      "vk": "https://vkvideo.ru/video-226486590_456239195?t=25m3s"
+    }
+  },
+  "stream": 97,
+  "finished": true
+}

@@ -5,7 +5,7 @@
     {
       "id": "fluent-react-4-1",
       "title": "Разбираемся в процессе согласования",
-      "speakers": [],
+      "speakers": ["Артём Никифоров"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -14,7 +14,7 @@
     {
       "id": "fluent-react-4-2",
       "title": "Пакетная обработка",
-      "speakers": [],
+      "speakers": ["Артём Никифоров"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -23,7 +23,7 @@
     {
       "id": "fluent-react-4-3",
       "title": "Небольшой экскурс в историю",
-      "speakers": [],
+      "speakers": ["Максим Еремин"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -32,7 +32,7 @@
     {
       "id": "fluent-react-4-4",
       "title": "Fiber-согласователь",
-      "speakers": [],
+      "speakers": ["Антон Помазков"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",

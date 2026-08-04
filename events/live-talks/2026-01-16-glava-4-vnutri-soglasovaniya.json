@@ -1,0 +1,52 @@
+{
+  "id": "live-2026-01-16-glava-4-vnutri-soglasovaniya",
+  "type": "live-talk",
+  "title": "Глава 4. Внутри согласования",
+  "date": "2026-01-16",
+  "time": "18:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/PwzJpsY8qL4"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "fluent-react",
+      "chapter": "04-vnutri-soglasovaniya",
+      "topic_ids": [
+        "fluent-react-4-1",
+        "fluent-react-4-2",
+        "fluent-react-4-3",
+        "fluent-react-4-4"
+      ]
+    }
+  ],
+  "book_id": "fluent-react",
+  "chapter": "04-vnutri-soglasovaniya",
+  "topic_ids": [
+    "fluent-react-4-1",
+    "fluent-react-4-2",
+    "fluent-react-4-3",
+    "fluent-react-4-4"
+  ],
+  "recordings": {
+    "fluent-react-4-1": {
+      "youtube": "https://youtu.be/cYUyoDyGrg4?t=39",
+      "vk": "https://vkvideo.ru/video-226486590_456239200?t=0m39s"
+    },
+    "fluent-react-4-2": {
+      "youtube": "https://youtu.be/cYUyoDyGrg4?t=172",
+      "vk": "https://vkvideo.ru/video-226486590_456239200?t=2m52s"
+    },
+    "fluent-react-4-3": {
+      "youtube": "https://youtu.be/cYUyoDyGrg4?t=319",
+      "vk": "https://vkvideo.ru/video-226486590_456239200?t=5m19s"
+    },
+    "fluent-react-4-4": {
+      "youtube": "https://youtu.be/cYUyoDyGrg4?t=976",
+      "vk": "https://vkvideo.ru/video-226486590_456239200?t=16m16s"
+    }
+  },
+  "stream": 98,
+  "finished": true
+}

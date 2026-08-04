@@ -1,0 +1,53 @@
+{
+  "id": "live-2025-11-01-glava-3-ustanovka-docker",
+  "type": "live-talk",
+  "title": "Глава 3. Установка Docker",
+  "date": "2025-11-01",
+  "time": "18:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/uPBNn-_khEM",
+    "vk": "https://vkvideo.ru/video-226486590_456239190"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "docker-intro",
+      "chapter": "03-ustanovka-docker",
+      "topic_ids": [
+        "docker-intro-3-1",
+        "docker-intro-3-2",
+        "docker-intro-3-3",
+        "docker-intro-3-4"
+      ]
+    }
+  ],
+  "book_id": "docker-intro",
+  "chapter": "03-ustanovka-docker",
+  "topic_ids": [
+    "docker-intro-3-1",
+    "docker-intro-3-2",
+    "docker-intro-3-3",
+    "docker-intro-3-4"
+  ],
+  "recordings": {
+    "docker-intro-3-1": {
+      "youtube": "https://youtu.be/6hxnRV4xiMc",
+      "vk": "https://vkvideo.ru/video-226486590_456239191"
+    },
+    "docker-intro-3-2": {
+      "youtube": "https://youtu.be/6hxnRV4xiMc",
+      "vk": "https://vkvideo.ru/video-226486590_456239191"
+    },
+    "docker-intro-3-3": {
+      "youtube": "https://youtu.be/6hxnRV4xiMc?t=2207",
+      "vk": "https://vkvideo.ru/video-226486590_456239191?t=36m47s"
+    },
+    "docker-intro-3-4": {
+      "youtube": "https://youtu.be/6hxnRV4xiMc?t=3594",
+      "vk": "https://vkvideo.ru/video-226486590_456239191?t=59m54s"
+    }
+  },
+  "stream": 95,
+  "finished": true
+}

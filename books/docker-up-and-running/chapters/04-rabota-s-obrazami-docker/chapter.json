@@ -5,7 +5,7 @@
     {
       "id": "docker-intro-4-1",
       "title": "Структура Dockerfile",
-      "speakers": [],
+      "speakers": ["Антон Помазков"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -14,7 +14,7 @@
     {
       "id": "docker-intro-4-2",
       "title": "Сборка образа",
-      "speakers": [],
+      "speakers": ["Максим Еремин"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -23,7 +23,7 @@
     {
       "id": "docker-intro-4-3",
       "title": "Запуск образа",
-      "speakers": [],
+      "speakers": ["Артём Никифоров"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -32,7 +32,7 @@
     {
       "id": "docker-intro-4-4",
       "title": "Пользовательские базовые образы",
-      "speakers": [],
+      "speakers": ["Антон Помазков"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",

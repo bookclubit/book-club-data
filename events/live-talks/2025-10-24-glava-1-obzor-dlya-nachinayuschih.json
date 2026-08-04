@@ -1,0 +1,53 @@
+{
+  "id": "live-2025-10-24-glava-1-obzor-dlya-nachinayuschih",
+  "type": "live-talk",
+  "title": "Глава 1. Обзор для начинающих",
+  "date": "2025-10-24",
+  "time": "18:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/S6IcpKvL-zc",
+    "vk": "https://vkvideo.ru/video-226486590_456239188"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "fluent-react",
+      "chapter": "01-obzor-dlya-nachinayuschih",
+      "topic_ids": [
+        "fluent-react-1-1",
+        "fluent-react-1-2",
+        "fluent-react-1-3",
+        "fluent-react-1-4"
+      ]
+    }
+  ],
+  "book_id": "fluent-react",
+  "chapter": "01-obzor-dlya-nachinayuschih",
+  "topic_ids": [
+    "fluent-react-1-1",
+    "fluent-react-1-2",
+    "fluent-react-1-3",
+    "fluent-react-1-4"
+  ],
+  "recordings": {
+    "fluent-react-1-1": {
+      "youtube": "https://youtu.be/5I1R5RNnBoU?t=170",
+      "vk": "https://vkvideo.ru/video-226486590_456239189?t=2m50s"
+    },
+    "fluent-react-1-2": {
+      "youtube": "https://youtu.be/5I1R5RNnBoU?t=666",
+      "vk": "https://vkvideo.ru/video-226486590_456239189?t=11m6s"
+    },
+    "fluent-react-1-3": {
+      "youtube": "https://youtu.be/5I1R5RNnBoU?t=1991",
+      "vk": "https://vkvideo.ru/video-226486590_456239189?t=33m11s"
+    },
+    "fluent-react-1-4": {
+      "youtube": "https://youtu.be/5I1R5RNnBoU?t=2836",
+      "vk": "https://vkvideo.ru/video-226486590_456239189?t=47m16s"
+    }
+  },
+  "stream": 94,
+  "finished": true
+}

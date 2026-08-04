@@ -5,7 +5,7 @@
     {
       "id": "fluent-react-3-1",
       "title": "Введение в виртуальный DOM",
-      "speakers": [],
+      "speakers": ["Антон Помазков"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -14,7 +14,7 @@
     {
       "id": "fluent-react-3-2",
       "title": "Реальный DOM",
-      "speakers": [],
+      "speakers": ["Артём Никифоров"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -23,7 +23,7 @@
     {
       "id": "fluent-react-3-3",
       "title": "Как работает виртуальный DOM",
-      "speakers": [],
+      "speakers": ["Максим Еремин"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
