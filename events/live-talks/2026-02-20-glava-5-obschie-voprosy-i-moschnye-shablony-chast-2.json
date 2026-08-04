@@ -20,5 +20,20 @@
   "book_id": "fluent-react",
   "chapter": "05-obschie-voprosy-i-moschnye-shablony",
   "topic_ids": ["fluent-react-5-3", "fluent-react-5-4", "fluent-react-5-5"],
-  "stream": 102
+  "recordings": {
+    "fluent-react-5-3": {
+      "youtube": "https://youtu.be/YR_8KpGDoFI?si=2Nq5rPOrpeTixTze&t=1747",
+      "vk": "https://vkvideo.ru/video-226486590_456239210?t=29m7s"
+    },
+    "fluent-react-5-4": {
+      "youtube": "https://youtu.be/YR_8KpGDoFI?si=6gp8GwKKh8tiq4vI&t=2568",
+      "vk": "https://vkvideo.ru/video-226486590_456239210?t=42m47s"
+    },
+    "fluent-react-5-5": {
+      "youtube": "https://youtu.be/YR_8KpGDoFI?si=85SjZPVEit5kl4J3&t=2882",
+      "vk": "https://vkvideo.ru/video-226486590_456239210?t=48m1s"
+    }
+  },
+  "stream": 102,
+  "finished": true
 }
