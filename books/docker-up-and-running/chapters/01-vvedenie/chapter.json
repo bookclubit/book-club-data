@@ -13,7 +13,7 @@
     },
     {
       "id": "docker-intro-1-2",
-      "title": "Архитектура Docker",
+      "title": "В чем Docker не поможет",
       "speakers": ["Антон"],
       "video_youtube": "",
       "video_vk": "",
