@@ -163,7 +163,14 @@
       "title": "Вы пока еще не знаете JS. Типы и грамматические конструкции",
       "status": "finished",
       "category": "javascript",
-      "chapters": []
+      "chapters": [
+        {
+          "slug": "01-tipy",
+          "order": 1,
+          "title": "Типы",
+          "topics": 3
+        }
+      ]
     },
     {
       "folder": "you-don-t-know-js-up-and-going",
