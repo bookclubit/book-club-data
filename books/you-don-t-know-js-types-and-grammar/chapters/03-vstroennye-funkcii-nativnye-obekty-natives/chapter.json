@@ -1,0 +1,33 @@
+{
+  "order": 3,
+  "title": "Встроенные функции / «Нативные» объекты (Natives)",
+  "topics": [
+    {
+      "id": "you-don-t-know-js-types-and-grammar-3-1",
+      "title": "Внутреннее свойство [[Class]]",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-types-and-grammar-3-2",
+      "title": "Упаковка / Распаковка",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-types-and-grammar-3-3",
+      "title": "Встроенные объекты как конструкторы",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    }
+  ]
+}
