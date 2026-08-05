@@ -1,0 +1,51 @@
+{
+  "order": 2,
+  "title": "Значения",
+  "topics": [
+    {
+      "id": "you-don-t-know-js-types-and-grammar-2-1",
+      "title": "Массивы",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-types-and-grammar-2-2",
+      "title": "Строки",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-types-and-grammar-2-3",
+      "title": "Числа",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-types-and-grammar-2-4",
+      "title": "Специальные значения",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-types-and-grammar-2-5",
+      "title": "Значения и ссылки",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    }
+  ]
+}
