@@ -1,0 +1,33 @@
+{
+  "order": 1,
+  "title": "Типы",
+  "topics": [
+    {
+      "id": "you-don-t-know-js-types-and-grammar-1-1",
+      "title": "Хоть типом назови его, хоть нет…",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-types-and-grammar-1-2",
+      "title": "Встроенные типы",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-types-and-grammar-1-3",
+      "title": "Значения как типы",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    }
+  ]
+}
