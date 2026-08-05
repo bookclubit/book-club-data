@@ -187,6 +187,12 @@
           "order": 4,
           "title": "Преобразование типов (Coercion)",
           "topics": 6
+        },
+        {
+          "slug": "05-grammatika-grammar",
+          "order": 5,
+          "title": "Грамматика (Grammar)",
+          "topics": 7
         }
       ]
     },
