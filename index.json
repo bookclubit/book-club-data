@@ -193,6 +193,12 @@
           "order": 5,
           "title": "Грамматика (Grammar)",
           "topics": 7
+        },
+        {
+          "slug": "06-prilozhenie-a-javascript-v-smeshannyh-okruzheniyah",
+          "order": 6,
+          "title": "Приложение А: JavaScript в смешанных окружениях",
+          "topics": 7
         }
       ]
     },
