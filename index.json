@@ -175,6 +175,12 @@
           "order": 2,
           "title": "Значения",
           "topics": 5
+        },
+        {
+          "slug": "03-vstroennye-funkcii-nativnye-obekty-natives",
+          "order": 3,
+          "title": "Встроенные функции / «Нативные» объекты (Natives)",
+          "topics": 3
         }
       ]
     },
