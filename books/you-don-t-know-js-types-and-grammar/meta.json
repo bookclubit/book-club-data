@@ -1,0 +1,22 @@
+{
+  "id": "you-don-t-know-js-types-and-grammar",
+  "title": "Вы пока еще не знаете JS. Типы и грамматические конструкции",
+  "title_original": "You Don't Know JS: Types & Grammar",
+  "edition": 1,
+  "authors": [
+    {
+      "id": "kayl-simpson",
+      "name": "Кайл Симпсон",
+      "url": "https://me.getify.com/",
+      "avatar": "/media/authors/kayl-simpson.webp"
+    }
+  ],
+  "status": "finished",
+  "category": "javascript",
+  "cover": "/media/covers/you-don-t-know-js-types-and-grammar.webp",
+  "tags": [],
+  "description": "Глубокое техническое руководство, которое заставляет разработчика переосмыслить свои знания о базовых механизмах JavaScript.",
+  "total_chapters": 6,
+  "code": "YDTKJS-TYPES-AND-GRAMMAR",
+  "url": "https://www.oreilly.com/library/view/you-dont-know/9781491905159/ch01.html"
+}
