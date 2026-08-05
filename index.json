@@ -158,6 +158,14 @@
       "chapters": []
     },
     {
+      "folder": "you-don-t-know-js-types-and-grammar",
+      "id": "you-don-t-know-js-types-and-grammar",
+      "title": "Вы пока еще не знаете JS. Типы и грамматические конструкции",
+      "status": "finished",
+      "category": "javascript",
+      "chapters": []
+    },
+    {
       "folder": "you-don-t-know-js-up-and-going",
       "id": "you-don-t-know-js-up-and-going",
       "title": "{Вы пока еще не знаете JS} Познакомьтесь, JavaScript",
@@ -212,6 +220,7 @@
       "avatar": "/media/authors/kayl-simpson.webp",
       "url": "https://me.getify.com/",
       "books": [
+        "you-don-t-know-js-types-and-grammar",
         "you-don-t-know-js-up-and-going",
         "you-don-t-know-js-yet-scope-and-closures"
       ]
