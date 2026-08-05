@@ -181,6 +181,12 @@
           "order": 3,
           "title": "Встроенные функции / «Нативные» объекты (Natives)",
           "topics": 3
+        },
+        {
+          "slug": "04-preobrazovanie-tipov-coercion",
+          "order": 4,
+          "title": "Преобразование типов (Coercion)",
+          "topics": 6
         }
       ]
     },
