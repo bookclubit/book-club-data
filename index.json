@@ -169,6 +169,12 @@
           "order": 1,
           "title": "Типы",
           "topics": 3
+        },
+        {
+          "slug": "02-znacheniya",
+          "order": 2,
+          "title": "Значения",
+          "topics": 5
         }
       ]
     },
