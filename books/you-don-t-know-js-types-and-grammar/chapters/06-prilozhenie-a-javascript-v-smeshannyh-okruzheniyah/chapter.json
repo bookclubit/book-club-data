@@ -1,0 +1,69 @@
+{
+  "order": 6,
+  "title": "Приложение А: JavaScript в смешанных окружениях",
+  "topics": [
+    {
+      "id": "you-don-t-know-js-types-and-grammar-6-1",
+      "title": "Дополнение B (ECMAScript)",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-types-and-grammar-6-2",
+      "title": "Управляющие объекты",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-types-and-grammar-6-3",
+      "title": "Глобальные переменные DOM",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-types-and-grammar-6-4",
+      "title": "Встроенные прототипы",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-types-and-grammar-6-5",
+      "title": "script-ы",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-types-and-grammar-6-6",
+      "title": "Зарезервированные слова",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-types-and-grammar-6-7",
+      "title": "Ограничения реализации",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    }
+  ]
+}
