@@ -209,6 +209,12 @@
           "order": 9,
           "title": "Стандартная библиотека и определения внешних типов",
           "topics": 8
+        },
+        {
+          "slug": "10-typescript-i-react",
+          "order": 10,
+          "title": "TypeScript и React",
+          "topics": 8
         }
       ]
     },
