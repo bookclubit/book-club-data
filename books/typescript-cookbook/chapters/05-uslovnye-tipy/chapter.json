@@ -1,0 +1,51 @@
+{
+  "order": 5,
+  "title": "Условные типы",
+  "topics": [
+    {
+      "id": "typescript-cookbook-5-1",
+      "title": "Управление сигнатурами сложных функций",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-5-2",
+      "title": "Фильтрация с помощью типа never",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-5-3",
+      "title": "Группировка элементов по типу",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-5-4",
+      "title": "Удаление определенных свойств объекта",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-5-5",
+      "title": "Выведение типов в условных выражениях",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    }
+  ]
+}
