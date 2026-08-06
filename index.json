@@ -203,6 +203,12 @@
           "order": 8,
           "title": "Вспомогательные типы",
           "topics": 8
+        },
+        {
+          "slug": "09-standartnaya-biblioteka-i-opredeleniya-vneshnih-tipov",
+          "order": 9,
+          "title": "Стандартная библиотека и определения внешних типов",
+          "topics": 8
         }
       ]
     },
