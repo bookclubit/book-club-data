@@ -179,6 +179,12 @@
           "order": 4,
           "title": "Обобщенные типы",
           "topics": 9
+        },
+        {
+          "slug": "05-uslovnye-tipy",
+          "order": 5,
+          "title": "Условные типы",
+          "topics": 5
         }
       ]
     },
