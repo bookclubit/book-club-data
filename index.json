@@ -185,6 +185,12 @@
           "order": 5,
           "title": "Условные типы",
           "topics": 5
+        },
+        {
+          "slug": "06-tipy-literalov-shablonov-strok",
+          "order": 6,
+          "title": "Типы литералов шаблонов строк",
+          "topics": 6
         }
       ]
     },
