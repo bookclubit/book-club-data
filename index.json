@@ -155,7 +155,14 @@
       "title": "Рецепты TypeScript",
       "status": "finished",
       "category": "typescript",
-      "chapters": []
+      "chapters": [
+        {
+          "slug": "01-nastroyka-proekta",
+          "order": 1,
+          "title": "Настройка проекта",
+          "topics": 11
+        }
+      ]
     },
     {
       "folder": "you-don-t-know-js-types-and-grammar",
