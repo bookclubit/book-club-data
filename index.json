@@ -215,6 +215,12 @@
           "order": 10,
           "title": "TypeScript и React",
           "topics": 8
+        },
+        {
+          "slug": "11-klassy",
+          "order": 11,
+          "title": "Классы",
+          "topics": 9
         }
       ]
     },
