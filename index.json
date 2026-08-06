@@ -173,6 +173,12 @@
           "order": 3,
           "title": "Система типов",
           "topics": 14
+        },
+        {
+          "slug": "04-obobschennye-tipy",
+          "order": 4,
+          "title": "Обобщенные типы",
+          "topics": 9
         }
       ]
     },
