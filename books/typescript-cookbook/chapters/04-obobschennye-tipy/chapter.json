@@ -1,0 +1,87 @@
+{
+  "order": 4,
+  "title": "Обобщенные типы",
+  "topics": [
+    {
+      "id": "typescript-cookbook-4-1",
+      "title": "Обобщение сигнатур функций",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-4-2",
+      "title": "Создание связанных аргументов функций",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-4-3",
+      "title": "Избавление от any и unknown",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-4-4",
+      "title": "Создание экземпляров обобщенного типа",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-4-5",
+      "title": "Создание новых типов объектов",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-4-6",
+      "title": "Изменение объектов с помощью сигнатур утверждений",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-4-7",
+      "title": "Сопоставление типов с помощью карт типов",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-4-8",
+      "title": "Использование ThisType для определения this в объектах",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-4-9",
+      "title": "Добавление контекста const к параметрам обобщенного типа",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    }
+  ]
+}
