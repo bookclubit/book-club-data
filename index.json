@@ -221,6 +221,12 @@
           "order": 11,
           "title": "Классы",
           "topics": 9
+        },
+        {
+          "slug": "12-strategii-razrabotki-tipov",
+          "order": 12,
+          "title": "Стратегии разработки типов",
+          "topics": 11
         }
       ]
     },
