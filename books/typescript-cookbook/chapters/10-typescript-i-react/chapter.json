@@ -1,0 +1,78 @@
+{
+  "order": 10,
+  "title": "TypeScript и React",
+  "topics": [
+    {
+      "id": "typescript-cookbook-10-1",
+      "title": "Написание прокси-компонентов",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-10-2",
+      "title": "Написание контролируемых компонентов",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-10-3",
+      "title": "Типизация пользовательских хуков",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-10-4",
+      "title": "Типизация обобщенных компонентов forwardRef",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-10-5",
+      "title": "Предоставление типов для контекстного API",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-10-6",
+      "title": "Типизация компонентов высшего порядка",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-10-7",
+      "title": "Типизация обратных вызовов в синтетической системе событий React",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-10-8",
+      "title": "Типизация полиморфных компонентов",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    }
+  ]
+}
