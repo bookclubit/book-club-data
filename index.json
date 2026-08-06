@@ -167,6 +167,12 @@
           "order": 2,
           "title": "Основные типы",
           "topics": 9
+        },
+        {
+          "slug": "03-sistema-tipov",
+          "order": 3,
+          "title": "Система типов",
+          "topics": 14
         }
       ]
     },
