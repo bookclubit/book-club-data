@@ -1,0 +1,78 @@
+{
+  "order": 9,
+  "title": "Стандартная библиотека и определения внешних типов",
+  "topics": [
+    {
+      "id": "typescript-cookbook-9-1",
+      "title": "Перебор объектов с помощью Object.keys",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-9-2",
+      "title": "Явное выделение небезопасных операций с помощью утверждений типов и unknown",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-9-3",
+      "title": "Работа с defineProperty",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-9-4",
+      "title": "Расширение типов для Array.prototype.includes",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-9-5",
+      "title": "Фильтрация нулевых значений",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-9-6",
+      "title": "Расширение модулей",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-9-7",
+      "title": "Расширение глобальных переменных",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-9-8",
+      "title": "Добавление модулей, которые отличаются от JS, в граф модулей",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    }
+  ]
+}
