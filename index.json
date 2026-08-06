@@ -197,6 +197,12 @@
           "order": 7,
           "title": "Вариативные типы кортежей",
           "topics": 7
+        },
+        {
+          "slug": "08-vspomogatelnye-tipy",
+          "order": 8,
+          "title": "Вспомогательные типы",
+          "topics": 8
         }
       ]
     },
