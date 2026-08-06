@@ -1,0 +1,105 @@
+{
+  "order": 1,
+  "title": "Настройка проекта",
+  "topics": [
+    {
+      "id": "typescript-cookbook-1-1",
+      "title": "Проверка типов JavaScript",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-1-2",
+      "title": "Установка TypeScript",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-1-3",
+      "title": "Поддержка типов «в стороне»",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-1-4",
+      "title": "Миграция проекта на TypeScript",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-1-5",
+      "title": "Загрузка типов из репозитория Definitely Typed",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-1-6",
+      "title": "Настройка полнофункционального проекта",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-1-7",
+      "title": "Настройка тестов",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-1-8",
+      "title": "Типизация модулей ECMAScript из URL",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-1-9",
+      "title": "Загрузка различных типов модулей в Node",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-1-10",
+      "title": "Работа с Deno и зависимостями",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-1-11",
+      "title": "Использование предопределенных конфигураций",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    }
+  ]
+}
