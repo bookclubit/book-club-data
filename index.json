@@ -191,6 +191,12 @@
           "order": 6,
           "title": "Типы литералов шаблонов строк",
           "topics": 6
+        },
+        {
+          "slug": "07-variativnye-tipy-kortezhey",
+          "order": 7,
+          "title": "Вариативные типы кортежей",
+          "topics": 7
         }
       ]
     },
