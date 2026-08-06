@@ -1,0 +1,60 @@
+{
+  "order": 6,
+  "title": "Типы литералов шаблонов строк",
+  "topics": [
+    {
+      "id": "typescript-cookbook-6-1",
+      "title": "Определение пользовательской системы событий",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-6-2",
+      "title": "Создание обратных вызовов событий с помощью типов манипуляций со строками и переназначения ключей",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-6-3",
+      "title": "Написание функции форматирования",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-6-4",
+      "title": "Извлечение типов параметров формата",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-6-5",
+      "title": "Работа с ограничениями рекурсии",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-6-6",
+      "title": "Использование литералов шаблонов строк в качестве дискриминантов",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    }
+  ]
+}
