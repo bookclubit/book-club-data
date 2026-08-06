@@ -1,0 +1,69 @@
+{
+  "order": 7,
+  "title": "Вариативные типы кортежей",
+  "topics": [
+    {
+      "id": "typescript-cookbook-7-1",
+      "title": "Типизация функции concat",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-7-2",
+      "title": "Типизация функции promisify",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-7-3",
+      "title": "Типизация функции curry",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-7-4",
+      "title": "Типизация гибкой функции curry",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-7-5",
+      "title": "Типизация простейшей функции curry",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-7-6",
+      "title": "Создание перечисления из кортежа",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-7-7",
+      "title": "Разделение всех элементов сигнатуры функции",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    }
+  ]
+}
