@@ -161,6 +161,12 @@
           "order": 1,
           "title": "Настройка проекта",
           "topics": 11
+        },
+        {
+          "slug": "02-osnovnye-tipy",
+          "order": 2,
+          "title": "Основные типы",
+          "topics": 9
         }
       ]
     },
