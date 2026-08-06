@@ -1,0 +1,78 @@
+{
+  "order": 8,
+  "title": "Вспомогательные типы",
+  "topics": [
+    {
+      "id": "typescript-cookbook-8-1",
+      "title": "Установка определенных необязательных свойств",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-8-2",
+      "title": "Изменение вложенных объектов",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-8-3",
+      "title": "Переназначение типов",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-8-4",
+      "title": "Получение всех необходимых ключей",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-8-5",
+      "title": "Разрешение хотя бы одного свойства",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-8-6",
+      "title": "Разрешение ровно одного свойства, всех свойств или ни одного",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-8-7",
+      "title": "Преобразование типов объединения в типы пересечения",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "typescript-cookbook-8-8",
+      "title": "Использование библиотеки type-fest",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    }
+  ]
+}
