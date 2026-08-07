@@ -32,9 +32,9 @@
     {
       "id": "docker-intro-8-4",
       "title": "Применение Docker Compose",
-      "speakers": [],
-      "video_youtube": "",
-      "video_vk": "",
+      "speakers": ["Артём"],
+      "video_youtube": "https://youtu.be/1Lgxnktzvek?si=TJuOv6FGOwOoq3x_&t=1343",
+      "video_vk": "https://vkvideo.ru/video-226486590_456239245?t=22m23s",
       "presentation": "",
       "resources": []
     },
