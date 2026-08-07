@@ -365,6 +365,34 @@
   "events": [
     "closed-chapters/2026-07-18-razbor-glavy-1-osnovy-sozdaniya-ai-prilozheniy-s-ispolzovaniem-bazovyh-modeley.json",
     "closed-chapters/2026-07-31-servernye-komponenty-react.json",
+    "live-talks/2025-01-10-glava-1-nastroyka-proekta.json",
+    "live-talks/2025-01-17-glava-2-osnovnye-tipy.json",
+    "live-talks/2025-01-24-glava-3-sistema-tipov-chast-1.json",
+    "live-talks/2025-01-31-glava-3-sistema-tipov-chast-2.json",
+    "live-talks/2025-02-07-glava-4-obobschennye-tipy-chast-1.json",
+    "live-talks/2025-02-14-glava-4-obobschennye-tipy-chast-2.json",
+    "live-talks/2025-02-21-glava-5-uslovnye-tipy-chast-1.json",
+    "live-talks/2025-02-28-glava-5-uslovnye-tipy-chast-2.json",
+    "live-talks/2025-03-07-glava-6-shablonnye-literaly-chast-1.json",
+    "live-talks/2025-03-14-glava-6-shablonnye-literaly-chast-2.json",
+    "live-talks/2025-03-21-glavy-6-i-7-literaly-i-variativnye-kortezhi.json",
+    "live-talks/2025-03-28-glava-7-variativnye-tipy-kortezhey-chast-2.json",
+    "live-talks/2025-04-04-glava-8-vspomogatelnye-tipy-chast-1.json",
+    "live-talks/2025-04-11-glava-8-vspomogatelnye-tipy-chast-2.json",
+    "live-talks/2025-04-18-glavy-7-i-8-final-vspomogatelnyh-tipov.json",
+    "live-talks/2025-04-25-glava-9-standartnaya-biblioteka-chast-1.json",
+    "live-talks/2025-05-02-glava-9-standartnaya-biblioteka-chast-2.json",
+    "live-talks/2025-05-09-glava-9-standartnaya-biblioteka-chast-3.json",
+    "live-talks/2025-05-16-glava-10-typescript-i-react-chast-1.json",
+    "live-talks/2025-05-23-glava-10-typescript-i-react-chast-2.json",
+    "live-talks/2025-05-30-glava-10-typescript-i-react-chast-3.json",
+    "live-talks/2025-06-06-glava-11-klassy-chast-1.json",
+    "live-talks/2025-06-20-glava-11-klassy-chast-2.json",
+    "live-talks/2025-06-27-glavy-10-i-11-klassy-chast-3-i-hoc.json",
+    "live-talks/2025-07-04-glavy-11-i-12-dekoratory-i-strategii.json",
+    "live-talks/2025-07-11-glavy-11-i-12-this-v-klassah-i-utochnenie-tipov.json",
+    "live-talks/2025-07-25-glava-12-strategii-razrabotki-tipov-chast-3.json",
+    "live-talks/2025-08-01-glava-12-final-knigi.json",
     "live-talks/2025-08-08-glava-1-tipy.json",
     "live-talks/2025-08-15-glava-2-znacheniya-chast-1.json",
     "live-talks/2025-08-22-glava-2-znacheniya-chast-2.json",
@@ -447,6 +475,42 @@
       "avatar": "/media/speakers/asafov-pavel.webp",
       "socials": {
         "telegram": "https://t.me/pavelasafov"
+      }
+    },
+    {
+      "id": "chichimov-vyacheslav",
+      "name": "Вячеслав Чичимов",
+      "aliases": [
+        "Вячеслав",
+        "Слава",
+        "Вячеслав Чичимов"
+      ],
+      "avatar": "/media/speakers/chichimov-vyacheslav.webp",
+      "socials": {
+        "telegram": "https://t.me/webkittendev"
+      }
+    },
+    {
+      "id": "chepash",
+      "name": "Chepash",
+      "aliases": [
+        "Chepash",
+        "chepash"
+      ],
+      "avatar": "/media/speakers/chepash.webp",
+      "socials": {
+        "telegram": "https://t.me/chepash"
+      }
+    },
+    {
+      "id": "khasan",
+      "name": "Хасан",
+      "aliases": [
+        "Хасан"
+      ],
+      "avatar": "/media/speakers/khasan.webp",
+      "socials": {
+        "telegram": "https://t.me/khasan_cff"
       }
     },
     {
