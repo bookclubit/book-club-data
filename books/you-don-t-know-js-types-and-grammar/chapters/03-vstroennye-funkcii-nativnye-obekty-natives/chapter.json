@@ -5,7 +5,7 @@
     {
       "id": "you-don-t-know-js-types-and-grammar-3-1",
       "title": "Внутреннее свойство [[Class]]",
-      "speakers": [],
+      "speakers": ["Артём Никифоров"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -23,7 +23,7 @@
     {
       "id": "you-don-t-know-js-types-and-grammar-3-3",
       "title": "Встроенные объекты как конструкторы",
-      "speakers": [],
+      "speakers": ["Антон Помазков"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
