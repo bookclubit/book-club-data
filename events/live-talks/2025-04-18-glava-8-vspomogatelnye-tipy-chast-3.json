@@ -1,7 +1,7 @@
 {
-  "id": "live-2025-04-18-glavy-7-i-8-final-vspomogatelnyh-tipov",
+  "id": "live-2025-04-18-glava-8-vspomogatelnye-tipy-chast-3",
   "type": "live-talk",
-  "title": "Главы 7 и 8. Финал вспомогательных типов и каррирование",
+  "title": "Глава 8. Вспомогательные типы - часть 3",
   "date": "2025-04-18",
   "time": "18:00",
   "timezone": "Europe/Moscow",
@@ -13,17 +13,8 @@
   "program": [
     {
       "book_id": "typescript-cookbook",
-      "chapter": "07-variativnye-tipy-kortezhey",
-      "topic_ids": ["typescript-cookbook-7-5"]
-    },
-    {
-      "book_id": "typescript-cookbook",
       "chapter": "08-vspomogatelnye-tipy",
-      "topic_ids": [
-        "typescript-cookbook-8-5",
-        "typescript-cookbook-8-7",
-        "typescript-cookbook-8-8"
-      ]
+      "topic_ids": ["typescript-cookbook-8-7", "typescript-cookbook-8-8"]
     }
   ],
   "recordings": {
@@ -36,6 +27,9 @@
       "vk": "https://vkvideo.ru/video-226486590_456239138?t=11m14s"
     }
   },
+  "book_id": "typescript-cookbook",
+  "chapter": "08-vspomogatelnye-tipy",
+  "topic_ids": ["typescript-cookbook-8-7", "typescript-cookbook-8-8"],
   "stream": 69,
   "finished": true
 }
