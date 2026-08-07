@@ -15,14 +15,14 @@
       "book_id": "typescript-cookbook",
       "chapter": "07-variativnye-tipy-kortezhey",
       "topic_ids": [
-        "typescript-cookbook-7-4",
+        "typescript-cookbook-7-5",
         "typescript-cookbook-7-6",
         "typescript-cookbook-7-7"
       ]
     }
   ],
   "recordings": {
-    "typescript-cookbook-7-4": {
+    "typescript-cookbook-7-5": {
       "youtube": "https://youtu.be/N3AyTXTyQXw?t=0",
       "vk": "https://vkvideo.ru/video-226486590_456239132?t=0m0s"
     },
@@ -40,7 +40,7 @@
   "book_id": "typescript-cookbook",
   "chapter": "07-variativnye-tipy-kortezhey",
   "topic_ids": [
-    "typescript-cookbook-7-4",
+    "typescript-cookbook-7-5",
     "typescript-cookbook-7-6",
     "typescript-cookbook-7-7"
   ]

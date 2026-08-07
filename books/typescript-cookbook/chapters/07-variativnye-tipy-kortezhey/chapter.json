@@ -32,7 +32,7 @@
     {
       "id": "typescript-cookbook-7-4",
       "title": "Типизация гибкой функции curry",
-      "speakers": ["Антон Помазков"],
+      "speakers": [],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -41,7 +41,7 @@
     {
       "id": "typescript-cookbook-7-5",
       "title": "Типизация простейшей функции curry",
-      "speakers": [],
+      "speakers": ["Антон Помазков"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
