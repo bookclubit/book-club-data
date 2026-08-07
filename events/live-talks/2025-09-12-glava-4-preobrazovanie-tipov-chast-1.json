@@ -1,0 +1,47 @@
+{
+  "id": "live-2025-09-12-glava-4-preobrazovanie-tipov-chast-1",
+  "type": "live-talk",
+  "title": "Глава 4. Преобразование типов (Coercion) - часть 1",
+  "date": "2025-09-12",
+  "time": "18:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/tGQj0U1Q5q8",
+    "vk": "https://vkvideo.ru/video-226486590_456239178"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "you-don-t-know-js-types-and-grammar",
+      "chapter": "04-preobrazovanie-tipov-coercion",
+      "topic_ids": [
+        "you-don-t-know-js-types-and-grammar-4-1",
+        "you-don-t-know-js-types-and-grammar-4-2",
+        "you-don-t-know-js-types-and-grammar-4-3"
+      ]
+    }
+  ],
+  "book_id": "you-don-t-know-js-types-and-grammar",
+  "chapter": "04-preobrazovanie-tipov-coercion",
+  "topic_ids": [
+    "you-don-t-know-js-types-and-grammar-4-1",
+    "you-don-t-know-js-types-and-grammar-4-2",
+    "you-don-t-know-js-types-and-grammar-4-3"
+  ],
+  "recordings": {
+    "you-don-t-know-js-types-and-grammar-4-1": {
+      "youtube": "https://youtu.be/_so8ivsB34w?t=0",
+      "vk": "https://vkvideo.ru/video-226486590_456239180?t=0m0s"
+    },
+    "you-don-t-know-js-types-and-grammar-4-2": {
+      "youtube": "https://youtu.be/_so8ivsB34w?t=346",
+      "vk": "https://vkvideo.ru/video-226486590_456239180?t=5m46s"
+    },
+    "you-don-t-know-js-types-and-grammar-4-3": {
+      "youtube": "https://youtu.be/_so8ivsB34w?t=1634",
+      "vk": "https://vkvideo.ru/video-226486590_456239180?t=27m14s"
+    }
+  },
+  "stream": 88,
+  "finished": true
+}
