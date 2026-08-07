@@ -5,7 +5,7 @@
     {
       "id": "you-don-t-know-js-types-and-grammar-6-1",
       "title": "Дополнение B (ECMAScript)",
-      "speakers": [],
+      "speakers": ["Артём Никифоров"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -14,7 +14,7 @@
     {
       "id": "you-don-t-know-js-types-and-grammar-6-2",
       "title": "Управляющие объекты",
-      "speakers": [],
+      "speakers": ["Антон Помазков"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -23,7 +23,7 @@
     {
       "id": "you-don-t-know-js-types-and-grammar-6-3",
       "title": "Глобальные переменные DOM",
-      "speakers": [],
+      "speakers": ["Максим Еремин"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -32,7 +32,7 @@
     {
       "id": "you-don-t-know-js-types-and-grammar-6-4",
       "title": "Встроенные прототипы",
-      "speakers": [],
+      "speakers": ["Артём Никифоров"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -41,7 +41,7 @@
     {
       "id": "you-don-t-know-js-types-and-grammar-6-5",
       "title": "script-ы",
-      "speakers": [],
+      "speakers": ["Антон Помазков"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -50,7 +50,7 @@
     {
       "id": "you-don-t-know-js-types-and-grammar-6-6",
       "title": "Зарезервированные слова",
-      "speakers": [],
+      "speakers": ["Максим Еремин"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -59,7 +59,7 @@
     {
       "id": "you-don-t-know-js-types-and-grammar-6-7",
       "title": "Ограничения реализации",
-      "speakers": [],
+      "speakers": ["Артём Никифоров"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",

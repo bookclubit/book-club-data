@@ -1,0 +1,41 @@
+{
+  "id": "live-2025-08-22-glava-2-znacheniya-chast-2",
+  "type": "live-talk",
+  "title": "Глава 2. Значения - часть 2",
+  "date": "2025-08-22",
+  "time": "18:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/Y7N1KeIu7eI",
+    "vk": "https://vkvideo.ru/video-226486590_456239171"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "you-don-t-know-js-types-and-grammar",
+      "chapter": "02-znacheniya",
+      "topic_ids": [
+        "you-don-t-know-js-types-and-grammar-2-3",
+        "you-don-t-know-js-types-and-grammar-2-5"
+      ]
+    }
+  ],
+  "book_id": "you-don-t-know-js-types-and-grammar",
+  "chapter": "02-znacheniya",
+  "topic_ids": [
+    "you-don-t-know-js-types-and-grammar-2-3",
+    "you-don-t-know-js-types-and-grammar-2-5"
+  ],
+  "recordings": {
+    "you-don-t-know-js-types-and-grammar-2-3": {
+      "youtube": "https://youtu.be/zQ5rE-X29dk?t=489",
+      "vk": "https://vkvideo.ru/video-226486590_456239173?t=8m9s"
+    },
+    "you-don-t-know-js-types-and-grammar-2-5": {
+      "youtube": "https://youtu.be/zQ5rE-X29dk?t=3000",
+      "vk": "https://vkvideo.ru/video-226486590_456239173?t=50m0s"
+    }
+  },
+  "stream": 85,
+  "finished": true
+}

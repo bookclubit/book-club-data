@@ -1,0 +1,71 @@
+{
+  "id": "live-2025-10-17-prilozhenie-a-javascript-v-smeshannyh-okruzheniyah",
+  "type": "live-talk",
+  "title": "Приложение А. JavaScript в смешанных окружениях",
+  "date": "2025-10-17",
+  "time": "18:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/7UIR2R5JXOw",
+    "vk": "https://vkvideo.ru/video-226486590_456239186"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "you-don-t-know-js-types-and-grammar",
+      "chapter": "06-prilozhenie-a-javascript-v-smeshannyh-okruzheniyah",
+      "topic_ids": [
+        "you-don-t-know-js-types-and-grammar-6-1",
+        "you-don-t-know-js-types-and-grammar-6-2",
+        "you-don-t-know-js-types-and-grammar-6-3",
+        "you-don-t-know-js-types-and-grammar-6-4",
+        "you-don-t-know-js-types-and-grammar-6-5",
+        "you-don-t-know-js-types-and-grammar-6-6",
+        "you-don-t-know-js-types-and-grammar-6-7"
+      ]
+    }
+  ],
+  "book_id": "you-don-t-know-js-types-and-grammar",
+  "chapter": "06-prilozhenie-a-javascript-v-smeshannyh-okruzheniyah",
+  "topic_ids": [
+    "you-don-t-know-js-types-and-grammar-6-1",
+    "you-don-t-know-js-types-and-grammar-6-2",
+    "you-don-t-know-js-types-and-grammar-6-3",
+    "you-don-t-know-js-types-and-grammar-6-4",
+    "you-don-t-know-js-types-and-grammar-6-5",
+    "you-don-t-know-js-types-and-grammar-6-6",
+    "you-don-t-know-js-types-and-grammar-6-7"
+  ],
+  "recordings": {
+    "you-don-t-know-js-types-and-grammar-6-1": {
+      "youtube": "https://youtu.be/IrunnJ3GQTw?t=0",
+      "vk": "https://vkvideo.ru/video-226486590_456239187?t=0m0s"
+    },
+    "you-don-t-know-js-types-and-grammar-6-2": {
+      "youtube": "https://youtu.be/IrunnJ3GQTw?t=318",
+      "vk": "https://vkvideo.ru/video-226486590_456239187?t=5m18s"
+    },
+    "you-don-t-know-js-types-and-grammar-6-3": {
+      "youtube": "https://youtu.be/IrunnJ3GQTw?t=771",
+      "vk": "https://vkvideo.ru/video-226486590_456239187?t=12m51s"
+    },
+    "you-don-t-know-js-types-and-grammar-6-4": {
+      "youtube": "https://youtu.be/IrunnJ3GQTw?t=1103",
+      "vk": "https://vkvideo.ru/video-226486590_456239187?t=18m23s"
+    },
+    "you-don-t-know-js-types-and-grammar-6-5": {
+      "youtube": "https://youtu.be/IrunnJ3GQTw?t=1385",
+      "vk": "https://vkvideo.ru/video-226486590_456239187?t=23m5s"
+    },
+    "you-don-t-know-js-types-and-grammar-6-6": {
+      "youtube": "https://youtu.be/IrunnJ3GQTw?t=1702",
+      "vk": "https://vkvideo.ru/video-226486590_456239187?t=28m22s"
+    },
+    "you-don-t-know-js-types-and-grammar-6-7": {
+      "youtube": "https://youtu.be/IrunnJ3GQTw?t=1886",
+      "vk": "https://vkvideo.ru/video-226486590_456239187?t=31m26s"
+    }
+  },
+  "stream": 93,
+  "finished": true
+}

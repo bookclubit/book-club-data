@@ -1,0 +1,47 @@
+{
+  "id": "live-2025-08-08-glava-1-tipy",
+  "type": "live-talk",
+  "title": "Глава 1. Типы",
+  "date": "2025-08-08",
+  "time": "18:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/LLmRbjBbyuk",
+    "vk": "https://vkvideo.ru/video-226486590_456239168"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "you-don-t-know-js-types-and-grammar",
+      "chapter": "01-tipy",
+      "topic_ids": [
+        "you-don-t-know-js-types-and-grammar-1-1",
+        "you-don-t-know-js-types-and-grammar-1-2",
+        "you-don-t-know-js-types-and-grammar-1-3"
+      ]
+    }
+  ],
+  "book_id": "you-don-t-know-js-types-and-grammar",
+  "chapter": "01-tipy",
+  "topic_ids": [
+    "you-don-t-know-js-types-and-grammar-1-1",
+    "you-don-t-know-js-types-and-grammar-1-2",
+    "you-don-t-know-js-types-and-grammar-1-3"
+  ],
+  "recordings": {
+    "you-don-t-know-js-types-and-grammar-1-1": {
+      "youtube": "https://youtu.be/5omIreftplo?t=0",
+      "vk": "https://vkvideo.ru/video-226486590_456239169?t=0m0s"
+    },
+    "you-don-t-know-js-types-and-grammar-1-2": {
+      "youtube": "https://youtu.be/5omIreftplo?t=0",
+      "vk": "https://vkvideo.ru/video-226486590_456239169?t=0m0s"
+    },
+    "you-don-t-know-js-types-and-grammar-1-3": {
+      "youtube": "https://youtu.be/5omIreftplo?t=549",
+      "vk": "https://vkvideo.ru/video-226486590_456239169?t=9m9s"
+    }
+  },
+  "stream": 83,
+  "finished": true
+}
