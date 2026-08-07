@@ -29,6 +29,15 @@
       }
     },
     {
+      "id": "asafov-pavel",
+      "name": "Павел Асафов",
+      "aliases": ["Павел", "Павел Асафов"],
+      "avatar": "/media/speakers/asafov-pavel.webp",
+      "socials": {
+        "telegram": "https://t.me/pavelasafov"
+      }
+    },
+    {
       "id": "muhin-grigoriy",
       "name": "Григорий Мухин",
       "aliases": ["Григорий", "Григорий Мухин"],
