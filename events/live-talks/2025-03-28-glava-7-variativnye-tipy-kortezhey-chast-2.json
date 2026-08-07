@@ -1,0 +1,47 @@
+{
+  "id": "live-2025-03-28-glava-7-variativnye-tipy-kortezhey-chast-2",
+  "type": "live-talk",
+  "title": "Глава 7. Вариативные типы кортежей - часть 2",
+  "date": "2025-03-28",
+  "time": "18:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/nVUvEXvKQNc",
+    "vk": "https://vkvideo.ru/video-226486590_456239131"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "typescript-cookbook",
+      "chapter": "07-variativnye-tipy-kortezhey",
+      "topic_ids": [
+        "typescript-cookbook-7-4",
+        "typescript-cookbook-7-6",
+        "typescript-cookbook-7-7"
+      ]
+    }
+  ],
+  "recordings": {
+    "typescript-cookbook-7-4": {
+      "youtube": "https://youtu.be/N3AyTXTyQXw?t=0",
+      "vk": "https://vkvideo.ru/video-226486590_456239132?t=0m0s"
+    },
+    "typescript-cookbook-7-6": {
+      "youtube": "https://youtu.be/N3AyTXTyQXw?t=694",
+      "vk": "https://vkvideo.ru/video-226486590_456239132?t=11m34s"
+    },
+    "typescript-cookbook-7-7": {
+      "youtube": "https://youtu.be/N3AyTXTyQXw?t=1757",
+      "vk": "https://vkvideo.ru/video-226486590_456239132?t=29m17s"
+    }
+  },
+  "stream": 66,
+  "finished": true,
+  "book_id": "typescript-cookbook",
+  "chapter": "07-variativnye-tipy-kortezhey",
+  "topic_ids": [
+    "typescript-cookbook-7-4",
+    "typescript-cookbook-7-6",
+    "typescript-cookbook-7-7"
+  ]
+}

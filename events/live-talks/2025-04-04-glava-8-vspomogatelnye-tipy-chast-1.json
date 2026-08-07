@@ -1,0 +1,47 @@
+{
+  "id": "live-2025-04-04-glava-8-vspomogatelnye-tipy-chast-1",
+  "type": "live-talk",
+  "title": "Глава 8. Вспомогательные типы - часть 1",
+  "date": "2025-04-04",
+  "time": "18:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/6vV6z42ydvY",
+    "vk": "https://vkvideo.ru/video-226486590_456239133"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "typescript-cookbook",
+      "chapter": "08-vspomogatelnye-tipy",
+      "topic_ids": [
+        "typescript-cookbook-8-1",
+        "typescript-cookbook-8-2",
+        "typescript-cookbook-8-3"
+      ]
+    }
+  ],
+  "recordings": {
+    "typescript-cookbook-8-1": {
+      "youtube": "https://youtu.be/nuuit5eOvP0?t=0",
+      "vk": "https://vkvideo.ru/video-226486590_456239134?t=0m0s"
+    },
+    "typescript-cookbook-8-2": {
+      "youtube": "https://youtu.be/nuuit5eOvP0?t=407",
+      "vk": "https://vkvideo.ru/video-226486590_456239134?t=6m47s"
+    },
+    "typescript-cookbook-8-3": {
+      "youtube": "https://youtu.be/nuuit5eOvP0?t=1105",
+      "vk": "https://vkvideo.ru/video-226486590_456239134?t=18m25s"
+    }
+  },
+  "stream": 67,
+  "finished": true,
+  "book_id": "typescript-cookbook",
+  "chapter": "08-vspomogatelnye-tipy",
+  "topic_ids": [
+    "typescript-cookbook-8-1",
+    "typescript-cookbook-8-2",
+    "typescript-cookbook-8-3"
+  ]
+}

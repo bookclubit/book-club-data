@@ -1,0 +1,47 @@
+{
+  "id": "live-2025-03-07-glava-6-shablonnye-literaly-chast-1",
+  "type": "live-talk",
+  "title": "Глава 6. Типы литералов шаблонов строк - часть 1",
+  "date": "2025-03-07",
+  "time": "18:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/RpRHZlVvaoI",
+    "vk": "https://vkvideo.ru/video-226486590_456239124"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "typescript-cookbook",
+      "chapter": "06-tipy-literalov-shablonov-strok",
+      "topic_ids": [
+        "typescript-cookbook-6-1",
+        "typescript-cookbook-6-2",
+        "typescript-cookbook-6-3"
+      ]
+    }
+  ],
+  "recordings": {
+    "typescript-cookbook-6-1": {
+      "youtube": "https://youtu.be/uN5-nx9TSOg?t=0",
+      "vk": "https://vkvideo.ru/video-226486590_456239125?t=0m0s"
+    },
+    "typescript-cookbook-6-2": {
+      "youtube": "https://youtu.be/uN5-nx9TSOg?t=225",
+      "vk": "https://vkvideo.ru/video-226486590_456239125?t=3m45s"
+    },
+    "typescript-cookbook-6-3": {
+      "youtube": "https://youtu.be/uN5-nx9TSOg?t=1518",
+      "vk": "https://vkvideo.ru/video-226486590_456239125?t=25m18s"
+    }
+  },
+  "stream": 63,
+  "finished": true,
+  "book_id": "typescript-cookbook",
+  "chapter": "06-tipy-literalov-shablonov-strok",
+  "topic_ids": [
+    "typescript-cookbook-6-1",
+    "typescript-cookbook-6-2",
+    "typescript-cookbook-6-3"
+  ]
+}

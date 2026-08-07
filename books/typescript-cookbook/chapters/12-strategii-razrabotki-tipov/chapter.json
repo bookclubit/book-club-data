@@ -5,7 +5,7 @@
     {
       "id": "typescript-cookbook-12-1",
       "title": "Написание простых в сопровождении типов",
-      "speakers": [],
+      "speakers": ["Хасан"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -14,7 +14,7 @@
     {
       "id": "typescript-cookbook-12-2",
       "title": "Поэтапное уточнение типов",
-      "speakers": [],
+      "speakers": ["Антон Помазков"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -32,7 +32,7 @@
     {
       "id": "typescript-cookbook-12-4",
       "title": "Тестирование сложных типов",
-      "speakers": [],
+      "speakers": ["Артём Никифоров"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -41,7 +41,7 @@
     {
       "id": "typescript-cookbook-12-5",
       "title": "Проверка типов данных во время выполнения с помощью Zod",
-      "speakers": [],
+      "speakers": ["Антон Помазков"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -59,7 +59,7 @@
     {
       "id": "typescript-cookbook-12-7",
       "title": "Принятие решения о том, использовать ли перегрузку функций или условные типы",
-      "speakers": [],
+      "speakers": ["Артём Никифоров"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -68,7 +68,7 @@
     {
       "id": "typescript-cookbook-12-8",
       "title": "Именование обобщенных типов",
-      "speakers": [],
+      "speakers": ["Антон Помазков"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -77,7 +77,7 @@
     {
       "id": "typescript-cookbook-12-9",
       "title": "Прототипирование в TypeScript Playground",
-      "speakers": [],
+      "speakers": ["Chepash"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -86,7 +86,7 @@
     {
       "id": "typescript-cookbook-12-10",
       "title": "Предоставление нескольких версий библиотеки",
-      "speakers": [],
+      "speakers": ["Вячеслав Чичимов"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -95,7 +95,7 @@
     {
       "id": "typescript-cookbook-12-11",
       "title": "Знать, когда остановиться",
-      "speakers": [],
+      "speakers": ["Антон Помазков"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",

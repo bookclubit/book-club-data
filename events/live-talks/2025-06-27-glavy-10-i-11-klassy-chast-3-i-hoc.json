@@ -1,0 +1,49 @@
+{
+  "id": "live-2025-06-27-glavy-10-i-11-klassy-chast-3-i-hoc",
+  "type": "live-talk",
+  "title": "Главы 10 и 11. Классы - часть 3 и компоненты высшего порядка",
+  "date": "2025-06-27",
+  "time": "18:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/OrQ41KFWoJE",
+    "vk": "https://vkvideo.ru/video-226486590_456239157"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "typescript-cookbook",
+      "chapter": "10-typescript-i-react",
+      "topic_ids": ["typescript-cookbook-10-6"]
+    },
+    {
+      "book_id": "typescript-cookbook",
+      "chapter": "11-klassy",
+      "topic_ids": [
+        "typescript-cookbook-11-5",
+        "typescript-cookbook-11-6",
+        "typescript-cookbook-11-7"
+      ]
+    }
+  ],
+  "recordings": {
+    "typescript-cookbook-10-6": {
+      "youtube": "https://youtu.be/SXiBXmnkGG8?t=0",
+      "vk": "https://vkvideo.ru/video-226486590_456239158?t=0m0s"
+    },
+    "typescript-cookbook-11-5": {
+      "youtube": "https://youtu.be/zuJZGEL_ikY?t=0",
+      "vk": "https://vkvideo.ru/video-226486590_456239159?t=0m0s"
+    },
+    "typescript-cookbook-11-6": {
+      "youtube": "https://youtu.be/zuJZGEL_ikY?t=420",
+      "vk": "https://vkvideo.ru/video-226486590_456239159?t=7m0s"
+    },
+    "typescript-cookbook-11-7": {
+      "youtube": "https://youtu.be/zuJZGEL_ikY?t=1229",
+      "vk": "https://vkvideo.ru/video-226486590_456239159?t=20m29s"
+    }
+  },
+  "stream": 78,
+  "finished": true
+}

@@ -1,0 +1,71 @@
+{
+  "id": "live-2025-01-31-glava-3-sistema-tipov-chast-2",
+  "type": "live-talk",
+  "title": "Глава 3. Система типов - часть 2",
+  "date": "2025-01-31",
+  "time": "18:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/b2Q8J-bSdu4",
+    "vk": "https://vkvideo.ru/video-226486590_456239113"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "typescript-cookbook",
+      "chapter": "03-sistema-tipov",
+      "topic_ids": [
+        "typescript-cookbook-3-8",
+        "typescript-cookbook-3-9",
+        "typescript-cookbook-3-10",
+        "typescript-cookbook-3-11",
+        "typescript-cookbook-3-12",
+        "typescript-cookbook-3-13",
+        "typescript-cookbook-3-14"
+      ]
+    }
+  ],
+  "recordings": {
+    "typescript-cookbook-3-8": {
+      "youtube": "https://youtu.be/KW4ubnUrnKU?t=0",
+      "vk": "https://vkvideo.ru/video-226486590_456239114?t=0m0s"
+    },
+    "typescript-cookbook-3-9": {
+      "youtube": "https://youtu.be/KW4ubnUrnKU?t=372",
+      "vk": "https://vkvideo.ru/video-226486590_456239114?t=6m12s"
+    },
+    "typescript-cookbook-3-10": {
+      "youtube": "https://youtu.be/KW4ubnUrnKU?t=850",
+      "vk": "https://vkvideo.ru/video-226486590_456239114?t=14m10s"
+    },
+    "typescript-cookbook-3-11": {
+      "youtube": "https://youtu.be/KW4ubnUrnKU?t=1688",
+      "vk": "https://vkvideo.ru/video-226486590_456239114?t=28m8s"
+    },
+    "typescript-cookbook-3-12": {
+      "youtube": "https://youtu.be/KW4ubnUrnKU?t=2086",
+      "vk": "https://vkvideo.ru/video-226486590_456239114?t=34m46s"
+    },
+    "typescript-cookbook-3-13": {
+      "youtube": "https://youtu.be/KW4ubnUrnKU?t=3102",
+      "vk": "https://vkvideo.ru/video-226486590_456239114?t=51m42s"
+    },
+    "typescript-cookbook-3-14": {
+      "youtube": "https://youtu.be/KW4ubnUrnKU?t=3738",
+      "vk": "https://vkvideo.ru/video-226486590_456239114?t=1h2m18s"
+    }
+  },
+  "stream": 58,
+  "finished": true,
+  "book_id": "typescript-cookbook",
+  "chapter": "03-sistema-tipov",
+  "topic_ids": [
+    "typescript-cookbook-3-8",
+    "typescript-cookbook-3-9",
+    "typescript-cookbook-3-10",
+    "typescript-cookbook-3-11",
+    "typescript-cookbook-3-12",
+    "typescript-cookbook-3-13",
+    "typescript-cookbook-3-14"
+  ]
+}

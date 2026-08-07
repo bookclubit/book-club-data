@@ -5,7 +5,7 @@
     {
       "id": "typescript-cookbook-6-1",
       "title": "Определение пользовательской системы событий",
-      "speakers": [],
+      "speakers": ["Вячеслав Чичимов"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -14,7 +14,7 @@
     {
       "id": "typescript-cookbook-6-2",
       "title": "Создание обратных вызовов событий с помощью типов манипуляций со строками и переназначения ключей",
-      "speakers": [],
+      "speakers": ["Антон Помазков"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -23,7 +23,7 @@
     {
       "id": "typescript-cookbook-6-3",
       "title": "Написание функции форматирования",
-      "speakers": [],
+      "speakers": ["Chepash"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -32,7 +32,7 @@
     {
       "id": "typescript-cookbook-6-4",
       "title": "Извлечение типов параметров формата",
-      "speakers": [],
+      "speakers": ["Артём Никифоров"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -41,7 +41,7 @@
     {
       "id": "typescript-cookbook-6-5",
       "title": "Работа с ограничениями рекурсии",
-      "speakers": [],
+      "speakers": ["Вячеслав Чичимов"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -50,7 +50,7 @@
     {
       "id": "typescript-cookbook-6-6",
       "title": "Использование литералов шаблонов строк в качестве дискриминантов",
-      "speakers": [],
+      "speakers": ["Chepash"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",

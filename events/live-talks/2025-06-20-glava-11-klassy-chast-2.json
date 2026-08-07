@@ -1,0 +1,35 @@
+{
+  "id": "live-2025-06-20-glava-11-klassy-chast-2",
+  "type": "live-talk",
+  "title": "Глава 11. Классы - часть 2",
+  "date": "2025-06-20",
+  "time": "18:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/IklDD8JyMiM",
+    "vk": "https://vkvideo.ru/video-226486590_456239155"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "typescript-cookbook",
+      "chapter": "11-klassy",
+      "topic_ids": ["typescript-cookbook-11-3", "typescript-cookbook-11-4"]
+    }
+  ],
+  "recordings": {
+    "typescript-cookbook-11-3": {
+      "youtube": "https://youtu.be/vOFHDef6U6Y?t=0",
+      "vk": "https://vkvideo.ru/video-226486590_456239156?t=0m0s"
+    },
+    "typescript-cookbook-11-4": {
+      "youtube": "https://youtu.be/vOFHDef6U6Y?t=307",
+      "vk": "https://vkvideo.ru/video-226486590_456239156?t=5m7s"
+    }
+  },
+  "stream": 77,
+  "finished": true,
+  "book_id": "typescript-cookbook",
+  "chapter": "11-klassy",
+  "topic_ids": ["typescript-cookbook-11-3", "typescript-cookbook-11-4"]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "live-2025-08-01-glava-12-final-knigi",
+  "type": "live-talk",
+  "title": "Глава 12. Гранд-финал: прощаемся с «Рецептами TypeScript»",
+  "date": "2025-08-01",
+  "time": "18:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/k5WvOX3v7uI",
+    "vk": "https://vkvideo.ru/video-226486590_456239166"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "typescript-cookbook",
+      "chapter": "12-strategii-razrabotki-tipov",
+      "topic_ids": [
+        "typescript-cookbook-12-7",
+        "typescript-cookbook-12-8",
+        "typescript-cookbook-12-9",
+        "typescript-cookbook-12-10",
+        "typescript-cookbook-12-11"
+      ]
+    }
+  ],
+  "recordings": {
+    "typescript-cookbook-12-7": {
+      "youtube": "https://youtu.be/y2Dkly6yYsA?t=0",
+      "vk": "https://vkvideo.ru/video-226486590_456239167?t=0m0s"
+    },
+    "typescript-cookbook-12-8": {
+      "youtube": "https://youtu.be/y2Dkly6yYsA?t=695",
+      "vk": "https://vkvideo.ru/video-226486590_456239167?t=11m35s"
+    },
+    "typescript-cookbook-12-9": {
+      "youtube": "https://youtu.be/y2Dkly6yYsA?t=1149",
+      "vk": "https://vkvideo.ru/video-226486590_456239167?t=19m9s"
+    },
+    "typescript-cookbook-12-10": {
+      "youtube": "https://youtu.be/y2Dkly6yYsA?t=2045",
+      "vk": "https://vkvideo.ru/video-226486590_456239167?t=34m5s"
+    },
+    "typescript-cookbook-12-11": {
+      "youtube": "https://youtu.be/y2Dkly6yYsA?t=2303",
+      "vk": "https://vkvideo.ru/video-226486590_456239167?t=38m23s"
+    }
+  },
+  "stream": 82,
+  "finished": true,
+  "book_id": "typescript-cookbook",
+  "chapter": "12-strategii-razrabotki-tipov",
+  "topic_ids": [
+    "typescript-cookbook-12-7",
+    "typescript-cookbook-12-8",
+    "typescript-cookbook-12-9",
+    "typescript-cookbook-12-10",
+    "typescript-cookbook-12-11"
+  ]
+}

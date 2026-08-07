@@ -1,0 +1,47 @@
+{
+  "id": "live-2025-05-16-glava-10-typescript-i-react-chast-1",
+  "type": "live-talk",
+  "title": "Глава 10. TypeScript и React - часть 1",
+  "date": "2025-05-16",
+  "time": "18:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/JOUExnI51eo",
+    "vk": "https://vkvideo.ru/video-226486590_456239146"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "typescript-cookbook",
+      "chapter": "10-typescript-i-react",
+      "topic_ids": [
+        "typescript-cookbook-10-1",
+        "typescript-cookbook-10-2",
+        "typescript-cookbook-10-3"
+      ]
+    }
+  ],
+  "recordings": {
+    "typescript-cookbook-10-1": {
+      "youtube": "https://youtu.be/nWD19d0npSk?t=0",
+      "vk": "https://vkvideo.ru/video-226486590_456239147?t=0m0s"
+    },
+    "typescript-cookbook-10-2": {
+      "youtube": "https://youtu.be/nWD19d0npSk?t=264",
+      "vk": "https://vkvideo.ru/video-226486590_456239147?t=4m24s"
+    },
+    "typescript-cookbook-10-3": {
+      "youtube": "https://youtu.be/nWD19d0npSk?t=724",
+      "vk": "https://vkvideo.ru/video-226486590_456239147?t=12m4s"
+    }
+  },
+  "stream": 73,
+  "finished": true,
+  "book_id": "typescript-cookbook",
+  "chapter": "10-typescript-i-react",
+  "topic_ids": [
+    "typescript-cookbook-10-1",
+    "typescript-cookbook-10-2",
+    "typescript-cookbook-10-3"
+  ]
+}

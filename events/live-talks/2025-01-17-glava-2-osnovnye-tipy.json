@@ -1,0 +1,83 @@
+{
+  "id": "live-2025-01-17-glava-2-osnovnye-tipy",
+  "type": "live-talk",
+  "title": "Глава 2. Основные типы",
+  "date": "2025-01-17",
+  "time": "18:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/T5XO3nQVIYk",
+    "vk": "https://vkvideo.ru/video-226486590_456239109"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "typescript-cookbook",
+      "chapter": "02-osnovnye-tipy",
+      "topic_ids": [
+        "typescript-cookbook-2-1",
+        "typescript-cookbook-2-2",
+        "typescript-cookbook-2-3",
+        "typescript-cookbook-2-4",
+        "typescript-cookbook-2-5",
+        "typescript-cookbook-2-6",
+        "typescript-cookbook-2-7",
+        "typescript-cookbook-2-8",
+        "typescript-cookbook-2-9"
+      ]
+    }
+  ],
+  "recordings": {
+    "typescript-cookbook-2-1": {
+      "youtube": "https://youtu.be/lwMAjwIzqSA?t=0",
+      "vk": "https://vkvideo.ru/video-226486590_456239110?t=0m0s"
+    },
+    "typescript-cookbook-2-2": {
+      "youtube": "https://youtu.be/lwMAjwIzqSA?t=701",
+      "vk": "https://vkvideo.ru/video-226486590_456239110?t=11m41s"
+    },
+    "typescript-cookbook-2-3": {
+      "youtube": "https://youtu.be/lwMAjwIzqSA?t=858",
+      "vk": "https://vkvideo.ru/video-226486590_456239110?t=14m18s"
+    },
+    "typescript-cookbook-2-4": {
+      "youtube": "https://youtu.be/lwMAjwIzqSA?t=1414",
+      "vk": "https://vkvideo.ru/video-226486590_456239110?t=23m34s"
+    },
+    "typescript-cookbook-2-5": {
+      "youtube": "https://youtu.be/lwMAjwIzqSA?t=1773",
+      "vk": "https://vkvideo.ru/video-226486590_456239110?t=29m33s"
+    },
+    "typescript-cookbook-2-6": {
+      "youtube": "https://youtu.be/lwMAjwIzqSA?t=2240",
+      "vk": "https://vkvideo.ru/video-226486590_456239110?t=37m20s"
+    },
+    "typescript-cookbook-2-7": {
+      "youtube": "https://youtu.be/lwMAjwIzqSA?t=2386",
+      "vk": "https://vkvideo.ru/video-226486590_456239110?t=39m46s"
+    },
+    "typescript-cookbook-2-8": {
+      "youtube": "https://youtu.be/lwMAjwIzqSA?t=3432",
+      "vk": "https://vkvideo.ru/video-226486590_456239110?t=57m12s"
+    },
+    "typescript-cookbook-2-9": {
+      "youtube": "https://youtu.be/lwMAjwIzqSA?t=4218",
+      "vk": "https://vkvideo.ru/video-226486590_456239110?t=1h10m18s"
+    }
+  },
+  "stream": 56,
+  "finished": true,
+  "book_id": "typescript-cookbook",
+  "chapter": "02-osnovnye-tipy",
+  "topic_ids": [
+    "typescript-cookbook-2-1",
+    "typescript-cookbook-2-2",
+    "typescript-cookbook-2-3",
+    "typescript-cookbook-2-4",
+    "typescript-cookbook-2-5",
+    "typescript-cookbook-2-6",
+    "typescript-cookbook-2-7",
+    "typescript-cookbook-2-8",
+    "typescript-cookbook-2-9"
+  ]
+}

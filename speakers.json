@@ -38,6 +38,33 @@
       }
     },
     {
+      "id": "chichimov-vyacheslav",
+      "name": "Вячеслав Чичимов",
+      "aliases": ["Вячеслав", "Слава", "Вячеслав Чичимов"],
+      "avatar": "/media/speakers/chichimov-vyacheslav.webp",
+      "socials": {
+        "telegram": "https://t.me/webkittendev"
+      }
+    },
+    {
+      "id": "chepash",
+      "name": "Chepash",
+      "aliases": ["Chepash", "chepash"],
+      "avatar": "/media/speakers/chepash.webp",
+      "socials": {
+        "telegram": "https://t.me/chepash"
+      }
+    },
+    {
+      "id": "khasan",
+      "name": "Хасан",
+      "aliases": ["Хасан"],
+      "avatar": "/media/speakers/khasan.webp",
+      "socials": {
+        "telegram": "https://t.me/khasan_cff"
+      }
+    },
+    {
       "id": "muhin-grigoriy",
       "name": "Григорий Мухин",
       "aliases": ["Григорий", "Григорий Мухин"],

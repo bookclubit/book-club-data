@@ -1,0 +1,31 @@
+{
+  "id": "live-2025-02-28-glava-5-uslovnye-tipy-chast-2",
+  "type": "live-talk",
+  "title": "Глава 5. Условные типы - часть 2",
+  "date": "2025-02-28",
+  "time": "18:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/nQIiM9O82W8",
+    "vk": "https://vkvideo.ru/video-226486590_456239121"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "typescript-cookbook",
+      "chapter": "05-uslovnye-tipy",
+      "topic_ids": ["typescript-cookbook-5-5"]
+    }
+  ],
+  "recordings": {
+    "typescript-cookbook-5-5": {
+      "youtube": "https://youtu.be/WM65j9-F-b0?t=0",
+      "vk": "https://vkvideo.ru/video-226486590_456239123?t=0m0s"
+    }
+  },
+  "stream": 62,
+  "finished": true,
+  "book_id": "typescript-cookbook",
+  "chapter": "05-uslovnye-tipy",
+  "topic_ids": ["typescript-cookbook-5-5"]
+}

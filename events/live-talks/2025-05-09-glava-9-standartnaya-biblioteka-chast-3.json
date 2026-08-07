@@ -1,0 +1,47 @@
+{
+  "id": "live-2025-05-09-glava-9-standartnaya-biblioteka-chast-3",
+  "type": "live-talk",
+  "title": "Глава 9. Стандартная библиотека и внешние типы - часть 3",
+  "date": "2025-05-09",
+  "time": "18:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/KCt53R6vzy4",
+    "vk": "https://vkvideo.ru/video-226486590_456239144"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "typescript-cookbook",
+      "chapter": "09-standartnaya-biblioteka-i-opredeleniya-vneshnih-tipov",
+      "topic_ids": [
+        "typescript-cookbook-9-6",
+        "typescript-cookbook-9-7",
+        "typescript-cookbook-9-8"
+      ]
+    }
+  ],
+  "recordings": {
+    "typescript-cookbook-9-6": {
+      "youtube": "https://youtu.be/eUFd9a65kMs?t=0",
+      "vk": "https://vkvideo.ru/video-226486590_456239145?t=0m0s"
+    },
+    "typescript-cookbook-9-7": {
+      "youtube": "https://youtu.be/eUFd9a65kMs?t=275",
+      "vk": "https://vkvideo.ru/video-226486590_456239145?t=4m35s"
+    },
+    "typescript-cookbook-9-8": {
+      "youtube": "https://youtu.be/eUFd9a65kMs?t=1036",
+      "vk": "https://vkvideo.ru/video-226486590_456239145?t=17m16s"
+    }
+  },
+  "stream": 72,
+  "finished": true,
+  "book_id": "typescript-cookbook",
+  "chapter": "09-standartnaya-biblioteka-i-opredeleniya-vneshnih-tipov",
+  "topic_ids": [
+    "typescript-cookbook-9-6",
+    "typescript-cookbook-9-7",
+    "typescript-cookbook-9-8"
+  ]
+}

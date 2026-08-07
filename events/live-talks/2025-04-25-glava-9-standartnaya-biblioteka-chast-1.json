@@ -1,0 +1,35 @@
+{
+  "id": "live-2025-04-25-glava-9-standartnaya-biblioteka-chast-1",
+  "type": "live-talk",
+  "title": "Глава 9. Стандартная библиотека и внешние типы - часть 1",
+  "date": "2025-04-25",
+  "time": "18:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/Q32ibB1pMMY",
+    "vk": "https://vkvideo.ru/video-226486590_456239139"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "typescript-cookbook",
+      "chapter": "09-standartnaya-biblioteka-i-opredeleniya-vneshnih-tipov",
+      "topic_ids": ["typescript-cookbook-9-1", "typescript-cookbook-9-2"]
+    }
+  ],
+  "recordings": {
+    "typescript-cookbook-9-1": {
+      "youtube": "https://youtu.be/D-wB5ntoWbQ?t=0",
+      "vk": "https://vkvideo.ru/video-226486590_456239141?t=0m0s"
+    },
+    "typescript-cookbook-9-2": {
+      "youtube": "https://youtu.be/D-wB5ntoWbQ?t=295",
+      "vk": "https://vkvideo.ru/video-226486590_456239141?t=4m55s"
+    }
+  },
+  "stream": 70,
+  "finished": true,
+  "book_id": "typescript-cookbook",
+  "chapter": "09-standartnaya-biblioteka-i-opredeleniya-vneshnih-tipov",
+  "topic_ids": ["typescript-cookbook-9-1", "typescript-cookbook-9-2"]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "live-2025-05-30-glava-10-typescript-i-react-chast-3",
+  "type": "live-talk",
+  "title": "Глава 10. TypeScript и React - часть 3",
+  "date": "2025-05-30",
+  "time": "18:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/bOB6YgpoYxk",
+    "vk": "https://vkvideo.ru/video-226486590_456239150"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "typescript-cookbook",
+      "chapter": "10-typescript-i-react",
+      "topic_ids": ["typescript-cookbook-10-7", "typescript-cookbook-10-8"]
+    }
+  ],
+  "recordings": {
+    "typescript-cookbook-10-7": {
+      "youtube": "https://youtu.be/J0bOPrKfM08?t=0",
+      "vk": "https://vkvideo.ru/video-226486590_456239151?t=0m0s"
+    },
+    "typescript-cookbook-10-8": {
+      "youtube": "https://youtu.be/J0bOPrKfM08?t=142",
+      "vk": "https://vkvideo.ru/video-226486590_456239151?t=2m22s"
+    }
+  },
+  "stream": 75,
+  "finished": true,
+  "book_id": "typescript-cookbook",
+  "chapter": "10-typescript-i-react",
+  "topic_ids": ["typescript-cookbook-10-7", "typescript-cookbook-10-8"]
+}

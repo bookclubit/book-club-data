@@ -5,7 +5,7 @@
     {
       "id": "typescript-cookbook-9-1",
       "title": "Перебор объектов с помощью Object.keys",
-      "speakers": [],
+      "speakers": ["Артём Никифоров"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -14,7 +14,7 @@
     {
       "id": "typescript-cookbook-9-2",
       "title": "Явное выделение небезопасных операций с помощью утверждений типов и unknown",
-      "speakers": [],
+      "speakers": ["Антон Помазков"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -23,7 +23,7 @@
     {
       "id": "typescript-cookbook-9-3",
       "title": "Работа с defineProperty",
-      "speakers": [],
+      "speakers": ["Хасан"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -32,7 +32,7 @@
     {
       "id": "typescript-cookbook-9-4",
       "title": "Расширение типов для Array.prototype.includes",
-      "speakers": [],
+      "speakers": ["Артём Никифоров"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -41,7 +41,7 @@
     {
       "id": "typescript-cookbook-9-5",
       "title": "Фильтрация нулевых значений",
-      "speakers": [],
+      "speakers": ["Антон Помазков"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -50,7 +50,7 @@
     {
       "id": "typescript-cookbook-9-6",
       "title": "Расширение модулей",
-      "speakers": [],
+      "speakers": ["Хасан"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -59,7 +59,7 @@
     {
       "id": "typescript-cookbook-9-7",
       "title": "Расширение глобальных переменных",
-      "speakers": [],
+      "speakers": ["Антон Помазков"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -68,7 +68,7 @@
     {
       "id": "typescript-cookbook-9-8",
       "title": "Добавление модулей, которые отличаются от JS, в граф модулей",
-      "speakers": [],
+      "speakers": ["Артём Никифоров"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",

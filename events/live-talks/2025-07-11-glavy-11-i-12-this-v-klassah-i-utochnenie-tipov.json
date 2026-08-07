@@ -1,0 +1,41 @@
+{
+  "id": "live-2025-07-11-glavy-11-i-12-this-v-klassah-i-utochnenie-tipov",
+  "type": "live-talk",
+  "title": "Главы 11 и 12. this в классах и уточнение типов",
+  "date": "2025-07-11",
+  "time": "18:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/AD4kvrclcTg",
+    "vk": "https://vkvideo.ru/video-226486590_456239161"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "typescript-cookbook",
+      "chapter": "11-klassy",
+      "topic_ids": ["typescript-cookbook-11-8"]
+    },
+    {
+      "book_id": "typescript-cookbook",
+      "chapter": "12-strategii-razrabotki-tipov",
+      "topic_ids": ["typescript-cookbook-12-2", "typescript-cookbook-12-3"]
+    }
+  ],
+  "recordings": {
+    "typescript-cookbook-11-8": {
+      "youtube": "https://youtu.be/fbCTab6EVgU?t=0",
+      "vk": "https://vkvideo.ru/video-226486590_456239162?t=0m0s"
+    },
+    "typescript-cookbook-12-2": {
+      "youtube": "https://youtu.be/Qr5jDuTwwVI?t=340",
+      "vk": "https://vkvideo.ru/video-226486590_456239163?t=5m40s"
+    },
+    "typescript-cookbook-12-3": {
+      "youtube": "https://youtu.be/Qr5jDuTwwVI?t=1367",
+      "vk": "https://vkvideo.ru/video-226486590_456239163?t=22m47s"
+    }
+  },
+  "stream": 80,
+  "finished": true
+}

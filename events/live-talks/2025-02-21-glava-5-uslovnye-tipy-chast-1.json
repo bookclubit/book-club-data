@@ -1,0 +1,53 @@
+{
+  "id": "live-2025-02-21-glava-5-uslovnye-tipy-chast-1",
+  "type": "live-talk",
+  "title": "Глава 5. Условные типы - часть 1",
+  "date": "2025-02-21",
+  "time": "18:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/pHTtgDuPWYg",
+    "vk": "https://vkvideo.ru/video-226486590_456239119"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "typescript-cookbook",
+      "chapter": "05-uslovnye-tipy",
+      "topic_ids": [
+        "typescript-cookbook-5-1",
+        "typescript-cookbook-5-2",
+        "typescript-cookbook-5-3",
+        "typescript-cookbook-5-4"
+      ]
+    }
+  ],
+  "recordings": {
+    "typescript-cookbook-5-1": {
+      "youtube": "https://youtu.be/7dhrdFtEAf0?t=0",
+      "vk": "https://vkvideo.ru/video-226486590_456239120?t=0m0s"
+    },
+    "typescript-cookbook-5-2": {
+      "youtube": "https://youtu.be/7dhrdFtEAf0?t=460",
+      "vk": "https://vkvideo.ru/video-226486590_456239120?t=7m40s"
+    },
+    "typescript-cookbook-5-3": {
+      "youtube": "https://youtu.be/7dhrdFtEAf0?t=1599",
+      "vk": "https://vkvideo.ru/video-226486590_456239120?t=26m39s"
+    },
+    "typescript-cookbook-5-4": {
+      "youtube": "https://youtu.be/7dhrdFtEAf0?t=2063",
+      "vk": "https://vkvideo.ru/video-226486590_456239120?t=34m23s"
+    }
+  },
+  "stream": 61,
+  "finished": true,
+  "book_id": "typescript-cookbook",
+  "chapter": "05-uslovnye-tipy",
+  "topic_ids": [
+    "typescript-cookbook-5-1",
+    "typescript-cookbook-5-2",
+    "typescript-cookbook-5-3",
+    "typescript-cookbook-5-4"
+  ]
+}

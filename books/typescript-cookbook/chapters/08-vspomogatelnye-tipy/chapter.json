@@ -5,7 +5,7 @@
     {
       "id": "typescript-cookbook-8-1",
       "title": "Установка определенных необязательных свойств",
-      "speakers": [],
+      "speakers": ["Вячеслав Чичимов"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -14,7 +14,7 @@
     {
       "id": "typescript-cookbook-8-2",
       "title": "Изменение вложенных объектов",
-      "speakers": [],
+      "speakers": ["Антон Помазков"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -23,7 +23,7 @@
     {
       "id": "typescript-cookbook-8-3",
       "title": "Переназначение типов",
-      "speakers": [],
+      "speakers": ["Артём Никифоров"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -32,7 +32,7 @@
     {
       "id": "typescript-cookbook-8-4",
       "title": "Получение всех необходимых ключей",
-      "speakers": [],
+      "speakers": ["Артём Никифоров"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -41,7 +41,7 @@
     {
       "id": "typescript-cookbook-8-5",
       "title": "Разрешение хотя бы одного свойства",
-      "speakers": [],
+      "speakers": ["Вячеслав Чичимов"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -50,7 +50,7 @@
     {
       "id": "typescript-cookbook-8-6",
       "title": "Разрешение ровно одного свойства, всех свойств или ни одного",
-      "speakers": [],
+      "speakers": ["Антон Помазков"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -59,7 +59,7 @@
     {
       "id": "typescript-cookbook-8-7",
       "title": "Преобразование типов объединения в типы пересечения",
-      "speakers": [],
+      "speakers": ["Артём Никифоров"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",
@@ -68,7 +68,7 @@
     {
       "id": "typescript-cookbook-8-8",
       "title": "Использование библиотеки type-fest",
-      "speakers": [],
+      "speakers": ["Антон Помазков"],
       "video_youtube": "",
       "video_vk": "",
       "presentation": "",

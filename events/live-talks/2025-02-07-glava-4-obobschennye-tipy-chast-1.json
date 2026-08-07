@@ -1,0 +1,53 @@
+{
+  "id": "live-2025-02-07-glava-4-obobschennye-tipy-chast-1",
+  "type": "live-talk",
+  "title": "Глава 4. Обобщенные типы - часть 1",
+  "date": "2025-02-07",
+  "time": "18:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/n8_V9U-ftBI",
+    "vk": "https://vkvideo.ru/video-226486590_456239115"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "typescript-cookbook",
+      "chapter": "04-obobschennye-tipy",
+      "topic_ids": [
+        "typescript-cookbook-4-1",
+        "typescript-cookbook-4-2",
+        "typescript-cookbook-4-3",
+        "typescript-cookbook-4-4"
+      ]
+    }
+  ],
+  "recordings": {
+    "typescript-cookbook-4-1": {
+      "youtube": "https://youtu.be/yIt2spN8HFE?t=0",
+      "vk": "https://vkvideo.ru/video-226486590_456239116?t=0m0s"
+    },
+    "typescript-cookbook-4-2": {
+      "youtube": "https://youtu.be/yIt2spN8HFE?t=241",
+      "vk": "https://vkvideo.ru/video-226486590_456239116?t=4m1s"
+    },
+    "typescript-cookbook-4-3": {
+      "youtube": "https://youtu.be/yIt2spN8HFE?t=944",
+      "vk": "https://vkvideo.ru/video-226486590_456239116?t=15m44s"
+    },
+    "typescript-cookbook-4-4": {
+      "youtube": "https://youtu.be/yIt2spN8HFE?t=1260",
+      "vk": "https://vkvideo.ru/video-226486590_456239116?t=21m0s"
+    }
+  },
+  "stream": 59,
+  "finished": true,
+  "book_id": "typescript-cookbook",
+  "chapter": "04-obobschennye-tipy",
+  "topic_ids": [
+    "typescript-cookbook-4-1",
+    "typescript-cookbook-4-2",
+    "typescript-cookbook-4-3",
+    "typescript-cookbook-4-4"
+  ]
+}

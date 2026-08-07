@@ -1,0 +1,95 @@
+{
+  "id": "live-2025-01-10-glava-1-nastroyka-proekta",
+  "type": "live-talk",
+  "title": "Глава 1. Настройка проекта",
+  "date": "2025-01-10",
+  "time": "18:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/uMUvIEGh6Q8",
+    "vk": "https://vkvideo.ru/video-226486590_456239107"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "typescript-cookbook",
+      "chapter": "01-nastroyka-proekta",
+      "topic_ids": [
+        "typescript-cookbook-1-1",
+        "typescript-cookbook-1-2",
+        "typescript-cookbook-1-3",
+        "typescript-cookbook-1-4",
+        "typescript-cookbook-1-5",
+        "typescript-cookbook-1-6",
+        "typescript-cookbook-1-7",
+        "typescript-cookbook-1-8",
+        "typescript-cookbook-1-9",
+        "typescript-cookbook-1-10",
+        "typescript-cookbook-1-11"
+      ]
+    }
+  ],
+  "recordings": {
+    "typescript-cookbook-1-1": {
+      "youtube": "https://youtu.be/DNHAPfiVJds?t=124",
+      "vk": "https://vkvideo.ru/video-226486590_456239108?t=2m4s"
+    },
+    "typescript-cookbook-1-2": {
+      "youtube": "https://youtu.be/DNHAPfiVJds?t=236",
+      "vk": "https://vkvideo.ru/video-226486590_456239108?t=3m56s"
+    },
+    "typescript-cookbook-1-3": {
+      "youtube": "https://youtu.be/DNHAPfiVJds?t=1044",
+      "vk": "https://vkvideo.ru/video-226486590_456239108?t=17m24s"
+    },
+    "typescript-cookbook-1-4": {
+      "youtube": "https://youtu.be/DNHAPfiVJds?t=1392",
+      "vk": "https://vkvideo.ru/video-226486590_456239108?t=23m12s"
+    },
+    "typescript-cookbook-1-5": {
+      "youtube": "https://youtu.be/DNHAPfiVJds?t=1801",
+      "vk": "https://vkvideo.ru/video-226486590_456239108?t=30m1s"
+    },
+    "typescript-cookbook-1-6": {
+      "youtube": "https://youtu.be/DNHAPfiVJds?t=2038",
+      "vk": "https://vkvideo.ru/video-226486590_456239108?t=33m58s"
+    },
+    "typescript-cookbook-1-7": {
+      "youtube": "https://youtu.be/DNHAPfiVJds?t=2252",
+      "vk": "https://vkvideo.ru/video-226486590_456239108?t=37m32s"
+    },
+    "typescript-cookbook-1-8": {
+      "youtube": "https://youtu.be/DNHAPfiVJds?t=2972",
+      "vk": "https://vkvideo.ru/video-226486590_456239108?t=49m32s"
+    },
+    "typescript-cookbook-1-9": {
+      "youtube": "https://youtu.be/DNHAPfiVJds?t=3237",
+      "vk": "https://vkvideo.ru/video-226486590_456239108?t=53m57s"
+    },
+    "typescript-cookbook-1-10": {
+      "youtube": "https://youtu.be/DNHAPfiVJds?t=3742",
+      "vk": "https://vkvideo.ru/video-226486590_456239108?t=1h2m22s"
+    },
+    "typescript-cookbook-1-11": {
+      "youtube": "https://youtu.be/DNHAPfiVJds?t=4312",
+      "vk": "https://vkvideo.ru/video-226486590_456239108?t=1h11m52s"
+    }
+  },
+  "stream": 55,
+  "finished": true,
+  "book_id": "typescript-cookbook",
+  "chapter": "01-nastroyka-proekta",
+  "topic_ids": [
+    "typescript-cookbook-1-1",
+    "typescript-cookbook-1-2",
+    "typescript-cookbook-1-3",
+    "typescript-cookbook-1-4",
+    "typescript-cookbook-1-5",
+    "typescript-cookbook-1-6",
+    "typescript-cookbook-1-7",
+    "typescript-cookbook-1-8",
+    "typescript-cookbook-1-9",
+    "typescript-cookbook-1-10",
+    "typescript-cookbook-1-11"
+  ]
+}

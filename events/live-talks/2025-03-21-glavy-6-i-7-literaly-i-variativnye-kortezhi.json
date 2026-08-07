@@ -1,0 +1,49 @@
+{
+  "id": "live-2025-03-21-glavy-6-i-7-literaly-i-variativnye-kortezhi",
+  "type": "live-talk",
+  "title": "Главы 6 и 7. Финал шаблонных литералов и вариативные кортежи",
+  "date": "2025-03-21",
+  "time": "18:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/BOjAp0A4Shg",
+    "vk": "https://vkvideo.ru/video-226486590_456239128"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "typescript-cookbook",
+      "chapter": "06-tipy-literalov-shablonov-strok",
+      "topic_ids": ["typescript-cookbook-6-6"]
+    },
+    {
+      "book_id": "typescript-cookbook",
+      "chapter": "07-variativnye-tipy-kortezhey",
+      "topic_ids": [
+        "typescript-cookbook-7-1",
+        "typescript-cookbook-7-2",
+        "typescript-cookbook-7-3"
+      ]
+    }
+  ],
+  "recordings": {
+    "typescript-cookbook-6-6": {
+      "youtube": "https://youtu.be/Bce7sm2I0fQ?t=0",
+      "vk": "https://vkvideo.ru/video-226486590_456239129?t=0m0s"
+    },
+    "typescript-cookbook-7-1": {
+      "youtube": "https://youtu.be/EQFJWhg53Ds?t=0",
+      "vk": "https://vkvideo.ru/video-226486590_456239130?t=0m0s"
+    },
+    "typescript-cookbook-7-2": {
+      "youtube": "https://youtu.be/EQFJWhg53Ds?t=582",
+      "vk": "https://vkvideo.ru/video-226486590_456239130?t=9m42s"
+    },
+    "typescript-cookbook-7-3": {
+      "youtube": "https://youtu.be/EQFJWhg53Ds?t=1099",
+      "vk": "https://vkvideo.ru/video-226486590_456239130?t=18m19s"
+    }
+  },
+  "stream": 65,
+  "finished": true
+}
