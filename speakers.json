@@ -48,8 +48,8 @@
     },
     {
       "id": "chepash",
-      "name": "Chepash",
-      "aliases": ["Chepash", "chepash"],
+      "name": "Паша",
+      "aliases": ["Паша", "Chepash", "chepash"],
       "avatar": "/media/speakers/chepash.webp",
       "socials": {
         "telegram": "https://t.me/chepash"
