@@ -283,6 +283,30 @@
       "category": "javascript",
       "chapters": [
         {
+          "slug": "01-chto-takoe-javascript",
+          "order": 1,
+          "title": "Что такое JavaScript?",
+          "topics": 8
+        },
+        {
+          "slug": "02-obzor-js",
+          "order": 2,
+          "title": "Обзор JS",
+          "topics": 7
+        },
+        {
+          "slug": "03-pogruzhaemsya-v-korni-js",
+          "order": 3,
+          "title": "Погружаемся в корни JS",
+          "topics": 5
+        },
+        {
+          "slug": "04-bolee-shirokaya-kartina",
+          "order": 4,
+          "title": "Более широкая картина",
+          "topics": 5
+        },
+        {
           "slug": "05-prilozhenie-a-dalneyshee-izuchenie",
           "order": 5,
           "title": "Приложение А. Дальнейшее изучение",
@@ -297,6 +321,54 @@
       "status": "finished",
       "category": "javascript",
       "chapters": [
+        {
+          "slug": "01-chto-takoe-oblast-vidimosti",
+          "order": 1,
+          "title": "Что такое область видимости?",
+          "topics": 6
+        },
+        {
+          "slug": "02-illyustraciya-leksicheskoy-oblasti-vidimosti",
+          "order": 2,
+          "title": "Иллюстрация лексической области видимости",
+          "topics": 4
+        },
+        {
+          "slug": "03-cepochka-oblastey-vidimosti",
+          "order": 3,
+          "title": "Цепочка областей видимости",
+          "topics": 5
+        },
+        {
+          "slug": "04-vokrug-globalnoy-oblasti-vidimosti",
+          "order": 4,
+          "title": "Вокруг глобальной области видимости",
+          "topics": 4
+        },
+        {
+          "slug": "05-ne-takoy-uzh-taynyy-zhiznennyy-cikl-peremennyh",
+          "order": 5,
+          "title": "(Не такой уж) тайный жизненный цикл переменных",
+          "topics": 5
+        },
+        {
+          "slug": "06-ogranichenie-raskrytiya-oblasti-vidimosti",
+          "order": 6,
+          "title": "Ограничение раскрытия области видимости",
+          "topics": 5
+        },
+        {
+          "slug": "07-ispolzovanie-zamykaniy",
+          "order": 7,
+          "title": "Использование замыканий",
+          "topics": 5
+        },
+        {
+          "slug": "08-pattern-modul",
+          "order": 8,
+          "title": "Паттерн «Модуль»",
+          "topics": 5
+        },
         {
           "slug": "09-prilozhenie-a-dalneyshee-izuchenie",
           "order": 9,
