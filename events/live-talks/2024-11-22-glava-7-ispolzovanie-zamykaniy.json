@@ -1,0 +1,41 @@
+{
+  "id": "live-2024-11-22-glava-7-ispolzovanie-zamykaniy",
+  "type": "live-talk",
+  "title": "Глава 7. Использование замыканий",
+  "date": "2024-11-22",
+  "time": "18:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/24LIoSLz61s",
+    "vk": "https://vkvideo.ru/video-226486590_456239097"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "you-don-t-know-js-yet-scope-and-closures",
+      "chapter": "07-ispolzovanie-zamykaniy",
+      "topic_ids": [
+        "you-don-t-know-js-yet-scope-and-closures-7-1",
+        "you-don-t-know-js-yet-scope-and-closures-7-2"
+      ]
+    }
+  ],
+  "recordings": {
+    "you-don-t-know-js-yet-scope-and-closures-7-1": {
+      "youtube": "https://youtu.be/sFk50xH6j8c?t=0",
+      "vk": "https://vkvideo.ru/video-226486590_456239098?t=0m0s"
+    },
+    "you-don-t-know-js-yet-scope-and-closures-7-2": {
+      "youtube": "https://youtu.be/sFk50xH6j8c?t=2159",
+      "vk": "https://vkvideo.ru/video-226486590_456239098?t=35m59s"
+    }
+  },
+  "stream": 51,
+  "finished": true,
+  "book_id": "you-don-t-know-js-yet-scope-and-closures",
+  "chapter": "07-ispolzovanie-zamykaniy",
+  "topic_ids": [
+    "you-don-t-know-js-yet-scope-and-closures-7-1",
+    "you-don-t-know-js-yet-scope-and-closures-7-2"
+  ]
+}

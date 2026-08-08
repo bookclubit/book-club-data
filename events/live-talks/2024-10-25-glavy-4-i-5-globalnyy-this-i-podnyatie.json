@@ -1,0 +1,37 @@
+{
+  "id": "live-2024-10-25-glavy-4-i-5-globalnyy-this-i-podnyatie",
+  "type": "live-talk",
+  "title": "Главы 4 и 5. Глобальный this и поднятие",
+  "date": "2024-10-25",
+  "time": "18:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/Yg3LKvPJnJ4",
+    "vk": "https://vkvideo.ru/video-226486590_456239087"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "you-don-t-know-js-yet-scope-and-closures",
+      "chapter": "04-vokrug-globalnoy-oblasti-vidimosti",
+      "topic_ids": ["you-don-t-know-js-yet-scope-and-closures-4-3"]
+    },
+    {
+      "book_id": "you-don-t-know-js-yet-scope-and-closures",
+      "chapter": "05-ne-takoy-uzh-taynyy-zhiznennyy-cikl-peremennyh",
+      "topic_ids": ["you-don-t-know-js-yet-scope-and-closures-5-2"]
+    }
+  ],
+  "recordings": {
+    "you-don-t-know-js-yet-scope-and-closures-4-3": {
+      "youtube": "https://youtu.be/PzybR3T3-wE?t=238",
+      "vk": "https://vkvideo.ru/video-226486590_456239088?t=3m58s"
+    },
+    "you-don-t-know-js-yet-scope-and-closures-5-2": {
+      "youtube": "https://youtu.be/PzybR3T3-wE?t=764",
+      "vk": "https://vkvideo.ru/video-226486590_456239088?t=12m44s"
+    }
+  },
+  "stream": 47,
+  "finished": true
+}

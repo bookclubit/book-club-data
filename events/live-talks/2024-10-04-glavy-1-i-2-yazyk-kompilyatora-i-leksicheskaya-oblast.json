@@ -1,0 +1,44 @@
+{
+  "id": "live-2024-10-04-glavy-1-i-2-yazyk-kompilyatora-i-leksicheskaya-oblast",
+  "type": "live-talk",
+  "title": "Главы 1 и 2. Язык компилятора и лексическая область видимости",
+  "date": "2024-10-04",
+  "time": "18:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/aqdwC8Yk6fY",
+    "vk": "https://vkvideo.ru/video-226486590_456239081"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "you-don-t-know-js-yet-scope-and-closures",
+      "chapter": "01-chto-takoe-oblast-vidimosti",
+      "topic_ids": ["you-don-t-know-js-yet-scope-and-closures-1-4"]
+    },
+    {
+      "book_id": "you-don-t-know-js-yet-scope-and-closures",
+      "chapter": "02-illyustraciya-leksicheskoy-oblasti-vidimosti",
+      "topic_ids": [
+        "you-don-t-know-js-yet-scope-and-closures-2-1",
+        "you-don-t-know-js-yet-scope-and-closures-2-2"
+      ]
+    }
+  ],
+  "recordings": {
+    "you-don-t-know-js-yet-scope-and-closures-1-4": {
+      "youtube": "https://youtu.be/Sm2LsuFf38c?t=0",
+      "vk": "https://vkvideo.ru/video-226486590_456239082?t=0m0s"
+    },
+    "you-don-t-know-js-yet-scope-and-closures-2-1": {
+      "youtube": "https://youtu.be/Sm2LsuFf38c?t=448",
+      "vk": "https://vkvideo.ru/video-226486590_456239082?t=7m28s"
+    },
+    "you-don-t-know-js-yet-scope-and-closures-2-2": {
+      "youtube": "https://youtu.be/Sm2LsuFf38c?t=1033",
+      "vk": "https://vkvideo.ru/video-226486590_456239082?t=17m13s"
+    }
+  },
+  "stream": 44,
+  "finished": true
+}

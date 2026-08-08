@@ -1,0 +1,51 @@
+{
+  "id": "live-2024-08-30-glavy-1-i-2-strogiy-rezhim-i-obzor-js",
+  "type": "live-talk",
+  "title": "Главы 1 и 2. Строгий режим и обзор JS",
+  "date": "2024-08-30",
+  "time": "18:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/3vOsOtRLBr4",
+    "vk": "https://vkvideo.ru/video-226486590_456239071"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "you-don-t-know-js-up-and-going",
+      "chapter": "01-chto-takoe-javascript",
+      "topic_ids": [
+        "you-don-t-know-js-up-and-going-1-4",
+        "you-don-t-know-js-up-and-going-1-7"
+      ]
+    },
+    {
+      "book_id": "you-don-t-know-js-up-and-going",
+      "chapter": "02-obzor-js",
+      "topic_ids": [
+        "you-don-t-know-js-up-and-going-2-1",
+        "you-don-t-know-js-up-and-going-2-2"
+      ]
+    }
+  ],
+  "recordings": {
+    "you-don-t-know-js-up-and-going-1-4": {
+      "youtube": "https://youtu.be/i96Ld9XbP7U?t=0",
+      "vk": "https://vkvideo.ru/video-226486590_456239072?t=0m0s"
+    },
+    "you-don-t-know-js-up-and-going-1-7": {
+      "youtube": "https://youtu.be/i96Ld9XbP7U?t=1042",
+      "vk": "https://vkvideo.ru/video-226486590_456239072?t=17m22s"
+    },
+    "you-don-t-know-js-up-and-going-2-1": {
+      "youtube": "https://youtu.be/i96Ld9XbP7U?t=1910",
+      "vk": "https://vkvideo.ru/video-226486590_456239072?t=31m50s"
+    },
+    "you-don-t-know-js-up-and-going-2-2": {
+      "youtube": "https://youtu.be/i96Ld9XbP7U?t=2445",
+      "vk": "https://vkvideo.ru/video-226486590_456239072?t=40m45s"
+    }
+  },
+  "stream": 39,
+  "finished": true
+}

@@ -1,0 +1,56 @@
+{
+  "id": "live-2024-12-06-glava-8-i-prilozhenie-a-final-knigi",
+  "type": "live-talk",
+  "title": "Глава 8 и приложение А. Финал книги",
+  "date": "2024-12-06",
+  "time": "18:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/VleCOOW9ZdM",
+    "vk": "https://vkvideo.ru/video-226486590_456239102"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "you-don-t-know-js-yet-scope-and-closures",
+      "chapter": "08-pattern-modul",
+      "topic_ids": [
+        "you-don-t-know-js-yet-scope-and-closures-8-1",
+        "you-don-t-know-js-yet-scope-and-closures-8-2",
+        "you-don-t-know-js-yet-scope-and-closures-8-4"
+      ]
+    },
+    {
+      "book_id": "you-don-t-know-js-yet-scope-and-closures",
+      "chapter": "09-prilozhenie-a-dalneyshee-izuchenie",
+      "topic_ids": [
+        "you-don-t-know-js-yet-scope-and-closures-9-6",
+        "you-don-t-know-js-yet-scope-and-closures-9-9"
+      ]
+    }
+  ],
+  "recordings": {
+    "you-don-t-know-js-yet-scope-and-closures-8-1": {
+      "youtube": "https://youtu.be/7PQQ_lupqAY?t=0",
+      "vk": "https://vkvideo.ru/video-226486590_456239103?t=0m0s"
+    },
+    "you-don-t-know-js-yet-scope-and-closures-8-2": {
+      "youtube": "https://youtu.be/7PQQ_lupqAY?t=246",
+      "vk": "https://vkvideo.ru/video-226486590_456239103?t=4m6s"
+    },
+    "you-don-t-know-js-yet-scope-and-closures-8-4": {
+      "youtube": "https://youtu.be/7PQQ_lupqAY?t=864",
+      "vk": "https://vkvideo.ru/video-226486590_456239103?t=14m24s"
+    },
+    "you-don-t-know-js-yet-scope-and-closures-9-6": {
+      "youtube": "https://youtu.be/7PQQ_lupqAY?t=1035",
+      "vk": "https://vkvideo.ru/video-226486590_456239103?t=17m15s"
+    },
+    "you-don-t-know-js-yet-scope-and-closures-9-9": {
+      "youtube": "https://youtu.be/7PQQ_lupqAY?t=1378",
+      "vk": "https://vkvideo.ru/video-226486590_456239103?t=22m58s"
+    }
+  },
+  "stream": 53,
+  "finished": true
+}

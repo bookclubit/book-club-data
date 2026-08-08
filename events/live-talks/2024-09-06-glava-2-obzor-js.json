@@ -1,0 +1,52 @@
+{
+  "id": "live-2024-09-06-glava-2-obzor-js",
+  "type": "live-talk",
+  "title": "Глава 2. Обзор JS",
+  "date": "2024-09-06",
+  "time": "18:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/eOofY8aKDVU"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "you-don-t-know-js-up-and-going",
+      "chapter": "02-obzor-js",
+      "topic_ids": [
+        "you-don-t-know-js-up-and-going-2-3",
+        "you-don-t-know-js-up-and-going-2-4",
+        "you-don-t-know-js-up-and-going-2-5",
+        "you-don-t-know-js-up-and-going-2-6"
+      ]
+    }
+  ],
+  "recordings": {
+    "you-don-t-know-js-up-and-going-2-3": {
+      "youtube": "https://youtu.be/oMlMC96VZpw?t=0",
+      "vk": "https://vkvideo.ru/video-226486590_456239074?t=0m0s"
+    },
+    "you-don-t-know-js-up-and-going-2-4": {
+      "youtube": "https://youtu.be/oMlMC96VZpw?t=1510",
+      "vk": "https://vkvideo.ru/video-226486590_456239074?t=25m10s"
+    },
+    "you-don-t-know-js-up-and-going-2-5": {
+      "youtube": "https://youtu.be/oMlMC96VZpw?t=3259",
+      "vk": "https://vkvideo.ru/video-226486590_456239074?t=54m19s"
+    },
+    "you-don-t-know-js-up-and-going-2-6": {
+      "youtube": "https://youtu.be/oMlMC96VZpw?t=4268",
+      "vk": "https://vkvideo.ru/video-226486590_456239074?t=1h11m8s"
+    }
+  },
+  "stream": 40,
+  "finished": true,
+  "book_id": "you-don-t-know-js-up-and-going",
+  "chapter": "02-obzor-js",
+  "topic_ids": [
+    "you-don-t-know-js-up-and-going-2-3",
+    "you-don-t-know-js-up-and-going-2-4",
+    "you-don-t-know-js-up-and-going-2-5",
+    "you-don-t-know-js-up-and-going-2-6"
+  ]
+}

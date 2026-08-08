@@ -1,0 +1,37 @@
+{
+  "id": "live-2024-11-29-glavy-7-i-8-zachem-zamykaniya-i-moduli-commonjs",
+  "type": "live-talk",
+  "title": "Главы 7 и 8. Зачем нужны замыкания и модули CommonJS",
+  "date": "2024-11-29",
+  "time": "18:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/KzRjK7TYYkE",
+    "vk": "https://vkvideo.ru/video-226486590_456239099"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "you-don-t-know-js-yet-scope-and-closures",
+      "chapter": "07-ispolzovanie-zamykaniy",
+      "topic_ids": ["you-don-t-know-js-yet-scope-and-closures-7-4"]
+    },
+    {
+      "book_id": "you-don-t-know-js-yet-scope-and-closures",
+      "chapter": "08-pattern-modul",
+      "topic_ids": ["you-don-t-know-js-yet-scope-and-closures-8-3"]
+    }
+  ],
+  "recordings": {
+    "you-don-t-know-js-yet-scope-and-closures-7-4": {
+      "youtube": "https://youtu.be/IIAARLl-aXQ?t=0",
+      "vk": "https://vkvideo.ru/video-226486590_456239100?t=0m0s"
+    },
+    "you-don-t-know-js-yet-scope-and-closures-8-3": {
+      "youtube": "https://youtu.be/IIAARLl-aXQ?t=309",
+      "vk": "https://vkvideo.ru/video-226486590_456239100?t=5m9s"
+    }
+  },
+  "stream": 52,
+  "finished": true
+}
