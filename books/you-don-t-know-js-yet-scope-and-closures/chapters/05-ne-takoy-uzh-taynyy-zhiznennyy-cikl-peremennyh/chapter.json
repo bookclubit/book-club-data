@@ -1,0 +1,51 @@
+{
+  "order": 5,
+  "title": "(Не такой уж) тайный жизненный цикл переменных",
+  "topics": [
+    {
+      "id": "you-don-t-know-js-yet-scope-and-closures-5-1",
+      "title": "Когда можно использовать переменную?",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-yet-scope-and-closures-5-2",
+      "title": "Поднятие: еще одна метафора",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-yet-scope-and-closures-5-3",
+      "title": "Повторное объявление",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-yet-scope-and-closures-5-4",
+      "title": "Неинициализированные переменные (TDZ)",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-yet-scope-and-closures-5-5",
+      "title": "Наконец-то инициализация",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    }
+  ]
+}

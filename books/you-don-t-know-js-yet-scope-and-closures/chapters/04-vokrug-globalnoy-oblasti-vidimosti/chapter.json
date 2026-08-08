@@ -1,0 +1,42 @@
+{
+  "order": 4,
+  "title": "Вокруг глобальной области видимости",
+  "topics": [
+    {
+      "id": "you-don-t-know-js-yet-scope-and-closures-4-1",
+      "title": "Зачем нужна глобальная область видимости?",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-yet-scope-and-closures-4-2",
+      "title": "Где именно находится глобальная область видимости?",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-yet-scope-and-closures-4-3",
+      "title": "Глобальный this",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-yet-scope-and-closures-4-4",
+      "title": "Осведомленность о глобальной области видимости",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    }
+  ]
+}

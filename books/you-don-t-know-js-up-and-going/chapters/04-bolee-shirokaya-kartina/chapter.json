@@ -1,0 +1,51 @@
+{
+  "order": 4,
+  "title": "Более широкая картина",
+  "topics": [
+    {
+      "id": "you-don-t-know-js-up-and-going-4-1",
+      "title": "Столп 1: область видимости и замыкания",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-up-and-going-4-2",
+      "title": "Столп 2: прототипы",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-up-and-going-4-3",
+      "title": "Столп 3: типы и преобразование типов",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-up-and-going-4-4",
+      "title": "По направлению волокон",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-up-and-going-4-5",
+      "title": "По порядку",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    }
+  ]
+}

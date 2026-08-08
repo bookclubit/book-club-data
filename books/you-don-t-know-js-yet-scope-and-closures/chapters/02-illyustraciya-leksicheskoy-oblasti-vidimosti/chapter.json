@@ -1,0 +1,42 @@
+{
+  "order": 2,
+  "title": "Иллюстрация лексической области видимости",
+  "topics": [
+    {
+      "id": "you-don-t-know-js-yet-scope-and-closures-2-1",
+      "title": "Шарики, ведра и пузыри",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-yet-scope-and-closures-2-2",
+      "title": "Разговор друзей",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-yet-scope-and-closures-2-3",
+      "title": "Вложенная область видимости",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-yet-scope-and-closures-2-4",
+      "title": "Продолжение разговора",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    }
+  ]
+}

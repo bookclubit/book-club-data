@@ -1,0 +1,51 @@
+{
+  "order": 6,
+  "title": "Ограничение раскрытия области видимости",
+  "topics": [
+    {
+      "id": "you-don-t-know-js-yet-scope-and-closures-6-1",
+      "title": "Принцип наименьшего раскрытия",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-yet-scope-and-closures-6-2",
+      "title": "Сокрытие в области видимости функции",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-yet-scope-and-closures-6-3",
+      "title": "Определение области видимости с помощью блоков",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-yet-scope-and-closures-6-4",
+      "title": "Объявления функций в блоках",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-yet-scope-and-closures-6-5",
+      "title": "Подведение итогов",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    }
+  ]
+}

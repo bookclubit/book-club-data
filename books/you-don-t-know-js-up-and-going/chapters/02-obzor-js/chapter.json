@@ -1,0 +1,69 @@
+{
+  "order": 2,
+  "title": "Обзор JS",
+  "topics": [
+    {
+      "id": "you-don-t-know-js-up-and-going-2-1",
+      "title": "Каждый файл — программа",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-up-and-going-2-2",
+      "title": "Значения",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-up-and-going-2-3",
+      "title": "Объявление и использование переменных",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-up-and-going-2-4",
+      "title": "Функции",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-up-and-going-2-5",
+      "title": "Сравнения",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-up-and-going-2-6",
+      "title": "Как организуется код в JS",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-up-and-going-2-7",
+      "title": "Кроличья нора становится глубже",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    }
+  ]
+}
