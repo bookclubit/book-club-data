@@ -10,6 +10,18 @@
     "vk": "https://vkvideo.ru/video-226486590_456239246"
   },
   "talks": [],
+  "program": [
+    {
+      "book_id": "ai-engineering",
+      "chapter": "01-osnovy-sozdaniya-ai-prilozheniy-s-ispolzovaniem-bazovyh-modeley",
+      "topic_ids": [
+        "ai-engineering-1-1",
+        "ai-engineering-1-2",
+        "ai-engineering-1-3",
+        "ai-engineering-1-4"
+      ]
+    }
+  ],
   "book_id": "ai-engineering",
   "chapter": "01-osnovy-sozdaniya-ai-prilozheniy-s-ispolzovaniem-bazovyh-modeley",
   "topic_ids": [
@@ -18,6 +30,24 @@
     "ai-engineering-1-3",
     "ai-engineering-1-4"
   ],
+  "recordings": {
+    "ai-engineering-1-1": {
+      "youtube": "https://youtu.be/YcvfKoZxR7A?si=lZ-pNvitXqjqRGTp",
+      "vk": "https://vkvideo.ru/video-226486590_456239250"
+    },
+    "ai-engineering-1-2": {
+      "youtube": "https://youtu.be/YcvfKoZxR7A?si=2R-W-KClENOlfG3H&t=1372",
+      "vk": "https://vkvideo.ru/video-226486590_456239250?t=22m52s"
+    },
+    "ai-engineering-1-3": {
+      "youtube": "https://youtu.be/YcvfKoZxR7A?si=DtRe4x23QPa3GHBX&t=2126",
+      "vk": "https://vkvideo.ru/video-226486590_456239250?t=35m26s"
+    },
+    "ai-engineering-1-4": {
+      "youtube": "https://youtu.be/YcvfKoZxR7A?si=l8CrieXOtERBpa3-&t=3084",
+      "vk": "https://vkvideo.ru/video-226486590_456239250?t=51m24s"
+    }
+  },
   "stream": 114,
   "materials": [
     {
