@@ -1,0 +1,27 @@
+{
+  "id": "closed-2026-08-14-glava-10-alternativy-react",
+  "type": "closed-chapter",
+  "title": "Глава 10. Альтернативы React",
+  "date": "2026-08-14",
+  "time": "18:00",
+  "timezone": "Europe/Moscow",
+  "book_id": "fluent-react",
+  "chapter": "10-alternativy-react",
+  "pages": {
+    "from": 327,
+    "to": 353
+  },
+  "stream": 116,
+  "moderators": [
+    {
+      "speaker_id": "pomazkov-anton",
+      "name": "Антон Помазков",
+      "avatar": "/media/speakers/pomazkov-anton.webp"
+    },
+    {
+      "speaker_id": "nikiforov-artem",
+      "name": "Артём Никифоров",
+      "avatar": "/media/speakers/nikiforov-artem.webp"
+    }
+  ]
+}
