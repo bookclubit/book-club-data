@@ -13,7 +13,7 @@
     },
     {
       "id": "you-don-t-know-js-up-and-going-1-2",
-      "title": "Что за название?",
+      "title": "Откуда взялось название?",
       "speakers": [],
       "video_youtube": "",
       "video_vk": "",
@@ -31,7 +31,7 @@
     },
     {
       "id": "you-don-t-know-js-up-and-going-1-4",
-      "title": "Множество лиц",
+      "title": "Веб (JS)",
       "speakers": [],
       "video_youtube": "",
       "video_vk": "",
@@ -40,7 +40,7 @@
     },
     {
       "id": "you-don-t-know-js-up-and-going-1-5",
-      "title": "Назад и вперед",
+      "title": "Не только (веб) JS…",
       "speakers": [],
       "video_youtube": "",
       "video_vk": "",
@@ -49,7 +49,7 @@
     },
     {
       "id": "you-don-t-know-js-up-and-going-1-6",
-      "title": "Что означает интерпретация?",
+      "title": "Не всегда JS",
       "speakers": [],
       "video_youtube": "",
       "video_vk": "",
@@ -58,7 +58,7 @@
     },
     {
       "id": "you-don-t-know-js-up-and-going-1-7",
-      "title": "Строго говоря",
+      "title": "Многоликий язык",
       "speakers": [],
       "video_youtube": "",
       "video_vk": "",
@@ -67,7 +67,61 @@
     },
     {
       "id": "you-don-t-know-js-up-and-going-1-8",
-      "title": "Итоги",
+      "title": "Прямая и обратная совместимость",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-up-and-going-1-9",
+      "title": "Транспиляция",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-up-and-going-1-10",
+      "title": "Полифилы",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-up-and-going-1-11",
+      "title": "Что такое интерпретация?",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-up-and-going-1-12",
+      "title": "WASM (Web Assembly)",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-up-and-going-1-13",
+      "title": "Строго говоря",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-up-and-going-1-14",
+      "title": "После определения",
       "speakers": [],
       "video_youtube": "",
       "video_vk": "",
