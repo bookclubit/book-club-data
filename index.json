@@ -609,6 +609,18 @@
       "socials": {
         "telegram": "@muhin_control"
       }
+    },
+    {
+      "id": "osipov-denis",
+      "name": "Денис Осипов",
+      "aliases": [
+        "Денис",
+        "Денис Осипов"
+      ],
+      "avatar": "/media/speakers/osipov-denis.webp",
+      "socials": {
+        "telegram": "@ddennios"
+      }
     }
   ]
 }
