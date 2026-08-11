@@ -291,8 +291,8 @@
         {
           "slug": "02-obzor-js",
           "order": 2,
-          "title": "Обзор JS",
-          "topics": 7
+          "title": "Обзор возможностей JS",
+          "topics": 10
         },
         {
           "slug": "03-pogruzhaemsya-v-korni-js",
