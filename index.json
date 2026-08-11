@@ -621,6 +621,18 @@
       "socials": {
         "telegram": "@ddennios"
       }
+    },
+    {
+      "id": "renard-avrora",
+      "name": "Аврора Ренард",
+      "aliases": [
+        "Аврора",
+        "Аврора Ренард"
+      ],
+      "avatar": "/media/speakers/renard-avrora.webp",
+      "socials": {
+        "telegram": "@auroraptor"
+      }
     }
   ]
 }
