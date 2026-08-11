@@ -1,6 +1,6 @@
 {
   "order": 3,
-  "title": "Погружаемся в корни JS",
+  "title": "JS: копаем вглубь",
   "topics": [
     {
       "id": "you-don-t-know-js-up-and-going-3-1",
@@ -40,7 +40,7 @@
     },
     {
       "id": "you-don-t-know-js-up-and-going-3-5",
-      "title": "Вопрос «почему?»",
+      "title": "А теперь — «почему?»",
       "speakers": [],
       "video_youtube": "",
       "video_vk": "",
