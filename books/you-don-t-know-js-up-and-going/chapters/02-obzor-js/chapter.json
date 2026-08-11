@@ -1,10 +1,10 @@
 {
   "order": 2,
-  "title": "Обзор JS",
+  "title": "Обзор возможностей JS",
   "topics": [
     {
       "id": "you-don-t-know-js-up-and-going-2-1",
-      "title": "Каждый файл — программа",
+      "title": "Каждый файл является программой",
       "speakers": [],
       "video_youtube": "",
       "video_vk": "",
@@ -22,7 +22,7 @@
     },
     {
       "id": "you-don-t-know-js-up-and-going-2-3",
-      "title": "Объявление и использование переменных",
+      "title": "Массивы и объекты",
       "speakers": [],
       "video_youtube": "",
       "video_vk": "",
@@ -31,7 +31,7 @@
     },
     {
       "id": "you-don-t-know-js-up-and-going-2-4",
-      "title": "Функции",
+      "title": "Определение типа значения",
       "speakers": [],
       "video_youtube": "",
       "video_vk": "",
@@ -40,7 +40,7 @@
     },
     {
       "id": "you-don-t-know-js-up-and-going-2-5",
-      "title": "Сравнения",
+      "title": "Объявление и использование переменных",
       "speakers": [],
       "video_youtube": "",
       "video_vk": "",
@@ -49,7 +49,7 @@
     },
     {
       "id": "you-don-t-know-js-up-and-going-2-6",
-      "title": "Как организуется код в JS",
+      "title": "Функции",
       "speakers": [],
       "video_youtube": "",
       "video_vk": "",
@@ -58,6 +58,33 @@
     },
     {
       "id": "you-don-t-know-js-up-and-going-2-7",
+      "title": "Сравнения",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-up-and-going-2-8",
+      "title": "Организация кода JS",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-up-and-going-2-9",
+      "title": "Модули",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-up-and-going-2-10",
       "title": "Кроличья нора становится глубже",
       "speakers": [],
       "video_youtube": "",
