@@ -15,8 +15,8 @@
       "book_id": "you-don-t-know-js-up-and-going",
       "chapter": "01-chto-takoe-javascript",
       "topic_ids": [
-        "you-don-t-know-js-up-and-going-1-4",
-        "you-don-t-know-js-up-and-going-1-7"
+        "you-don-t-know-js-up-and-going-1-12",
+        "you-don-t-know-js-up-and-going-1-13"
       ]
     },
     {
@@ -24,25 +24,41 @@
       "chapter": "02-obzor-js",
       "topic_ids": [
         "you-don-t-know-js-up-and-going-2-1",
-        "you-don-t-know-js-up-and-going-2-2"
+        "you-don-t-know-js-up-and-going-2-2",
+        "you-don-t-know-js-up-and-going-2-3",
+        "you-don-t-know-js-up-and-going-2-4"
       ]
     }
   ],
+  "book_id": "you-don-t-know-js-up-and-going",
+  "chapter": "01-chto-takoe-javascript",
+  "topic_ids": [
+    "you-don-t-know-js-up-and-going-1-12",
+    "you-don-t-know-js-up-and-going-1-13"
+  ],
   "recordings": {
-    "you-don-t-know-js-up-and-going-1-4": {
-      "youtube": "https://youtu.be/i96Ld9XbP7U?t=0",
-      "vk": "https://vkvideo.ru/video-226486590_456239072?t=0m0s"
-    },
-    "you-don-t-know-js-up-and-going-1-7": {
-      "youtube": "https://youtu.be/i96Ld9XbP7U?t=1042",
-      "vk": "https://vkvideo.ru/video-226486590_456239072?t=17m22s"
-    },
     "you-don-t-know-js-up-and-going-2-1": {
-      "youtube": "https://youtu.be/i96Ld9XbP7U?t=1910",
+      "youtube": "https://youtu.be/i96Ld9XbP7U?si=3u0QfTeWla7WVVBi&t=1911",
       "vk": "https://vkvideo.ru/video-226486590_456239072?t=31m50s"
     },
     "you-don-t-know-js-up-and-going-2-2": {
-      "youtube": "https://youtu.be/i96Ld9XbP7U?t=2445",
+      "youtube": "https://youtu.be/i96Ld9XbP7U?si=9Uv9U-sBulXdEJ1Q&t=2446",
+      "vk": "https://vkvideo.ru/video-226486590_456239072?t=40m45s"
+    },
+    "you-don-t-know-js-up-and-going-1-12": {
+      "youtube": "https://youtu.be/i96Ld9XbP7U?si=kkMussT62ATQv8TC",
+      "vk": "https://vkvideo.ru/video-226486590_456239072"
+    },
+    "you-don-t-know-js-up-and-going-1-13": {
+      "youtube": "https://youtu.be/i96Ld9XbP7U?si=E04LMmYT62HgmjRB&t=1043",
+      "vk": "https://vkvideo.ru/video-226486590_456239072?t=17m22s"
+    },
+    "you-don-t-know-js-up-and-going-2-3": {
+      "youtube": "https://youtu.be/i96Ld9XbP7U?si=9Uv9U-sBulXdEJ1Q&t=2446",
+      "vk": "https://vkvideo.ru/video-226486590_456239072?t=40m45s"
+    },
+    "you-don-t-know-js-up-and-going-2-4": {
+      "youtube": "https://youtu.be/i96Ld9XbP7U?si=9Uv9U-sBulXdEJ1Q&t=2446",
       "vk": "https://vkvideo.ru/video-226486590_456239072?t=40m45s"
     }
   },
