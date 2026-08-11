@@ -5,7 +5,10 @@
   "date": "2026-08-21",
   "time": "18:00",
   "timezone": "Europe/Moscow",
-  "streams": {},
+  "streams": {
+    "youtube": "https://www.youtube.com/live/Vgyuig6rcIU?si=OnQCn4HxzU1j9aQ4",
+    "vk": "https://vkvideo.ru/live-226486590_456239252"
+  },
   "talks": [],
   "program": [
     {
@@ -35,5 +38,6 @@
     "fluent-react-10-7",
     "fluent-react-10-8"
   ],
-  "stream": 116
+  "stream": 116,
+  "call_url": "https://meet.google.com/tpe-fihz-hua"
 }
