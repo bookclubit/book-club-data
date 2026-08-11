@@ -11,6 +11,10 @@
     "from": 327,
     "to": 353
   },
+  "streams": {
+    "youtube": "https://www.youtube.com/live/zHnN0ZCxI3A?si=_V8s0WecEp1-wJze",
+    "vk": "https://vkvideo.ru/live-226486590_456239251"
+  },
   "stream": 116,
   "moderators": [
     {
@@ -23,5 +27,6 @@
       "name": "Артём Никифоров",
       "avatar": "/media/speakers/nikiforov-artem.webp"
     }
-  ]
+  ],
+  "call_url": "https://meet.google.com/rws-uvck-ckb"
 }
