@@ -1,0 +1,58 @@
+{
+  "id": "live-2024-09-06-glava-2-obzor-vozmozhnostey-js-chast-2",
+  "type": "live-talk",
+  "title": "Глава 2. Обзор возможностей JS  - часть 2",
+  "date": "2024-09-06",
+  "time": "18:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/eOofY8aKDVU"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "you-don-t-know-js-up-and-going",
+      "chapter": "02-obzor-js",
+      "topic_ids": [
+        "you-don-t-know-js-up-and-going-2-5",
+        "you-don-t-know-js-up-and-going-2-6",
+        "you-don-t-know-js-up-and-going-2-7",
+        "you-don-t-know-js-up-and-going-2-8",
+        "you-don-t-know-js-up-and-going-2-9"
+      ]
+    }
+  ],
+  "book_id": "you-don-t-know-js-up-and-going",
+  "chapter": "02-obzor-js",
+  "topic_ids": [
+    "you-don-t-know-js-up-and-going-2-5",
+    "you-don-t-know-js-up-and-going-2-6",
+    "you-don-t-know-js-up-and-going-2-7",
+    "you-don-t-know-js-up-and-going-2-8",
+    "you-don-t-know-js-up-and-going-2-9"
+  ],
+  "recordings": {
+    "you-don-t-know-js-up-and-going-2-5": {
+      "youtube": "https://youtu.be/oMlMC96VZpw?si=UxG7VsRycywvRTQr",
+      "vk": "https://vkvideo.ru/video-226486590_456239074"
+    },
+    "you-don-t-know-js-up-and-going-2-6": {
+      "youtube": "https://youtu.be/oMlMC96VZpw?si=5hwVMez2VqKB241l&t=1511",
+      "vk": "https://vkvideo.ru/video-226486590_456239074?t=25m10s"
+    },
+    "you-don-t-know-js-up-and-going-2-7": {
+      "youtube": "https://youtu.be/oMlMC96VZpw?si=7IAXwQYu2jaEsdZ7&t=3260",
+      "vk": "https://vkvideo.ru/video-226486590_456239074?t=54m19s"
+    },
+    "you-don-t-know-js-up-and-going-2-8": {
+      "youtube": "https://youtu.be/oMlMC96VZpw?si=gFH6K7j6EaP6_wCj&t=4268",
+      "vk": "https://vkvideo.ru/video-226486590_456239074?t=1h11m8s"
+    },
+    "you-don-t-know-js-up-and-going-2-9": {
+      "youtube": "https://youtu.be/oMlMC96VZpw?si=-_LIeYbnCjx6gxGa&t=5167",
+      "vk": "https://vkvideo.ru/video-226486590_456239074?t=1h26m6s"
+    }
+  },
+  "stream": 40,
+  "finished": true
+}
