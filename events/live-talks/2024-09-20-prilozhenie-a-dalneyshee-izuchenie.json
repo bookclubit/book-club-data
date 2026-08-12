@@ -15,26 +15,32 @@
       "chapter": "05-prilozhenie-a-dalneyshee-izuchenie",
       "topic_ids": [
         "you-don-t-know-js-up-and-going-5-2",
-        "you-don-t-know-js-up-and-going-5-4"
+        "you-don-t-know-js-up-and-going-5-4",
+        "you-don-t-know-js-up-and-going-5-1"
       ]
     }
   ],
-  "recordings": {
-    "you-don-t-know-js-up-and-going-5-2": {
-      "youtube": "https://youtu.be/QYQAUKwBtsU?t=454",
-      "vk": "https://vkvideo.ru/video-226486590_456239078?t=7m34s"
-    },
-    "you-don-t-know-js-up-and-going-5-4": {
-      "youtube": "https://youtu.be/QYQAUKwBtsU?t=2039",
-      "vk": "https://vkvideo.ru/video-226486590_456239078?t=33m59s"
-    }
-  },
-  "stream": 42,
-  "finished": true,
   "book_id": "you-don-t-know-js-up-and-going",
   "chapter": "05-prilozhenie-a-dalneyshee-izuchenie",
   "topic_ids": [
     "you-don-t-know-js-up-and-going-5-2",
-    "you-don-t-know-js-up-and-going-5-4"
-  ]
+    "you-don-t-know-js-up-and-going-5-4",
+    "you-don-t-know-js-up-and-going-5-1"
+  ],
+  "recordings": {
+    "you-don-t-know-js-up-and-going-5-2": {
+      "youtube": "https://youtu.be/QYQAUKwBtsU?si=68QvGpKNcIEl4zuU&t=455",
+      "vk": "https://vkvideo.ru/video-226486590_456239078?t=7m34s"
+    },
+    "you-don-t-know-js-up-and-going-5-4": {
+      "youtube": "https://youtu.be/QYQAUKwBtsU?si=yqPdp2wu8g-0AKnj&t=2040",
+      "vk": "https://vkvideo.ru/video-226486590_456239078?t=33m59s"
+    },
+    "you-don-t-know-js-up-and-going-5-1": {
+      "youtube": "https://youtu.be/QYQAUKwBtsU?si=auF5y2v-WVAaOsOw",
+      "vk": "https://vkvideo.ru/video-226486590_456239078"
+    }
+  },
+  "stream": 42,
+  "finished": true
 }
