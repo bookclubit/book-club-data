@@ -29,6 +29,13 @@
       ]
     }
   ],
+  "book_id": "you-don-t-know-js-yet-scope-and-closures",
+  "chapter": "08-pattern-modul",
+  "topic_ids": [
+    "you-don-t-know-js-yet-scope-and-closures-8-1",
+    "you-don-t-know-js-yet-scope-and-closures-8-2",
+    "you-don-t-know-js-yet-scope-and-closures-8-4"
+  ],
   "recordings": {
     "you-don-t-know-js-yet-scope-and-closures-8-1": {
       "youtube": "https://youtu.be/7PQQ_lupqAY?t=0",
