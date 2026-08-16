@@ -1,0 +1,56 @@
+{
+  "id": "live-2024-11-29-glavy-7-i-8-zachem-nuzhny-zamykaniya-i-moduli-commonjs",
+  "type": "live-talk",
+  "title": "Главы 7 и 8. Зачем нужны замыкания и модули CommonJS",
+  "date": "2024-11-29",
+  "time": "18:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/KzRjK7TYYkE",
+    "vk": "https://vkvideo.ru/video-226486590_456239099"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "you-don-t-know-js-yet-scope-and-closures",
+      "chapter": "07-ispolzovanie-zamykaniy",
+      "topic_ids": [
+        "you-don-t-know-js-yet-scope-and-closures-7-5",
+        "you-don-t-know-js-yet-scope-and-closures-7-6",
+        "you-don-t-know-js-yet-scope-and-closures-7-7"
+      ]
+    },
+    {
+      "book_id": "you-don-t-know-js-yet-scope-and-closures",
+      "chapter": "08-pattern-modul",
+      "topic_ids": ["you-don-t-know-js-yet-scope-and-closures-8-3"]
+    }
+  ],
+  "book_id": "you-don-t-know-js-yet-scope-and-closures",
+  "chapter": "07-ispolzovanie-zamykaniy",
+  "topic_ids": [
+    "you-don-t-know-js-yet-scope-and-closures-7-5",
+    "you-don-t-know-js-yet-scope-and-closures-7-6",
+    "you-don-t-know-js-yet-scope-and-closures-7-7"
+  ],
+  "recordings": {
+    "you-don-t-know-js-yet-scope-and-closures-8-3": {
+      "youtube": "https://youtu.be/IIAARLl-aXQ?si=dA-t51dbg_oHxmT7&t=309",
+      "vk": "https://vkvideo.ru/video-226486590_456239100?t=5m9s"
+    },
+    "you-don-t-know-js-yet-scope-and-closures-7-5": {
+      "youtube": "https://youtu.be/IIAARLl-aXQ?si=tyk1paC0dTXGZbLq",
+      "vk": "https://vkvideo.ru/video-226486590_456239100"
+    },
+    "you-don-t-know-js-yet-scope-and-closures-7-6": {
+      "youtube": "https://youtu.be/IIAARLl-aXQ?si=tyk1paC0dTXGZbLq",
+      "vk": "https://vkvideo.ru/video-226486590_456239100"
+    },
+    "you-don-t-know-js-yet-scope-and-closures-7-7": {
+      "youtube": "https://youtu.be/IIAARLl-aXQ?si=tyk1paC0dTXGZbLq",
+      "vk": "https://vkvideo.ru/video-226486590_456239100"
+    }
+  },
+  "stream": 52,
+  "finished": true
+}
