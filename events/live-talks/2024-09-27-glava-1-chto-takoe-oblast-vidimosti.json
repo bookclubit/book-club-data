@@ -20,6 +20,12 @@
       ]
     }
   ],
+  "book_id": "you-don-t-know-js-yet-scope-and-closures",
+  "chapter": "01-chto-takoe-oblast-vidimosti",
+  "topic_ids": [
+    "you-don-t-know-js-yet-scope-and-closures-1-2",
+    "you-don-t-know-js-yet-scope-and-closures-1-5"
+  ],
   "recordings": {
     "you-don-t-know-js-yet-scope-and-closures-1-2": {
       "youtube": "https://youtu.be/wpELx1xzxKo?t=0",
@@ -31,11 +37,5 @@
     }
   },
   "stream": 43,
-  "finished": true,
-  "book_id": "you-don-t-know-js-yet-scope-and-closures",
-  "chapter": "01-chto-takoe-oblast-vidimosti",
-  "topic_ids": [
-    "you-don-t-know-js-yet-scope-and-closures-1-2",
-    "you-don-t-know-js-yet-scope-and-closures-1-5"
-  ]
+  "finished": true
 }
