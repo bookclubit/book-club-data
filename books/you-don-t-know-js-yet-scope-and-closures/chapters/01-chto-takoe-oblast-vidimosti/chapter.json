@@ -13,7 +13,7 @@
     },
     {
       "id": "you-don-t-know-js-yet-scope-and-closures-1-2",
-      "title": "Компиляция и интерпретация",
+      "title": "Компилируемые и интерпретируемые языки",
       "speakers": [],
       "video_youtube": "",
       "video_vk": "",
@@ -31,7 +31,7 @@
     },
     {
       "id": "you-don-t-know-js-yet-scope-and-closures-1-4",
-      "title": "На языке компилятора",
+      "title": "С точки зрения компилятора",
       "speakers": [],
       "video_youtube": "",
       "video_vk": "",
@@ -40,16 +40,7 @@
     },
     {
       "id": "you-don-t-know-js-yet-scope-and-closures-1-5",
-      "title": "Жульничество: изменение области видимости во время выполнения",
-      "speakers": [],
-      "video_youtube": "",
-      "video_vk": "",
-      "presentation": "",
-      "resources": []
-    },
-    {
-      "id": "you-don-t-know-js-yet-scope-and-closures-1-6",
-      "title": "Лексическая область видимости",
+      "title": "Изменение области видимости во время выполнения",
       "speakers": [],
       "video_youtube": "",
       "video_vk": "",
