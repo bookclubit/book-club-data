@@ -4,7 +4,7 @@
   "topics": [
     {
       "id": "you-don-t-know-js-yet-scope-and-closures-7-1",
-      "title": "Как увидеть замыкание в коде",
+      "title": "Как увидеть замыкание",
       "speakers": [],
       "video_youtube": "",
       "video_vk": "",
@@ -13,7 +13,7 @@
     },
     {
       "id": "you-don-t-know-js-yet-scope-and-closures-7-2",
-      "title": "Жизненный цикл замыкания и сборка мусора",
+      "title": "Накопление замыканий",
       "speakers": [],
       "video_youtube": "",
       "video_vk": "",
@@ -22,7 +22,7 @@
     },
     {
       "id": "you-don-t-know-js-yet-scope-and-closures-7-3",
-      "title": "Альтернативный взгляд",
+      "title": "Типичные замыкания: Ajax и события",
       "speakers": [],
       "video_youtube": "",
       "video_vk": "",
@@ -31,7 +31,7 @@
     },
     {
       "id": "you-don-t-know-js-yet-scope-and-closures-7-4",
-      "title": "Для чего нужны замыкания",
+      "title": "Жизненный цикл замыканий и сборка мусора (GC)",
       "speakers": [],
       "video_youtube": "",
       "video_vk": "",
@@ -40,7 +40,25 @@
     },
     {
       "id": "you-don-t-know-js-yet-scope-and-closures-7-5",
-      "title": "Ближе к замыканиям",
+      "title": "Альтернативная точка зрения",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-yet-scope-and-closures-7-6",
+      "title": "Для чего нужны замыкания?",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "you-don-t-know-js-yet-scope-and-closures-7-7",
+      "title": "Напоследок о замыканиях",
       "speakers": [],
       "video_youtube": "",
       "video_vk": "",
