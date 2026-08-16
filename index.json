@@ -337,13 +337,13 @@
           "slug": "03-cepochka-oblastey-vidimosti",
           "order": 3,
           "title": "Цепочка областей видимости",
-          "topics": 5
+          "topics": 4
         },
         {
           "slug": "04-vokrug-globalnoy-oblasti-vidimosti",
           "order": 4,
-          "title": "Вокруг глобальной области видимости",
-          "topics": 4
+          "title": "Глобальная область видимости",
+          "topics": 5
         },
         {
           "slug": "05-ne-takoy-uzh-taynyy-zhiznennyy-cikl-peremennyh",
