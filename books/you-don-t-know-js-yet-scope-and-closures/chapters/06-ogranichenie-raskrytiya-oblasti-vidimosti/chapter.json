@@ -13,7 +13,7 @@
     },
     {
       "id": "you-don-t-know-js-yet-scope-and-closures-6-2",
-      "title": "Сокрытие в области видимости функции",
+      "title": "Сокрытие в функциональной области видимости",
       "speakers": [],
       "video_youtube": "",
       "video_vk": "",
@@ -22,7 +22,7 @@
     },
     {
       "id": "you-don-t-know-js-yet-scope-and-closures-6-3",
-      "title": "Определение области видимости с помощью блоков",
+      "title": "Создание областей видимости с блоками",
       "speakers": [],
       "video_youtube": "",
       "video_vk": "",
@@ -31,7 +31,7 @@
     },
     {
       "id": "you-don-t-know-js-yet-scope-and-closures-6-4",
-      "title": "Объявления функций в блоках",
+      "title": "Объявления функций в блоках (FiB)",
       "speakers": [],
       "video_youtube": "",
       "video_vk": "",
@@ -40,7 +40,7 @@
     },
     {
       "id": "you-don-t-know-js-yet-scope-and-closures-6-5",
-      "title": "Подведение итогов",
+      "title": "Напоследок о блоках",
       "speakers": [],
       "video_youtube": "",
       "video_vk": "",
