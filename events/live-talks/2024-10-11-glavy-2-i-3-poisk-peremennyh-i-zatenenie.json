@@ -1,0 +1,63 @@
+{
+  "id": "live-2024-10-11-glavy-2-i-3-poisk-peremennyh-i-zatenenie",
+  "type": "live-talk",
+  "title": "Главы 2 и 3. Поиск переменных и затенение",
+  "date": "2024-10-11",
+  "time": "18:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/uXyZY9HNbn4",
+    "vk": "https://vkvideo.ru/video-226486590_456239083"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "you-don-t-know-js-yet-scope-and-closures",
+      "chapter": "02-illyustraciya-leksicheskoy-oblasti-vidimosti",
+      "topic_ids": [
+        "you-don-t-know-js-yet-scope-and-closures-2-3",
+        "you-don-t-know-js-yet-scope-and-closures-2-4",
+        "you-don-t-know-js-yet-scope-and-closures-2-5"
+      ]
+    },
+    {
+      "book_id": "you-don-t-know-js-yet-scope-and-closures",
+      "chapter": "03-cepochka-oblastey-vidimosti",
+      "topic_ids": [
+        "you-don-t-know-js-yet-scope-and-closures-3-1",
+        "you-don-t-know-js-yet-scope-and-closures-3-2"
+      ]
+    }
+  ],
+  "book_id": "you-don-t-know-js-yet-scope-and-closures",
+  "chapter": "02-illyustraciya-leksicheskoy-oblasti-vidimosti",
+  "topic_ids": [
+    "you-don-t-know-js-yet-scope-and-closures-2-3",
+    "you-don-t-know-js-yet-scope-and-closures-2-4",
+    "you-don-t-know-js-yet-scope-and-closures-2-5"
+  ],
+  "recordings": {
+    "you-don-t-know-js-yet-scope-and-closures-3-1": {
+      "youtube": "https://youtu.be/aVmgOM3wc7c?si=WVOVee0D6qU7u1WX&t=605",
+      "vk": "https://vkvideo.ru/video-226486590_456239084?t=10m4s"
+    },
+    "you-don-t-know-js-yet-scope-and-closures-3-2": {
+      "youtube": "https://youtu.be/aVmgOM3wc7c?si=QS3mFR3vqzCq9Jnu&t=1583",
+      "vk": "https://vkvideo.ru/video-226486590_456239084?t=26m22s"
+    },
+    "you-don-t-know-js-yet-scope-and-closures-2-3": {
+      "youtube": "https://youtu.be/aVmgOM3wc7c?si=-4N2WhpjcMboRbMf",
+      "vk": "https://vkvideo.ru/video-226486590_456239084"
+    },
+    "you-don-t-know-js-yet-scope-and-closures-2-4": {
+      "youtube": "https://youtu.be/aVmgOM3wc7c?si=-4N2WhpjcMboRbMf",
+      "vk": "https://vkvideo.ru/video-226486590_456239084"
+    },
+    "you-don-t-know-js-yet-scope-and-closures-2-5": {
+      "youtube": "https://youtu.be/aVmgOM3wc7c?si=-4N2WhpjcMboRbMf",
+      "vk": "https://vkvideo.ru/video-226486590_456239084"
+    }
+  },
+  "stream": 45,
+  "finished": true
+}
