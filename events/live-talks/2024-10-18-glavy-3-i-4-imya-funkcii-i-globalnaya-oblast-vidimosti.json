@@ -1,5 +1,5 @@
 {
-  "id": "live-2024-10-18-glavy-3-i-4-imya-funkcii-i-globalnaya-oblast",
+  "id": "live-2024-10-18-glavy-3-i-4-imya-funkcii-i-globalnaya-oblast-vidimosti",
   "type": "live-talk",
   "title": "Главы 3 и 4. Имя функции и глобальная область видимости",
   "date": "2024-10-18",
@@ -28,21 +28,27 @@
       ]
     }
   ],
+  "book_id": "you-don-t-know-js-yet-scope-and-closures",
+  "chapter": "03-cepochka-oblastey-vidimosti",
+  "topic_ids": [
+    "you-don-t-know-js-yet-scope-and-closures-3-3",
+    "you-don-t-know-js-yet-scope-and-closures-3-4"
+  ],
   "recordings": {
     "you-don-t-know-js-yet-scope-and-closures-3-3": {
-      "youtube": "https://youtu.be/ZsZM-sufbBc?t=0",
-      "vk": "https://vkvideo.ru/video-226486590_456239086?t=0m0s"
+      "youtube": "https://youtu.be/ZsZM-sufbBc?si=5MJCwwiYzxq-8P_w",
+      "vk": "https://vkvideo.ru/video-226486590_456239086"
     },
     "you-don-t-know-js-yet-scope-and-closures-3-4": {
-      "youtube": "https://youtu.be/ZsZM-sufbBc?t=753",
+      "youtube": "https://youtu.be/ZsZM-sufbBc?si=w0OxpcaqfYRtqKA_&t=753",
       "vk": "https://vkvideo.ru/video-226486590_456239086?t=12m33s"
     },
     "you-don-t-know-js-yet-scope-and-closures-4-1": {
-      "youtube": "https://youtu.be/ZsZM-sufbBc?t=999",
+      "youtube": "https://youtu.be/ZsZM-sufbBc?si=6sxksLgvpZHQp0o8&t=999",
       "vk": "https://vkvideo.ru/video-226486590_456239086?t=16m39s"
     },
     "you-don-t-know-js-yet-scope-and-closures-4-2": {
-      "youtube": "https://youtu.be/ZsZM-sufbBc?t=1444",
+      "youtube": "https://youtu.be/ZsZM-sufbBc?si=MLYqCId3W4_Y64fi&t=1447",
       "vk": "https://vkvideo.ru/video-226486590_456239086?t=24m4s"
     }
   },
