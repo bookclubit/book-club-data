@@ -14,7 +14,10 @@
     {
       "book_id": "you-don-t-know-js-yet-scope-and-closures",
       "chapter": "04-vokrug-globalnoy-oblasti-vidimosti",
-      "topic_ids": ["you-don-t-know-js-yet-scope-and-closures-4-3"]
+      "topic_ids": [
+        "you-don-t-know-js-yet-scope-and-closures-4-3",
+        "you-don-t-know-js-yet-scope-and-closures-4-4"
+      ]
     },
     {
       "book_id": "you-don-t-know-js-yet-scope-and-closures",
@@ -22,14 +25,24 @@
       "topic_ids": ["you-don-t-know-js-yet-scope-and-closures-5-2"]
     }
   ],
+  "book_id": "you-don-t-know-js-yet-scope-and-closures",
+  "chapter": "04-vokrug-globalnoy-oblasti-vidimosti",
+  "topic_ids": [
+    "you-don-t-know-js-yet-scope-and-closures-4-3",
+    "you-don-t-know-js-yet-scope-and-closures-4-4"
+  ],
   "recordings": {
     "you-don-t-know-js-yet-scope-and-closures-4-3": {
-      "youtube": "https://youtu.be/PzybR3T3-wE?t=238",
-      "vk": "https://vkvideo.ru/video-226486590_456239088?t=3m58s"
+      "youtube": "https://youtu.be/PzybR3T3-wE?si=_miq2V-EwYcOztod",
+      "vk": "https://vkvideo.ru/video-226486590_456239088"
     },
     "you-don-t-know-js-yet-scope-and-closures-5-2": {
-      "youtube": "https://youtu.be/PzybR3T3-wE?t=764",
+      "youtube": "https://youtu.be/PzybR3T3-wE?si=fCLMeSz67tGrnx9s&t=764",
       "vk": "https://vkvideo.ru/video-226486590_456239088?t=12m44s"
+    },
+    "you-don-t-know-js-yet-scope-and-closures-4-4": {
+      "youtube": "https://youtu.be/PzybR3T3-wE?si=G1j65lxi4gKU4MKc&t=239",
+      "vk": "https://vkvideo.ru/video-226486590_456239088?t=3m58s"
     }
   },
   "stream": 47,
