@@ -15,7 +15,7 @@ books/<slug>/
   meta.json                       # id, title, авторы [{id, name, avatar, url}], cover, tags, status, total_chapters, code (для генератора презентаций talks: DOCKER, REACT)
   flashcards.json                 # колода карточек книги (ANKI), пополняется по главам: [{id, type: qa|command, question+answer | command+result, example (НЕОБЯЗАТЕЛЕН — пример под ответом), chapter, difficulty}]
   chapters/<NN-slug>/
-    chapter.json                  # глава целиком: order, title, topics[{id, title, speakers[], video_youtube, video_vk, presentation, resources[]}]; описания главы и learning_outcome нет (июль 2026: главное в главе — темы, отдельной страницы у неё в miniapp больше нет)
+    chapter.json                  # глава целиком: order, title, topics[{id, title, talk_group (НЕОБЯЗАТЕЛЕН: несколько тем = один доклад, значение — id ведущей темы группы), speakers[], video_youtube, video_vk, presentation, resources[]}]; описания главы и learning_outcome нет (июль 2026: главное в главе — темы, отдельной страницы у неё в miniapp больше нет)
 events/
   closed-chapters/*.json          # «открытое обсуждение» главы: книга, глава, pages{from,to}, assignment (НЕОБЯЗАТЕЛЕН: перекрывает шаблонное задание, которое бот собирает из главы и страниц), notes_board_url (доска — ссылка или файл media/boards), streams{youtube,vk}, call_url (Google Meet), stream (номер эфира → «Книжный клуб N»), moderators[{speaker_id,name,avatar}], materials[{title,url}], finished
   live-talks/*.json               # «доклады» (чистовая запись докладов): assignment (необязателен — см. выше), streams{youtube,vk}, talks[{title, speaker, avatar, topic_id (тема главы), slides_url (презентация talks)}], materials, program[{book_id, chapter, topic_ids[]}] (программа эфира блоками: за вечер разбирают несколько глав и даже книг; пустой topic_ids = вся глава; старые встречи вместо program хранят book_id+chapter+topic_ids прямо в событии — это тот же единственный блок, и читатели разбирают оба вида одной функцией), recordings{<topic_id>:{youtube,vk}} (монтажные ролики докладов — на странице спикера вместо записи всей встречи), stream (номер стрима для talks BC-<stream>-…), call_url (Google Meet: на эфир тоже собираются в созвоне, оттуда и ведут трансляцию), finished; registration_url НЕ используется (запись — через бота)
@@ -73,6 +73,10 @@ media/
   части вечера выводили одинаковый список тем. Это и другие ошибки встреч
   (битые ссылки на главы и темы, одна тема в двух эфирах, дубль номера стрима)
   ловит `node scripts/validate-events.mjs` — он же запускается в CI на PR-ах
+- **Объединённые темы (`talk_group`) правит CMS, а не руки**: значение — id
+  ведущей темы группы, оно стоит у всех её тем (включая ведущую). Клиенты
+  склеивают такую группу в один доклад: название через запятую, а бронь,
+  слайды и запись берутся у ведущей темы
 - Названия папок — kebab-case
 - Изображения — WebP, оптимизировать до 200KB (конвертация через `sharp`, оригиналы не коммитить)
 - Не изменять структуру существующих файлов без явного запроса
