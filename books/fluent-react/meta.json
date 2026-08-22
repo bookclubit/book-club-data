@@ -11,12 +11,12 @@
       "avatar": "/media/authors/tejas-kumar.webp"
     }
   ],
-  "status": "reading",
+  "status": "finished",
   "category": "frameworks",
   "cover": "/media/covers/fluent-react.webp",
   "tags": [],
   "description": "Глубокое погружение во внутреннее устройство React: JSX и продвинутые паттерны, виртуальный DOM и реконциляция, серверный рендеринг, конкурентный режим и серверные компоненты.",
-  "total_chapters": 11,
+  "total_chapters": 9,
   "code": "REACT",
   "url": "https://www.oreilly.com/library/view/fluent-react/9781098138707/"
 }
