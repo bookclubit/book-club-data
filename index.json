@@ -23,7 +23,14 @@
       "title": "Высоконагруженные приложения. Программирование, масштабирование, поддержка",
       "status": "reading",
       "category": "base",
-      "chapters": []
+      "chapters": [
+        {
+          "slug": "01-nadezhnye-masshtabiruemye-i-udobnye-v-soprovozhdenii-prilozheniya",
+          "order": 1,
+          "title": "Надежные, масштабируемые и удобные в сопровождении приложения",
+          "topics": 4
+        }
+      ]
     },
     {
       "folder": "docker-up-and-running",
