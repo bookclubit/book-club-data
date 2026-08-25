@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "active_book": "mastering-blockchain",
+  "active_book": "designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems",
   "books": [
     {
       "folder": "ai-engineering",
@@ -16,6 +16,14 @@
           "topics": 4
         }
       ]
+    },
+    {
+      "folder": "designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems",
+      "id": "designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems",
+      "title": "Высоконагруженные приложения. Программирование, масштабирование, поддержка",
+      "status": "reading",
+      "category": "base",
+      "chapters": []
     },
     {
       "folder": "docker-up-and-running",
@@ -421,6 +429,15 @@
         "you-don-t-know-js-types-and-grammar",
         "you-don-t-know-js-up-and-going",
         "you-don-t-know-js-yet-scope-and-closures"
+      ]
+    },
+    {
+      "id": "martin-kleppman",
+      "name": "Мартин Клеппман",
+      "avatar": "/media/authors/martin-kleppman.webp",
+      "url": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://martin.kleppmann.com/&ved=2ahUKEwiyzKGso7uWAxUJGxAIHTv1Et8Qy_kOegYIAAgSEAE&opi=89978449&cd&psig=AOvVaw2bP4Uxv73pk-MArZFJVlXJ&ust=1787729996210000",
+      "books": [
+        "designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems"
       ]
     },
     {
