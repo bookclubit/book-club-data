@@ -1,0 +1,21 @@
+{
+  "id": "mastering-blockchain",
+  "title": "Блокчейн. Исчерпывающее руководство",
+  "title_original": "Mastering Blockchain",
+  "edition": 4,
+  "authors": [
+    {
+      "id": "imran-bashir",
+      "name": "Имран Башир",
+      "url": "https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fuk.linkedin.com%2Fin%2Fimranbashirblockchain&ved=0CAAQ6vwSahcKEwiAvp_6nruWAxUAAAAAHQAAAAAQQw&opi=89978449",
+      "avatar": "/media/authors/imran-bashir.webp"
+    }
+  ],
+  "status": "reading",
+  "cover": "/media/covers/mastering-blockchain.webp",
+  "tags": [],
+  "description": "Фундаментальное техническое руководство, которое признано одним из самых авторитетных и полных учебников по технологии распределенного реестра в мире.",
+  "total_chapters": 22,
+  "code": "MASTERING-BLOCKCHAIN",
+  "url": "https://www.amazon.com/Mastering-Blockchain-technical-blockchain-cryptography-ebook/dp/B0B4P2VC76?ref_=ast_author_mpb"
+}
