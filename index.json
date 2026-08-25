@@ -170,7 +170,14 @@
       "title": "Алгоритмы: построение и анализ",
       "status": "reading",
       "category": "algorithms",
-      "chapters": []
+      "chapters": [
+        {
+          "slug": "01-rol-algoritmov-v-vychisleniyah",
+          "order": 1,
+          "title": "Роль алгоритмов в вычислениях",
+          "topics": 2
+        }
+      ]
     },
     {
       "folder": "mastering-blockchain",
