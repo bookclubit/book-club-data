@@ -1,0 +1,24 @@
+{
+  "order": 1,
+  "title": "Роль алгоритмов в вычислениях",
+  "topics": [
+    {
+      "id": "introduction-to-algorithms-1-1",
+      "title": "Что такое алгоритмы",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "introduction-to-algorithms-1-2",
+      "title": "Алгоритмы как технология",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    }
+  ]
+}
