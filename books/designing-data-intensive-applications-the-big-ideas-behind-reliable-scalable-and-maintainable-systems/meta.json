@@ -1,0 +1,22 @@
+{
+  "id": "designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems",
+  "title": "Высоконагруженные приложения. Программирование, масштабирование, поддержка",
+  "title_original": "Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems",
+  "edition": 1,
+  "authors": [
+    {
+      "id": "martin-kleppman",
+      "name": "Мартин Клеппман",
+      "url": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://martin.kleppmann.com/&ved=2ahUKEwiyzKGso7uWAxUJGxAIHTv1Et8Qy_kOegYIAAgSEAE&opi=89978449&cd&psig=AOvVaw2bP4Uxv73pk-MArZFJVlXJ&ust=1787729996210000",
+      "avatar": "/media/authors/martin-kleppman.webp"
+    }
+  ],
+  "status": "reading",
+  "category": "base",
+  "cover": "/media/covers/designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems.webp",
+  "tags": [],
+  "description": "Главная книга для тех, кто хочет научиться создавать крупные, быстрые и надежные ИТ-системы вроде Telegram, Netflix или крупных интернет-магазинов.",
+  "total_chapters": 12,
+  "code": "DESIGNING-DATA-INTENSIVE-APPLICATIONS",
+  "url": "https://www.piter.com/collection/best/product/vysokonagruzhennye-prilozheniya-programmirovanie-masshtabirovanie-podderzhka-2"
+}
