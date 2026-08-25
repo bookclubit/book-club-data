@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "active_book": "fluent-react",
+  "active_book": "mastering-blockchain",
   "books": [
     {
       "folder": "ai-engineering",
@@ -148,6 +148,13 @@
           "topics": 8
         }
       ]
+    },
+    {
+      "folder": "mastering-blockchain",
+      "id": "mastering-blockchain",
+      "title": "Блокчейн. Исчерпывающее руководство",
+      "status": "reading",
+      "chapters": []
     },
     {
       "folder": "typescript-cookbook",
@@ -386,6 +393,15 @@
       "url": "https://huyenchip.com/",
       "books": [
         "ai-engineering"
+      ]
+    },
+    {
+      "id": "imran-bashir",
+      "name": "Имран Башир",
+      "avatar": "/media/authors/imran-bashir.webp",
+      "url": "https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fuk.linkedin.com%2Fin%2Fimranbashirblockchain&ved=0CAAQ6vwSahcKEwiAvp_6nruWAxUAAAAAHQAAAAAQQw&opi=89978449",
+      "books": [
+        "mastering-blockchain"
       ]
     },
     {
