@@ -1,0 +1,40 @@
+{
+  "id": "introduction-to-algorithms",
+  "title": "Алгоритмы: построение и анализ",
+  "title_original": "Introduction to Algorithms",
+  "edition": 3,
+  "authors": [
+    {
+      "id": "tomas-kormen",
+      "name": "Томас Кормен",
+      "url": "https://www.cs.dartmouth.edu/~thc/",
+      "avatar": "/media/authors/tomas-kormen.webp"
+    },
+    {
+      "id": "charlz-leyzerson",
+      "name": "Чарльз Лейзерсон",
+      "url": "https://people.csail.mit.edu/cel/",
+      "avatar": "/media/authors/charlz-leyzerson.webp"
+    },
+    {
+      "id": "ronald-rivest",
+      "name": "Рональд Ривест",
+      "url": "https://people.csail.mit.edu/rivest/",
+      "avatar": "/media/authors/ronald-rivest.webp"
+    },
+    {
+      "id": "klifford-shtayn",
+      "name": "Клиффорд Штайн",
+      "url": "https://www.columbia.edu/~cs2035/",
+      "avatar": "/media/authors/klifford-shtayn.webp"
+    }
+  ],
+  "status": "reading",
+  "category": "algorithms",
+  "cover": "/media/covers/introduction-to-algorithms.webp",
+  "tags": [],
+  "description": "Самая известная в мире «библия» по алгоритмам для программистов.",
+  "total_chapters": 35,
+  "code": "INTRODUCTION-TO-ALGORITHMS",
+  "url": "https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844"
+}
