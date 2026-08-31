@@ -1,0 +1,35 @@
+{
+  "id": "live-2026-09-04-glava-1-nadezhnye-masshtabiruemye-i-udobnye-v-soprovozhdenii-prilozheniya",
+  "type": "live-talk",
+  "title": "Глава 1. Надежные, масштабируемые и удобные в сопровождении приложения.",
+  "date": "2026-09-04",
+  "time": "18:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/4QF2MmnNrv8?si=PEuQkKyjse9f_7Na",
+    "vk": "https://vkvideo.ru/live-226486590_456239253"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems",
+      "chapter": "01-nadezhnye-masshtabiruemye-i-udobnye-v-soprovozhdenii-prilozheniya",
+      "topic_ids": [
+        "designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-1-1",
+        "designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-1-2",
+        "designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-1-3",
+        "designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-1-4"
+      ]
+    }
+  ],
+  "book_id": "designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems",
+  "chapter": "01-nadezhnye-masshtabiruemye-i-udobnye-v-soprovozhdenii-prilozheniya",
+  "topic_ids": [
+    "designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-1-1",
+    "designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-1-2",
+    "designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-1-3",
+    "designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-1-4"
+  ],
+  "stream": 117,
+  "call_url": "https://meet.google.com/ohm-wtks-eui"
+}
