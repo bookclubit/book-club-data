@@ -1,0 +1,30 @@
+{
+  "id": "live-2026-09-18-glava-1-rol-alroritmov-v-vychisleniyah",
+  "type": "live-talk",
+  "title": "Глава 1 - Роль алrоритмов в вычислениях",
+  "date": "2026-09-18",
+  "time": "23:00",
+  "timezone": "Europe/Moscow",
+  "streams": {
+    "youtube": "https://www.youtube.com/live/_C1Wrlhah4k?si=SWNHEf9oZmmXbcqR",
+    "vk": "https://vkvideo.ru/live-226486590_456239254"
+  },
+  "talks": [],
+  "program": [
+    {
+      "book_id": "introduction-to-algorithms",
+      "chapter": "01-rol-algoritmov-v-vychisleniyah",
+      "topic_ids": [
+        "introduction-to-algorithms-1-1",
+        "introduction-to-algorithms-1-2"
+      ]
+    }
+  ],
+  "book_id": "introduction-to-algorithms",
+  "chapter": "01-rol-algoritmov-v-vychisleniyah",
+  "topic_ids": [
+    "introduction-to-algorithms-1-1",
+    "introduction-to-algorithms-1-2"
+  ],
+  "call_url": "https://meet.google.com/srj-dmgw-ctf"
+}
