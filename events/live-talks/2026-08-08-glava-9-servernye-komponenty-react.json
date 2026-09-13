@@ -32,6 +32,28 @@
     "fluent-react-9-4",
     "fluent-react-9-5"
   ],
+  "recordings": {
+    "fluent-react-9-1": {
+      "youtube": "https://www.youtube.com/watch?v=LVFpkX8mfho",
+      "vk": "https://vkvideo.ru/video-226486590_456239255?t=0h0m0s"
+    },
+    "fluent-react-9-2": {
+      "youtube": "https://www.youtube.com/watch?v=LVFpkX8mfho&t=273s",
+      "vk": "https://vkvideo.ru/video-226486590_456239255?t=0h4m33s"
+    },
+    "fluent-react-9-3": {
+      "youtube": "https://www.youtube.com/watch?v=LVFpkX8mfho&t=894s",
+      "vk": "https://vkvideo.ru/video-226486590_456239255?t=0h14m54s"
+    },
+    "fluent-react-9-4": {
+      "youtube": "https://www.youtube.com/watch?v=LVFpkX8mfho&t=1423s",
+      "vk": "https://vkvideo.ru/video-226486590_456239255?t=0h23m43s"
+    },
+    "fluent-react-9-5": {
+      "youtube": "https://www.youtube.com/watch?v=LVFpkX8mfho&t=1950s",
+      "vk": "https://vkvideo.ru/video-226486590_456239255?t=0h32m30s"
+    }
+  },
   "stream": 115,
   "call_url": "https://meet.google.com/uyo-kqsv-mko",
   "finished": true
