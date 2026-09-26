@@ -2,6 +2,13 @@
 # index.json — генерируемый артефакт: руками и в PR-ах его не менять.
 # Защита от цикла: workflow триггерится только на перечисленные paths,
 # а коммитит только index.json — плюс [skip ci] в сообщении для надёжности.
+#
+# Гонка мержей. Два PR, смерженные подряд, запускают два прогона, и пуш
+# первого отклоняется: main уже ушёл вперёд. В сентябре 2026 так реестр
+# неделю ссылался на переименованный файл встречи (miniapp ловил 404), потому
+# что второй мерж был дублем PR, ничего не менял и сборку не запустил вовсе.
+# Поэтому прогоны идут по очереди, реестр собирается на свежем main (он целиком
+# выводится из дерева), а отклонённый пуш повторяется с пересборкой.
 name: build-index
 
 on:
@@ -13,31 +20,49 @@ on:
       - "speakers.json"
       - "settings.json"
       - "scripts/build-index.mjs"
+      - ".github/workflows/build-index.yml"
+  # Ручной запуск — починить реестр, если прогон всё же не состоялся.
+  workflow_dispatch:
 
 permissions:
   contents: write
+
+# Без отмены: текущий прогон доводит пуш, ожидающий пересоберёт после него.
+concurrency:
+  group: build-index
+  cancel-in-progress: false
 
 jobs:
   build-index:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
 
       - uses: actions/setup-node@v4
         with:
           node-version: 20
 
-      - name: Пересобрать index.json
-        run: node scripts/build-index.mjs
-
-      - name: Закоммитить index.json, если изменился
+      - name: Пересобрать и закоммитить index.json
         run: |
-          if git diff --quiet index.json; then
-            echo "index.json не изменился — коммит не нужен."
-            exit 0
-          fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add index.json
-          git commit -m "chore(index): пересобрать index.json [skip ci]"
-          git push
+          for attempt in 1 2 3 4 5; do
+            git fetch --depth=1 origin main
+            git reset --hard FETCH_HEAD
+            node scripts/build-index.mjs
+            if git diff --quiet index.json; then
+              echo "index.json актуален — коммит не нужен."
+              exit 0
+            fi
+            git add index.json
+            git commit -m "chore(index): пересобрать index.json [skip ci]"
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            echo "main ушёл вперёд — пересобираю на свежем (попытка $attempt)."
+            sleep $((attempt * 3))
+          done
+          echo "::error::Не удалось запушить index.json: main всё время уходит вперёд."
+          exit 1
