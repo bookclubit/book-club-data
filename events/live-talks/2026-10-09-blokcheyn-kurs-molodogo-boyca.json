@@ -1,0 +1,33 @@
+{
+  "id": "live-2026-10-09-blokcheyn-kurs-molodogo-boyca",
+  "type": "live-talk",
+  "title": "Блокчейн. Курс молодого бойца",
+  "date": "2026-10-09",
+  "time": "18:00",
+  "timezone": "Europe/Moscow",
+  "streams": {},
+  "talks": [],
+  "program": [
+    {
+      "book_id": "mastering-blockchain",
+      "chapter": "01-blokcheyn-kurs-molodogo-boyca",
+      "topic_ids": [
+        "mastering-blockchain-1-1",
+        "mastering-blockchain-1-2",
+        "mastering-blockchain-1-3",
+        "mastering-blockchain-1-5",
+        "mastering-blockchain-1-4"
+      ]
+    }
+  ],
+  "book_id": "mastering-blockchain",
+  "chapter": "01-blokcheyn-kurs-molodogo-boyca",
+  "topic_ids": [
+    "mastering-blockchain-1-1",
+    "mastering-blockchain-1-2",
+    "mastering-blockchain-1-3",
+    "mastering-blockchain-1-5",
+    "mastering-blockchain-1-4"
+  ],
+  "stream": 119
+}
