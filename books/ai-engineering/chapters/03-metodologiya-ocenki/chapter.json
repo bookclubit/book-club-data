@@ -1,0 +1,51 @@
+{
+  "order": 3,
+  "title": "Методология оценки",
+  "topics": [
+    {
+      "id": "ai-engineering-3-1",
+      "title": "Трудности оценки базовых моделей",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "ai-engineering-3-2",
+      "title": "Знакомство с метриками языкового моделирования",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "ai-engineering-3-3",
+      "title": "Точная оценка",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "ai-engineering-3-4",
+      "title": "AI в роли судьи",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "ai-engineering-3-5",
+      "title": "Ранжирование моделей путем сравнительной оценки",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    }
+  ]
+}
