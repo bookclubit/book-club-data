@@ -98,6 +98,12 @@
           "order": 9,
           "title": "Переход на контейнеры в рабочей среде",
           "topics": 3
+        },
+        {
+          "slug": "10-masshtabirovanie-konteynerov",
+          "order": 10,
+          "title": "Масштабирование контейнеров",
+          "topics": 3
         }
       ]
     },
