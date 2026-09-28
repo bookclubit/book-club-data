@@ -194,6 +194,12 @@
           "order": 1,
           "title": "Роль алгоритмов в вычислениях",
           "topics": 2
+        },
+        {
+          "slug": "02-pristupaem-k-izucheniyu",
+          "order": 2,
+          "title": "Приступаем к изучению",
+          "topics": 3
         }
       ]
     },
