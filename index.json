@@ -14,6 +14,12 @@
           "order": 1,
           "title": "Основы создания AI-приложений с использованием базовых моделей",
           "topics": 4
+        },
+        {
+          "slug": "02-znakomstvo-s-bazovymi-modelyami",
+          "order": 2,
+          "title": "Знакомство с базовыми моделями",
+          "topics": 4
         }
       ]
     },
