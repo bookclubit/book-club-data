@@ -1,0 +1,33 @@
+{
+  "order": 10,
+  "title": "Масштабирование контейнеров",
+  "topics": [
+    {
+      "id": "docker-intro-10-1",
+      "title": "Режим Docker Swarm",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "docker-intro-10-2",
+      "title": "Kubernetes",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "docker-intro-10-3",
+      "title": "Amazon ECS и Fargate",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    }
+  ]
+}
