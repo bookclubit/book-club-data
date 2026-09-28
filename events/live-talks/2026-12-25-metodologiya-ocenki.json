@@ -1,0 +1,33 @@
+{
+  "id": "live-2026-12-25-metodologiya-ocenki",
+  "type": "live-talk",
+  "title": "Методология оценки",
+  "date": "2026-12-25",
+  "time": "18:00",
+  "timezone": "Europe/Moscow",
+  "streams": {},
+  "talks": [],
+  "program": [
+    {
+      "book_id": "ai-engineering",
+      "chapter": "03-metodologiya-ocenki",
+      "topic_ids": [
+        "ai-engineering-3-1",
+        "ai-engineering-3-2",
+        "ai-engineering-3-3",
+        "ai-engineering-3-4",
+        "ai-engineering-3-5"
+      ]
+    }
+  ],
+  "book_id": "ai-engineering",
+  "chapter": "03-metodologiya-ocenki",
+  "topic_ids": [
+    "ai-engineering-3-1",
+    "ai-engineering-3-2",
+    "ai-engineering-3-3",
+    "ai-engineering-3-4",
+    "ai-engineering-3-5"
+  ],
+  "stream": 124
+}
