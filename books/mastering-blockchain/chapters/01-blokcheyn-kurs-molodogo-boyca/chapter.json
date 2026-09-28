@@ -1,0 +1,51 @@
+{
+  "order": 1,
+  "title": "Блокчейн. Курс молодого бойца",
+  "topics": [
+    {
+      "id": "mastering-blockchain-1-1",
+      "title": "Развитие блокчейна",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "mastering-blockchain-1-2",
+      "title": "Распределенные системы",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "mastering-blockchain-1-3",
+      "title": "История блокчейна",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "mastering-blockchain-1-4",
+      "title": "Введение в блокчейн",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "mastering-blockchain-1-5",
+      "title": "Типы блокчейна",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    }
+  ]
+}
