@@ -1,0 +1,31 @@
+{
+  "id": "live-2026-12-11-decentralizaciya",
+  "type": "live-talk",
+  "title": "Децентрализация",
+  "date": "2026-12-11",
+  "time": "18:00",
+  "timezone": "Europe/Moscow",
+  "streams": {},
+  "talks": [],
+  "program": [
+    {
+      "book_id": "mastering-blockchain",
+      "chapter": "02-decentralizaciya",
+      "topic_ids": [
+        "mastering-blockchain-2-1",
+        "mastering-blockchain-2-2",
+        "mastering-blockchain-2-3",
+        "mastering-blockchain-2-4"
+      ]
+    }
+  ],
+  "book_id": "mastering-blockchain",
+  "chapter": "02-decentralizaciya",
+  "topic_ids": [
+    "mastering-blockchain-2-1",
+    "mastering-blockchain-2-2",
+    "mastering-blockchain-2-3",
+    "mastering-blockchain-2-4"
+  ],
+  "stream": 123
+}
