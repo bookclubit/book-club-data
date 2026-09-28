@@ -1,0 +1,29 @@
+{
+  "id": "live-2026-12-11-modeli-dannyh-i-yazyki-zaprosov",
+  "type": "live-talk",
+  "title": "Модели данных и языки запросов",
+  "date": "2026-12-11",
+  "time": "18:00",
+  "timezone": "Europe/Moscow",
+  "streams": {},
+  "talks": [],
+  "program": [
+    {
+      "book_id": "designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems",
+      "chapter": "02-modeli-dannyh-i-yazyki-zaprosov",
+      "topic_ids": [
+        "designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-2-1",
+        "designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-2-2",
+        "designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-2-3"
+      ]
+    }
+  ],
+  "book_id": "designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems",
+  "chapter": "02-modeli-dannyh-i-yazyki-zaprosov",
+  "topic_ids": [
+    "designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-2-1",
+    "designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-2-2",
+    "designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-2-3"
+  ],
+  "stream": 122
+}
