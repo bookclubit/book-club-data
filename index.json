@@ -184,7 +184,14 @@
       "id": "mastering-blockchain",
       "title": "Блокчейн. Исчерпывающее руководство",
       "status": "reading",
-      "chapters": []
+      "chapters": [
+        {
+          "slug": "01-blokcheyn-kurs-molodogo-boyca",
+          "order": 1,
+          "title": "Блокчейн. Курс молодого бойца",
+          "topics": 5
+        }
+      ]
     },
     {
       "folder": "typescript-cookbook",
