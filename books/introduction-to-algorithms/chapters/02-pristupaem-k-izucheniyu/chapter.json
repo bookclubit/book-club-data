@@ -1,0 +1,33 @@
+{
+  "order": 2,
+  "title": "Приступаем к изучению",
+  "topics": [
+    {
+      "id": "introduction-to-algorithms-2-1",
+      "title": "Сортировка вставкой",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "introduction-to-algorithms-2-2",
+      "title": "Анализ алгоритмов",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "introduction-to-algorithms-2-3",
+      "title": "Разработка алгоритмов",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    }
+  ]
+}
