@@ -1,0 +1,31 @@
+{
+  "id": "live-2026-11-06-znakomstvo-s-bazovymi-modelyami",
+  "type": "live-talk",
+  "title": "Знакомство с базовыми моделями",
+  "date": "2026-11-06",
+  "time": "19:00",
+  "timezone": "Europe/Moscow",
+  "streams": {},
+  "talks": [],
+  "program": [
+    {
+      "book_id": "ai-engineering",
+      "chapter": "02-znakomstvo-s-bazovymi-modelyami",
+      "topic_ids": [
+        "ai-engineering-2-1",
+        "ai-engineering-2-2",
+        "ai-engineering-2-3",
+        "ai-engineering-2-4"
+      ]
+    }
+  ],
+  "book_id": "ai-engineering",
+  "chapter": "02-znakomstvo-s-bazovymi-modelyami",
+  "topic_ids": [
+    "ai-engineering-2-1",
+    "ai-engineering-2-2",
+    "ai-engineering-2-3",
+    "ai-engineering-2-4"
+  ],
+  "stream": 121
+}
