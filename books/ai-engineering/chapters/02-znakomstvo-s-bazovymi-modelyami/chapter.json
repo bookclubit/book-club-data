@@ -1,0 +1,42 @@
+{
+  "order": 2,
+  "title": "Знакомство с базовыми моделями",
+  "topics": [
+    {
+      "id": "ai-engineering-2-1",
+      "title": "Обучающие данные",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "ai-engineering-2-2",
+      "title": "Создание модели",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "ai-engineering-2-3",
+      "title": "Последующее обучение",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "ai-engineering-2-4",
+      "title": "Сэмплирование",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    }
+  ]
+}
