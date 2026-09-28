@@ -20,6 +20,12 @@
           "order": 2,
           "title": "Знакомство с базовыми моделями",
           "topics": 4
+        },
+        {
+          "slug": "03-metodologiya-ocenki",
+          "order": 3,
+          "title": "Методология оценки",
+          "topics": 5
         }
       ]
     },
