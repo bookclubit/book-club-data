@@ -1,0 +1,29 @@
+{
+  "id": "live-2026-12-11-masshtabirovanie-konteynerov",
+  "type": "live-talk",
+  "title": "Масштабирование контейнеров",
+  "date": "2026-12-11",
+  "time": "18:00",
+  "timezone": "Europe/Moscow",
+  "streams": {},
+  "talks": [],
+  "program": [
+    {
+      "book_id": "introduction-to-algorithms",
+      "chapter": "02-pristupaem-k-izucheniyu",
+      "topic_ids": [
+        "introduction-to-algorithms-2-1",
+        "introduction-to-algorithms-2-2",
+        "introduction-to-algorithms-2-3"
+      ]
+    }
+  ],
+  "book_id": "introduction-to-algorithms",
+  "chapter": "02-pristupaem-k-izucheniyu",
+  "topic_ids": [
+    "introduction-to-algorithms-2-1",
+    "introduction-to-algorithms-2-2",
+    "introduction-to-algorithms-2-3"
+  ],
+  "stream": 122
+}
