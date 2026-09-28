@@ -1,0 +1,33 @@
+{
+  "order": 2,
+  "title": "Модели данных и языки запросов",
+  "topics": [
+    {
+      "id": "designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-2-1",
+      "title": "Реляционная модель в сравнении с документоориентированной моделью",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-2-2",
+      "title": "Языки запросов для данных",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-2-3",
+      "title": "Графоподобные модели данных",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    }
+  ]
+}
