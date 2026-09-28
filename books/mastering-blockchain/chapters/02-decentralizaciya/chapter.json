@@ -1,0 +1,42 @@
+{
+  "order": 2,
+  "title": "Децентрализация",
+  "topics": [
+    {
+      "id": "mastering-blockchain-2-1",
+      "title": "Введение в децентрализацию",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "mastering-blockchain-2-2",
+      "title": "Децентрализация всей экосистемы",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "mastering-blockchain-2-3",
+      "title": "Децентрализация на практике",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    },
+    {
+      "id": "mastering-blockchain-2-4",
+      "title": "Инновационные тенденции",
+      "speakers": [],
+      "video_youtube": "",
+      "video_vk": "",
+      "presentation": "",
+      "resources": []
+    }
+  ]
+}
