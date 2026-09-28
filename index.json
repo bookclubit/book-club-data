@@ -214,6 +214,12 @@
           "order": 1,
           "title": "Блокчейн. Курс молодого бойца",
           "topics": 5
+        },
+        {
+          "slug": "02-decentralizaciya",
+          "order": 2,
+          "title": "Децентрализация",
+          "topics": 4
         }
       ]
     },
@@ -642,7 +648,7 @@
     "live-talks/2026-10-09-blokcheyn-kurs-molodogo-boyca.json",
     "live-talks/2026-10-23-znakomstvo-s-bazovymi-modelyami.json",
     "live-talks/2026-11-06-modeli-dannyh-i-yazyki-zaprosov.json",
-    "live-talks/2026-12-11-pristupaem-k-izucheniyu.json"
+    "live-talks/2026-11-27-pristupaem-k-izucheniyu.json"
   ],
   "speakers": [
     {
