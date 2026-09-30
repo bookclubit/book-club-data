@@ -38,6 +38,24 @@
     "fluent-react-10-7",
     "fluent-react-10-8"
   ],
+  "recordings": {
+    "fluent-react-10-1": {
+      "youtube": "https://youtu.be/tWTsPr2_Ubo?si=RPm16bVf8UW_yjsB",
+      "vk": "https://vkvideo.ru/video-226486590_456239256"
+    },
+    "fluent-react-10-6": {
+      "youtube": "https://youtu.be/tWTsPr2_Ubo?si=2KODgvJeu4gNZxQB&t=948",
+      "vk": "https://vkvideo.ru/video-226486590_456239256?t=15m49s"
+    },
+    "fluent-react-10-7": {
+      "youtube": "https://youtu.be/tWTsPr2_Ubo?si=rSamxTlegb8Y7XR1&t=1606",
+      "vk": "https://vkvideo.ru/video-226486590_456239256?t=26m46s"
+    },
+    "fluent-react-10-8": {
+      "youtube": "https://youtu.be/tWTsPr2_Ubo?si=dXUft47ELXMohp1z&t=2178",
+      "vk": "https://vkvideo.ru/video-226486590_456239256?t=36m18s"
+    }
+  },
   "stream": 116,
   "call_url": "https://meet.google.com/tpe-fihz-hua",
   "finished": true
