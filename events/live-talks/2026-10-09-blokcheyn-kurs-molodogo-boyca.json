@@ -5,7 +5,10 @@
   "date": "2026-10-09",
   "time": "18:00",
   "timezone": "Europe/Moscow",
-  "streams": {},
+  "streams": {
+    "youtube": "https://www.youtube.com/live/jAkFsEj9v_M?si=1zeyOIyXf_wAUNR_",
+    "vk": "https://vkvideo.ru/live-226486590_456239257"
+  },
   "talks": [],
   "program": [
     {
@@ -29,5 +32,6 @@
     "mastering-blockchain-1-5",
     "mastering-blockchain-1-4"
   ],
-  "stream": 119
+  "stream": 119,
+  "call_url": "https://meet.google.com/uvo-eavy-adk"
 }
