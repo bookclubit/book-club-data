@@ -13,7 +13,7 @@ settings.json                     # настройки клуба: active_book (
 scripts/build-index.mjs           # генератор index.json (Node 20+, без зависимостей); режим --check
 books/<slug>/
   meta.json                       # id, title, авторы [{id, name, avatar, url}], cover, tags, status, total_chapters, code (для генератора презентаций talks: DOCKER, REACT)
-  flashcards.json                 # колода карточек книги (ANKI), пополняется по главам: [{id, type: qa|command, question+answer | command+result, example (НЕОБЯЗАТЕЛЕН — пример под ответом), chapter, difficulty}]
+  flashcards.json                 # колода карточек книги (ANKI), пополняется по главам: [{id, type: qa|command, question+answer | command+result, example (НЕОБЯЗАТЕЛЕН — пример под ответом), example_kind (НЕОБЯЗАТЕЛЕН: "note" — в example пояснение, miniapp прячет его под кнопкой «Объяснение»; без поля — пример кода, виден сразу), chapter, difficulty}]
   chapters/<NN-slug>/
     chapter.json                  # глава целиком: order, title, topics[{id, title, talk_group (НЕОБЯЗАТЕЛЕН: несколько тем = один доклад, значение — id ведущей темы группы), speakers[], video_youtube, video_vk, presentation, resources[]}]; описания главы и learning_outcome нет (июль 2026: главное в главе — темы, отдельной страницы у неё в miniapp больше нет)
 events/
