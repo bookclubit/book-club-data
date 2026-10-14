@@ -5,7 +5,10 @@
   "date": "2026-10-23",
   "time": "18:00",
   "timezone": "Europe/Moscow",
-  "streams": {},
+  "streams": {
+    "youtube": "https://www.youtube.com/watch?v=9rfNEX7gjdE",
+    "vk": "https://vkvideo.ru/live-226486590_456239259"
+  },
   "talks": [],
   "program": [
     {
@@ -27,5 +30,6 @@
     "ai-engineering-2-3",
     "ai-engineering-2-4"
   ],
-  "stream": 120
+  "stream": 120,
+  "call_url": "https://meet.google.com/wci-aeac-ndn"
 }
