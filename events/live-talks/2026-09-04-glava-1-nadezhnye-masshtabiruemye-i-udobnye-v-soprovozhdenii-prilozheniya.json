@@ -30,6 +30,24 @@
     "designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-1-3",
     "designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-1-4"
   ],
+  "recordings": {
+    "designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-1-1": {
+      "youtube": "https://youtu.be/cHu0c1e6Fxo?si=NMViepGqBEat_f7b",
+      "vk": "https://vkvideo.ru/video-226486590_456239258"
+    },
+    "designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-1-2": {
+      "youtube": "https://youtu.be/cHu0c1e6Fxo?si=zVTPDf02-WkMRnXX&t=521",
+      "vk": "https://vkvideo.ru/video-226486590_456239258?t=8m41s"
+    },
+    "designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-1-3": {
+      "youtube": "https://youtu.be/cHu0c1e6Fxo?si=72k3al4ltSgL1FHY&t=2115",
+      "vk": "https://vkvideo.ru/video-226486590_456239258?t=35m13s"
+    },
+    "designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-1-4": {
+      "youtube": "https://youtu.be/cHu0c1e6Fxo?si=R-12Nze8XLFd4NuE&t=2807",
+      "vk": "https://vkvideo.ru/video-226486590_456239258?t=46m46s"
+    }
+  },
   "stream": 117,
   "call_url": "https://meet.google.com/ohm-wtks-eui"
 }
