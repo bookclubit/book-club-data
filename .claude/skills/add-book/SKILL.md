@@ -39,7 +39,7 @@ description: Добавить новую книгу в клуб — создат
      "total_chapters": 0
    }
    ```
-   `id` — короткий kebab-case идентификатор книги (используется в событиях и id карточек).
+   `id` — короткий kebab-case идентификатор книги (используется в событиях).
 3. Обложка → `media/covers/<book-id>.webp`:
    - O'Reilly: `https://www.oreilly.com/covers/urn:orm:book:<ISBN>/296w/?format=webp` (обязательно полный `User-Agent` и `Referer: https://www.oreilly.com/`, иначе Akamai отдаёт Access Denied).
    - Любой источник → конвертируй в WebP (см. «Конвертация изображений»), сохраняя пропорции обложки (без кропа).
@@ -68,4 +68,4 @@ node -e "require('sharp')('IN').resize({width:400,withoutEnlargement:true}).webp
 
 ## Связанные скиллы
 
-После книги: `add-chapter` (глава вместе с темами), `add-flashcards`.
+После книги: `add-chapter` (глава вместе с темами).
