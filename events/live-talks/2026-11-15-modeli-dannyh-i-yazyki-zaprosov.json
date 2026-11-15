@@ -28,6 +28,21 @@
     "designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-2-2",
     "designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-2-3"
   ],
+  "recordings": {
+    "designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-2-1": {
+      "youtube": "https://youtu.be/pUFF-nGRqR8?si=ZB4gfD3R5az4AOzz",
+      "vk": "https://vk.ru/video-226486590_456239266"
+    },
+    "designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-2-2": {
+      "youtube": "https://youtu.be/pUFF-nGRqR8?si=Q7l2sh73R8gOTTRv&t=1138",
+      "vk": "https://vk.ru/video-226486590_456239266?t=18m58s"
+    },
+    "designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-2-3": {
+      "youtube": "https://youtu.be/pUFF-nGRqR8?si=FzTsUwSQHiCdal63&t=1451",
+      "vk": "https://vk.ru/video-226486590_456239266?t=24m10s"
+    }
+  },
   "stream": 121,
-  "call_url": "https://meet.google.com/umj-waim-skk"
+  "call_url": "https://meet.google.com/umj-waim-skk",
+  "finished": true
 }
